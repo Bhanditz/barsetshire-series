@@ -1,0 +1,39 @@
+#main {
+	width: 100%;
+	}
+
+#vis {
+	position: relative;
+	width: 75%;
+	}
+
+.topicbin {
+	width: 100%;
+	height: 80px;
+	background-color: gray;
+	float: bottom;
+	margin-bottom: 10px;
+	}
+
+.bookbin {
+	position:relative;
+	/*width: 25%;*/
+	height: 100%;
+	left:20%;
+	float:left;
+	margin-right:5px;
+	background-color:lightgrey;
+	}
+	
+.booksvg {
+	width: 100%;
+	height: 100%;
+}
+
+	
+.topiclabel {
+	position:relative;
+	top: 50%;
+	left:0%;
+	}
+	
