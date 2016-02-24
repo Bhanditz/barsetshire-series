@@ -11,18 +11,30 @@ function draw(){
 					.attr("class","topicbin")
 					;	
 		
+		var names=	bins.append("div").attr("class","namebin");
+					
+		var series=	bins.append("div").attr("class","seriesbin");
+		
 		var catscale=d3.scale.category10();
 					
-		var topicgrp = bins.append("g")
+		var topicgrp = series.append("g")
 						.style("fill",function(d,i){
 							return catscale(i);
 						})
 						;
 						
 					
-		var binwidth=$(".topicbin").width();
-		var binheight=$(".topicbin").height();
-		var squarelength= Math.sqrt((binwidth*.45)*binheight/16.0);
+		var binwidth=$(".topicbin").width()
+			binheight=$(".topicbin").height()
+			namewidth=.05
+			seriesright=.05
+			allchapters=319.0
+			;
+			
+		$(".seriesbin").width(binwidth*(1-namewidth));
+		
+		var cellwidth= ($(".seriesbin").width()/allchapters)*.97;
+		
 		
 		var books = topicgrp.selectAll(".books")
 					.data(function(d){return d.books;})
@@ -30,7 +42,7 @@ function draw(){
 					.append("div")
 					.attr("class","bookbin")
 					.style("width",function(d){ 
-						return squarelength*d.b[0].nochap +"px";})
+						return cellwidth*d.totalchap +"px";})
 					;
 					
 		var booksvg=books.append("svg")
@@ -41,27 +53,37 @@ function draw(){
 		var chapters = booksvg.selectAll(".chapter")
 						.data(function(d){return d.b;})
 						.enter().append("g")
-						.attr("class",function(d){return d.chap;})
+						.attr("class",function(d){return d.chap+" name";})
 						.attr("transform",function(d,i){
-							var xcoor = squarelength*i
+							var xcoor = cellwidth*i
 								ycoor =	binheight/4.0;
 							return "translate(" + xcoor +"," + ycoor + ")";
 						})
 						;		
 		
 		chapters.append("rect").attr("class","chaprect")
-			.attr("x",function(d,i){return i;})
+			//.attr("x",function(d,i){return i;})
 			.attr("y",0)
-			.attr("width",squarelength)
-			.attr("height",squarelength)
+			.attr("width",cellwidth)
+			.attr("height",binheight/2)
 			.style("opacity",function(d){return d.val;})
+			.on("mouseover",function(d){ 
+				d3.select("p")
+					.append("text")
+					.text("chapter" + d.chap)
+					;
+			})
+			.on("mouseout", function(d){
+				d3.select("p text").remove()
+				;
+			})
 			;
 						
 		
 		
 		var b1scale= d3.scale.linear()
-						.domain([1,3])
-						.range([0,bookwidth/3.0])
+						.domain([1,6])
+						.range([0,bookwidth/6.0])
 						
 		/*bins.append("text")
 			.text(function(d){return d.topic;})
@@ -70,16 +92,5 @@ function draw(){
 		*/
 		
 	});
-}
-
-function makeBookScale(nochap){
-	var binwidth1=$(".topicbin").width();
-	
-	bookScale=d3.scale.linear()
-				.domain([0,nochap])
-				.range([0,binwidth1*(2.0/3)])
-				;
-	return bookScale(nochap);
-	
 }
 

@@ -4,7 +4,7 @@
 
 #vis {
 	position: relative;
-	width: 75%;
+	width: 90%;
 	}
 
 .topicbin {
@@ -14,12 +14,23 @@
 	float: bottom;
 	margin-bottom: 10px;
 	}
+	
+.namebin {
+	position:relative;
+	float: left;
+	width: 4%;
+	height: 100%;
+}
+
+.seriesbin {
+	position: relative;
+	float:left;
+	height:100%;
+}
 
 .bookbin {
 	position:relative;
-	/*width: 25%;*/
 	height: 100%;
-	left:20%;
 	float:left;
 	margin-right:5px;
 	background-color:lightgrey;
