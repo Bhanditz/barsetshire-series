@@ -61,18 +61,23 @@ var barsetshireVis={
 										ycoor =	binheight/4.0;
 									return "translate(" + xcoor +"," + ycoor + ")";
 								})
-								;		
+								;
+
+				var opacityScale = d3.scale.linear()
+								.domain([.2,.9])
+								.range([0,1])
+								;
 				
 				chapters.append("rect").attr("class","chaprect")
 					//.attr("x",function(d,i){return i;})
 					.attr("y",0)
 					.attr("width",cellwidth)
 					.attr("height",binheight/2)
-					.style("opacity",function(d){return d.val;})
+					.style("opacity",function(d){return opacityScale(d.val);})
 					.on("mouseover",function(d){ 
 						d3.select("p")
 							.append("text")
-							.text("chapter" + d.chap)
+							.text("chapter" + d.chap + ", freq:" + d.val)
 							;
 					})
 					.on("mouseout", function(d){
