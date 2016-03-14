@@ -3,8 +3,9 @@
 # A grab bag of scripts and ideas of possible use for basic text mining
 # using NLTK
 
-import os, re, nltk, json
 from sys import argv
+import os, re, nltk, json
+
 
     # with open(path_in) as file:
     # text = file.read()
@@ -71,4 +72,4 @@ if __name__ == '__main__':
     # takes two arguments, the filename and the number of most common
     # words
     # get_most_common_combined(argv[1],argv[2])
-    get_most_common_novels(argv[1],argv[2])
+    get_most_common_novels("..\fulltext\Trollope_Warden_Text.txt",500)
