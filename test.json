@@ -1,1 +1,1279 @@
-[{"topic": "gender", "books": [{"totalchap": 21, "b": [{"chap": "Hiram's Hospital", "val": 0.42105263157894735}, {"chap": "The Barchester Reformer", "val": 0.6578947368421053}, {"chap": "The Bishop of Barchester", "val": 0.4473684210526316}, {"chap": "Hiram's Bedesmen", "val": 0.2894736842105263}, {"chap": "Dr Grantly Visits the Hospital", "val": 0.5263157894736842}, {"chap": "The Warden's Tea Party", "val": 0.5789473684210527}, {"chap": "_The Jupiter_", "val": 0.4473684210526316}, {"chap": "Plumstead Episcopi", "val": 0.7894736842105263}, {"chap": "The Conference", "val": 0.39473684210526316}, {"chap": "Tribulation", "val": 0.5263157894736842}, {"chap": "Iphigenia", "val": 0.6052631578947368}, {"chap": "Mr Bold's Visit to Plumstead", "val": 0.5789473684210527}, {"chap": "The Warden's Decision", "val": 0.47368421052631576}, {"chap": "Mount Olympus", "val": 0.3157894736842105}, {"chap": "Tom Towers, Dr Anticant, and Mr Sentiment", "val": 0.42105263157894735}, {"chap": "A Long Day in London", "val": 0.5263157894736842}, {"chap": "Sir Abraham Haphazard", "val": 0.5526315789473685}, {"chap": "The Warden Is Very Obstinate", "val": 0.5789473684210527}, {"chap": "The Warden Resigns", "val": 0.5526315789473685}, {"chap": "Farewell", "val": 0.42105263157894735}, {"chap": "Conclusion", "val": 0.42105263157894735}], "title": "Warden"}, {"totalchap": 53, "b": [{"chap": "Who Will Be the New Bishop?", "val": 0.42105263157894735}, {"chap": "Hiram's Hospital According to Act of Parliament", "val": 0.6578947368421053}, {"chap": "Dr. and Mrs. Proudie", "val": 0.5}, {"chap": "The Bishop's Chaplain", "val": 0.631578947368421}, {"chap": "A Morning Visit", "val": 0.5}, {"chap": "War", "val": 0.39473684210526316}, {"chap": "The Dean and Chapter Take Counsel", "val": 0.3157894736842105}, {"chap": "The Ex-Warden Rejoices in His Probable Return to the Hospital", "val": 0.4473684210526316}, {"chap": "The Stanhope Family", "val": 0.7368421052631579}, {"chap": "Mrs. Proudie's Reception\u2014Commenced", "val": 0.7105263157894737}, {"chap": "Mrs. Proudie's Reception\u2014Concluded", "val": 0.8157894736842105}, {"chap": "Slope versus Harding", "val": 0.3684210526315789}, {"chap": "The Rubbish Cart", "val": 0.6052631578947368}, {"chap": "The New Champion", "val": 0.39473684210526316}, {"chap": "The Widow's Suitors", "val": 0.6842105263157895}, {"chap": "Baby Worship", "val": 0.7368421052631579}, {"chap": "Who Shall Be Cock of the Walk?", "val": 0.6052631578947368}, {"chap": "The Widow's Persecution", "val": 0.5263157894736842}, {"chap": "Barchester by Moonlight", "val": 0.631578947368421}, {"chap": "Mr. Arabin", "val": 0.6052631578947368}, {"chap": "St. Ewold's Parsonage", "val": 0.5526315789473685}, {"chap": "The Thornes of Ullathorne", "val": 0.5789473684210527}, {"chap": "Mr. Arabin Reads Himself in at St. Ewold's", "val": 0.47368421052631576}, {"chap": "Mr. Slope Manages Matters Very Cleverly at Puddingdale", "val": 0.6578947368421053}, {"chap": "Fourteen Arguments in Favour of Mr. Quiverful's Claims", "val": 0.5789473684210527}, {"chap": "Mrs. Proudie Wrestles and Gets a Fall", "val": 0.5526315789473685}, {"chap": "A Love Scene", "val": 0.7368421052631579}, {"chap": "Mrs. Bold is Entertained by Dr. and Mrs. Grantly at Plumstead", "val": 0.7105263157894737}, {"chap": "A Serious Interview", "val": 0.6578947368421053}, {"chap": "Another Love Scene", "val": 0.5789473684210527}, {"chap": "The Bishop's Library", "val": 0.3684210526315789}, {"chap": "A New Candidate for Ecclesiastical Honours", "val": 0.42105263157894735}, {"chap": "Mrs. Proudie Victrix", "val": 0.7105263157894737}, {"chap": "Oxford\u2014The Master and Tutor of Lazarus", "val": 0.47368421052631576}, {"chap": "Miss Thorne's F\u00eate Champ\u00eatre", "val": 0.5526315789473685}, {"chap": "Ullathorne Sports\u2014Act I", "val": 0.7105263157894737}, {"chap": "The Signora Neroni, the Countess De Courcy,", "val": 0.7105263157894737}, {"chap": "The Bishop Sits Down to Breakfast, and the Dean Dies", "val": 0.631578947368421}, {"chap": "The Lookalofts and the Greenacres", "val": 0.5263157894736842}, {"chap": "Ullathorne Sports\u2014Act II", "val": 0.5526315789473685}, {"chap": "Mrs. Bold Confides Her Sorrow to Her Friend Miss Stanhope", "val": 0.5}, {"chap": "Ullathorne Sports\u2014Act III", "val": 0.7105263157894737}, {"chap": "Mr. and Mrs. Quiverful Are Made Happy.", "val": 0.5789473684210527}, {"chap": "Mrs. Bold at Home", "val": 0.6842105263157895}, {"chap": "The Stanhopes at Home", "val": 0.7105263157894737}, {"chap": "Mr. Slope's Parting Interview with the Signora", "val": 0.7368421052631579}, {"chap": "The Dean Elect", "val": 0.631578947368421}, {"chap": "Miss Thorne Shows Her Talent at Match-Making", "val": 0.6842105263157895}, {"chap": "The Beelzebub Colt", "val": 0.5789473684210527}, {"chap": "The Archdeacon Is Satisfied with the State of Affairs", "val": 0.5526315789473685}, {"chap": "Mr. Slope Bids Farewell to the Palace and Its Inhabitants", "val": 0.5526315789473685}, {"chap": "The New Dean Takes Possession of the Deanery,\u2028and the New Warden of the Hospital\u2028", "val": 0.5}, {"chap": "Conclusion", "val": 0.4473684210526316}], "title": "Barchester_Towers"}, {"totalchap": 47, "b": [{"chap": "The Greshams of Greshamsbury", "val": 0.8157894736842105}, {"chap": "Long, Long Ago", "val": 0.8421052631578947}, {"chap": "Dr Thorne", "val": 0.7631578947368421}, {"chap": "Lessons from Courcy Castle", "val": 0.7894736842105263}, {"chap": "Frank Gresham's First Speech", "val": 0.7105263157894737}, {"chap": "Frank Gresham's Early Loves", "val": 0.8421052631578947}, {"chap": "The Doctor's Garden", "val": 0.7894736842105263}, {"chap": "Matrimonial Prospects", "val": 0.7368421052631579}, {"chap": "Sir Roger Scatcherd", "val": 0.4473684210526316}, {"chap": "Sir Roger's Will", "val": 0.7105263157894737}, {"chap": "The Doctor Drinks His Tea", "val": 0.47368421052631576}, {"chap": "When Greek Meets Greek, Then Comes the Tug of War", "val": 0.47368421052631576}, {"chap": "The Two Uncles", "val": 0.5789473684210527}, {"chap": "Sentence of Exile", "val": 0.8157894736842105}, {"chap": "Courcy", "val": 0.5789473684210527}, {"chap": "Miss Dunstable", "val": 0.5}, {"chap": "The Election", "val": 0.42105263157894735}, {"chap": "The Rivals", "val": 0.6578947368421053}, {"chap": "The Duke of Omnium", "val": 0.23684210526315788}, {"chap": "The Proposal", "val": 0.3684210526315789}, {"chap": "Mr Moffat Falls into Trouble", "val": 0.8157894736842105}, {"chap": "Sir Roger Is Unseated", "val": 0.5263157894736842}, {"chap": "Retrospective", "val": 0.7631578947368421}, {"chap": "Louis Scatcherd", "val": 0.6842105263157895}, {"chap": "Sir Roger Dies", "val": 0.7368421052631579}, {"chap": "War", "val": 0.8157894736842105}, {"chap": "Miss Thorne Goes on a Visit", "val": 0.7894736842105263}, {"chap": "The Doctor Hears Something to His Advantage", "val": 0.631578947368421}, {"chap": "The Donkey Ride", "val": 0.6842105263157895}, {"chap": "Post Prandial", "val": 0.6842105263157895}, {"chap": "The Small End of the Wedge", "val": 0.7105263157894737}, {"chap": "Mr Oriel", "val": 0.7631578947368421}, {"chap": "A Morning Visit", "val": 0.6578947368421053}, {"chap": "A Barouche and Four Arrives at Greshamsbury", "val": 0.631578947368421}, {"chap": "Sir Louis Goes Out to Dinner", "val": 0.6842105263157895}, {"chap": "Will He Come Again?", "val": 0.5263157894736842}, {"chap": "Sir Louis Leaves Greshamsbury", "val": 0.5263157894736842}, {"chap": "De Courcy Precepts and de Courcy Practice", "val": 0.7631578947368421}, {"chap": "What the World Says about Blood", "val": 0.6578947368421053}, {"chap": "The Two Doctors Change Patients", "val": 0.5789473684210527}, {"chap": "Doctor Thorne Won't Interfere", "val": 0.7105263157894737}, {"chap": "What Can You Give in Return?", "val": 0.6842105263157895}, {"chap": "The Race of Scatcherd Becomes Extinct", "val": 0.6578947368421053}, {"chap": "Saturday Evening and Sunday Morning", "val": 0.7894736842105263}, {"chap": "Law Business in London", "val": 0.631578947368421}, {"chap": "Our Pet Fox Finds a Tail", "val": 0.631578947368421}, {"chap": "How the Bride Was Received, and Who Were Asked to the Wedding", "val": 0.8421052631578947}], "title": "Doctor_Thorne"}, {"totalchap": 48, "b": [{"chap": "OMNES OMNIA BONA DICERE.", "val": 0.7368421052631579}, {"chap": "THE FRAMLEY SET, AND THE CHALDICOTES SET.", "val": 0.7631578947368421}, {"chap": "CHALDICOTES.", "val": 0.5526315789473685}, {"chap": "A MATTER OF CONSCIENCE.", "val": 0.5}, {"chap": "AMANTIUM IR\u00c6 AMORIS INTEGRATIO.", "val": 0.631578947368421}, {"chap": "MR. HAROLD SMITH'S LECTURE.", "val": 0.5789473684210527}, {"chap": "SUNDAY MORNING.", "val": 0.5263157894736842}, {"chap": "GATHERUM CASTLE.", "val": 0.7105263157894737}, {"chap": "THE VICAR'S RETURN.", "val": 0.5263157894736842}, {"chap": "LUCY ROBARTS.", "val": 0.7894736842105263}, {"chap": "GRISELDA GRANTLY.", "val": 0.7631578947368421}, {"chap": "THE LITTLE BILL.", "val": 0.47368421052631576}, {"chap": "DELICATE HINTS.", "val": 0.5526315789473685}, {"chap": "MR. CRAWLEY OF HOGGLESTOCK.", "val": 0.6052631578947368}, {"chap": "LADY LUFTON'S AMBASSADOR.", "val": 0.5789473684210527}, {"chap": "MRS. PODGENS' BABY.", "val": 0.6052631578947368}, {"chap": "MRS. PROUDIE'S CONVERSAZIONE.", "val": 0.5}, {"chap": "THE NEW MINISTER'S PATRONAGE.", "val": 0.42105263157894735}, {"chap": "MONEY DEALINGS.", "val": 0.39473684210526316}, {"chap": "HAROLD SMITH IN THE CABINET.", "val": 0.5}, {"chap": "WHY PUCK, THE PONY, WAS BEATEN.", "val": 0.7368421052631579}, {"chap": "HOGGLESTOCK PARSONAGE.", "val": 0.7105263157894737}, {"chap": "THE TRIUMPH OF THE GIANTS.", "val": 0.6052631578947368}, {"chap": "MAGNA EST VERITAS.", "val": 0.5789473684210527}, {"chap": "NON-IMPULSIVE.", "val": 0.6578947368421053}, {"chap": "IMPULSIVE.", "val": 0.6578947368421053}, {"chap": "SOUTH AUDLEY STREET.", "val": 0.39473684210526316}, {"chap": "DR. THORNE.", "val": 0.6052631578947368}, {"chap": "MISS DUNSTABLE AT HOME.", "val": 0.6578947368421053}, {"chap": "THE GRANTLY TRIUMPH.", "val": 0.5}, {"chap": "SALMON FISHING IN NORWAY.", "val": 0.7631578947368421}, {"chap": "THE GOAT AND COMPASSES.", "val": 0.5263157894736842}, {"chap": "CONSOLATION.", "val": 0.47368421052631576}, {"chap": "LADY LUFTON IS TAKEN BY SURPRISE.", "val": 0.7894736842105263}, {"chap": "THE STORY OF KING COPHETUA.", "val": 0.631578947368421}, {"chap": "KIDNAPPING AT HOGGLESTOCK.", "val": 0.631578947368421}, {"chap": "MR. SOWERBY WITHOUT COMPANY.", "val": 0.47368421052631576}, {"chap": "IS THERE CAUSE OR JUST IMPEDIMENT?", "val": 0.5789473684210527}, {"chap": "HOW TO WRITE A LOVE LETTER.", "val": 0.6578947368421053}, {"chap": "INTERNECINE.", "val": 0.7368421052631579}, {"chap": "DON QUIXOTE.", "val": 0.631578947368421}, {"chap": "TOUCHING PITCH.", "val": 0.4473684210526316}, {"chap": "IS SHE NOT INSIGNIFICANT?", "val": 0.7368421052631579}, {"chap": "THE PHILISTINES AT THE PARSONAGE.", "val": 0.6052631578947368}, {"chap": "PALACE BLESSINGS.", "val": 0.6578947368421053}, {"chap": "LADY LUFTON'S REQUEST.", "val": 0.5263157894736842}, {"chap": "NEMESIS.", "val": 0.5}, {"chap": "HOW THEY WERE ALL MARRIED, HAD TWO CHILDREN, AND LIVED HAPPY EVER AFTER.", "val": 0.7368421052631579}], "title": "Framley_Parsonage"}, {"totalchap": 60, "b": [{"chap": "THE SQUIRE OF ALLINGTON.", "val": 0.47368421052631576}, {"chap": "THE TWO PEARLS OF ALLINGTON.", "val": 0.6578947368421053}, {"chap": "THE WIDOW DALE OF ALLINGTON.", "val": 0.7631578947368421}, {"chap": "MRS. ROPER'S BOARDING-HOUSE.", "val": 0.7368421052631579}, {"chap": "ABOUT L. D.", "val": 0.6052631578947368}, {"chap": "BEAUTIFUL DAYS.", "val": 0.7631578947368421}, {"chap": "THE BEGINNING OF TROUBLES.", "val": 0.6052631578947368}, {"chap": "IT CANNOT BE.", "val": 0.5789473684210527}, {"chap": "MRS. DALE'S LITTLE PARTY.", "val": 0.7105263157894737}, {"chap": "MRS. LUPEX AND AMELIA ROPER.", "val": 0.5789473684210527}, {"chap": "SOCIAL LIFE.", "val": 0.631578947368421}, {"chap": "LILIAN DALE BECOMES A BUTTERFLY.", "val": 0.7105263157894737}, {"chap": "A VISIT TO GUESTWICK.", "val": 0.7368421052631579}, {"chap": "JOHN EAMES TAKES A WALK.", "val": 0.5}, {"chap": "THE LAST DAY.", "val": 0.5789473684210527}, {"chap": "MR. CROSBIE MEETS AN OLD CLERGYMAN ON HIS WAY TO COURCY CASTLE.", "val": 0.5789473684210527}, {"chap": "COURCY CASTLE.", "val": 0.7631578947368421}, {"chap": "LILY DALE'S FIRST LOVE-LETTER.", "val": 0.5789473684210527}, {"chap": "THE SQUIRE MAKES A VISIT TO THE SMALL HOUSE.", "val": 0.7105263157894737}, {"chap": "DR. CROFTS.", "val": 0.631578947368421}, {"chap": "JOHN EAMES ENCOUNTERS TWO ADVENTURES, AND DISPLAYS GREAT COURAGE IN", "val": 0.5263157894736842}, {"chap": "LORD DE GUEST AT HOME.", "val": 0.5}, {"chap": "MR. PLANTAGENET PALLISER.", "val": 0.8157894736842105}, {"chap": "A MOTHER-IN-LAW AND A FATHER-IN-LAW.", "val": 0.5263157894736842}, {"chap": "ADOLPHUS CROSBIE SPENDS AN EVENING AT HIS CLUB.", "val": 0.7368421052631579}, {"chap": "LORD DE COURCY IN THE BOSOM OF HIS FAMILY.", "val": 0.7631578947368421}, {"chap": "ON MY HONOUR, I DO NOT UNDERSTAND IT.", "val": 0.7631578947368421}, {"chap": "THE BOARD.", "val": 0.5263157894736842}, {"chap": "JOHN EAMES RETURNS TO BURTON CRESCENT.", "val": 0.7105263157894737}, {"chap": "IS IT FROM HIM?", "val": 0.631578947368421}, {"chap": "THE WOUNDED FAWN.", "val": 0.6842105263157895}, {"chap": "PAWKINS'S IN JERMYN STREET.", "val": 0.631578947368421}, {"chap": "THE TIME WILL COME.", "val": 0.7631578947368421}, {"chap": "THE COMBAT.", "val": 0.42105263157894735}, {"chap": "V\u00c6 VICTIS.", "val": 0.7105263157894737}, {"chap": "SEE, THE CONQUERING HERO COMES.", "val": 0.5263157894736842}, {"chap": "AN OLD MAN'S COMPLAINT.", "val": 0.5526315789473685}, {"chap": "DOCTOR CROFTS IS CALLED IN.", "val": 0.631578947368421}, {"chap": "DR. CROFTS IS TURNED OUT.", "val": 0.631578947368421}, {"chap": "PREPARATIONS FOR THE WEDDING.", "val": 0.7105263157894737}, {"chap": "DOMESTIC TROUBLES.", "val": 0.5789473684210527}, {"chap": "LILY'S BEDSIDE.", "val": 0.5}, {"chap": "FIE, FIE!", "val": 0.7105263157894737}, {"chap": "VALENTINE'S DAY AT ALLINGTON.", "val": 0.5526315789473685}, {"chap": "VALENTINE'S DAY IN LONDON.", "val": 0.7631578947368421}, {"chap": "JOHN EAMES AT HIS OFFICE.", "val": 0.6052631578947368}, {"chap": "THE NEW PRIVATE SECRETARY.", "val": 0.5263157894736842}, {"chap": "NEMESIS.", "val": 0.7631578947368421}, {"chap": "PREPARATIONS FOR GOING.", "val": 0.6578947368421053}, {"chap": "MRS. DALE IS THANKFUL FOR A GOOD THING.", "val": 0.5526315789473685}, {"chap": "JOHN EAMES DOES THINGS WHICH HE OUGHT NOT TO HAVE DONE.", "val": 0.7368421052631579}, {"chap": "THE FIRST VISIT TO THE GUESTWICK BRIDGE.", "val": 0.7105263157894737}, {"chap": "LOQUITUR HOPKINS.", "val": 0.6578947368421053}, {"chap": "THE SECOND VISIT TO THE GUESTWICK BRIDGE.", "val": 0.7105263157894737}, {"chap": "NOT VERY FIE FIE AFTER ALL.", "val": 0.7368421052631579}, {"chap": "SHOWING HOW MR. CROSBIE BECAME AGAIN A HAPPY MAN.", "val": 0.6578947368421053}, {"chap": "LILIAN DALE VANQUISHES HER MOTHER.", "val": 0.6052631578947368}, {"chap": "THE FATE OF THE SMALL HOUSE.", "val": 0.6842105263157895}, {"chap": "JOHN EAMES BECOMES A MAN.", "val": 0.6052631578947368}, {"chap": "CONCLUSION.", "val": 0.5526315789473685}], "title": "Small_House"}, {"totalchap": 84, "b": [{"chap": "HOW DID HE GET IT?", "val": 0.8157894736842105}, {"chap": "BY HEAVENS HE HAD BETTER NOT!", "val": 0.7631578947368421}, {"chap": "THE ARCHDEACON'S THREAT.", "val": 0.7894736842105263}, {"chap": "THE CLERGYMAN'S HOUSE AT HOGGLESTOCK.", "val": 0.6052631578947368}, {"chap": "WHAT THE WORLD THOUGHT ABOUT IT.", "val": 0.7105263157894737}, {"chap": "GRACE CRAWLEY.", "val": 0.5789473684210527}, {"chap": "MISS PRETTYMAN'S PRIVATE ROOM.", "val": 0.7105263157894737}, {"chap": "MR. CRAWLEY IS TAKEN TO SILVERBRIDGE.", "val": 0.631578947368421}, {"chap": "GRACE CRAWLEY GOES TO ALLINGTON.", "val": 0.7631578947368421}, {"chap": "DINNER AT FRAMLEY COURT.", "val": 0.4473684210526316}, {"chap": "THE BISHOP SENDS HIS INHIBITION.", "val": 0.5}, {"chap": "MR. CRAWLEY SEEKS FOR SYMPATHY.", "val": 0.5789473684210527}, {"chap": "THE BISHOP'S ANGEL.", "val": 0.5263157894736842}, {"chap": "MAJOR GRANTLY CONSULTS A FRIEND.", "val": 0.6842105263157895}, {"chap": "UP IN LONDON.", "val": 0.6842105263157895}, {"chap": "DOWN AT ALLINGTON.", "val": 0.8157894736842105}, {"chap": "MR. CRAWLEY IS SUMMONED TO BARCHESTER.", "val": 0.42105263157894735}, {"chap": "THE BISHOP OF BARCHESTER IS CRUSHED.", "val": 0.5526315789473685}, {"chap": "WHERE DID IT COME FROM?", "val": 0.4473684210526316}, {"chap": "WHAT MR. WALKER THOUGHT ABOUT IT.", "val": 0.47368421052631576}, {"chap": "MR. ROBARTS ON HIS EMBASSY.", "val": 0.5263157894736842}, {"chap": "MAJOR GRANTLY AT HOME.", "val": 0.7894736842105263}, {"chap": "MISS LILY DALE'S RESOLUTION.", "val": 0.6052631578947368}, {"chap": "MRS. DOBBS BROUGHTON'S DINNER-PARTY.", "val": 0.7631578947368421}, {"chap": "MISS MADALINA DEMOLINES.", "val": 0.631578947368421}, {"chap": "THE PICTURE.", "val": 0.5789473684210527}, {"chap": "A HERO AT HOME.", "val": 0.6578947368421053}, {"chap": "SHOWING HOW MAJOR GRANTLY TOOK A WALK.", "val": 0.7368421052631579}, {"chap": "MISS LILY DALE'S LOGIC.", "val": 0.5}, {"chap": "SHOWING WHAT MAJOR GRANTLY DID AFTER HIS WALK.", "val": 0.5526315789473685}, {"chap": "SHOWING HOW MAJOR GRANTLY RETURNED TO GUESTWICK.", "val": 0.6052631578947368}, {"chap": "MR. TOOGOOD.", "val": 0.7631578947368421}, {"chap": "THE PLUMSTEAD FOXES.", "val": 0.6052631578947368}, {"chap": "MRS. PROUDIE SENDS FOR HER LAWYER.", "val": 0.47368421052631576}, {"chap": "LILY DALE WRITES TWO WORDS IN HER BOOK.", "val": 0.7894736842105263}, {"chap": "GRACE CRAWLEY RETURNS HOME.", "val": 0.5263157894736842}, {"chap": "HOOK COURT.", "val": 0.39473684210526316}, {"chap": "JAEL.", "val": 0.631578947368421}, {"chap": "A NEW FLIRTATION.", "val": 0.5}, {"chap": "MR. TOOGOOD'S IDEAS ABOUT SOCIETY.", "val": 0.5}, {"chap": "GRACE CRAWLEY AT HOME.", "val": 0.6578947368421053}, {"chap": "MR. TOOGOOD TRAVELS PROFESSIONALLY.", "val": 0.631578947368421}, {"chap": "MR. CROSBIE GOES INTO THE CITY.", "val": 0.42105263157894735}, {"chap": "I SUPPOSE I MUST LET YOU HAVE IT.", "val": 0.5}, {"chap": "LILY DALE GOES TO LONDON.", "val": 0.7105263157894737}, {"chap": "THE BAYSWATER ROMANCE.", "val": 0.6052631578947368}, {"chap": "DR. TEMPEST AT THE PALACE.", "val": 0.6052631578947368}, {"chap": "THE SOFTNESS OF SIR RAFFLE BUFFLE.", "val": 0.34210526315789475}, {"chap": "NEAR THE CLOSE.", "val": 0.8421052631578947}, {"chap": "LADY LUFTON'S PROPOSITION.", "val": 0.5789473684210527}, {"chap": "MRS. DOBBS BROUGHTON PILES HER FAGOTS.", "val": 0.6578947368421053}, {"chap": "WHY DON'T YOU HAVE AN \"IT\" FOR YOURSELF?", "val": 0.7105263157894737}, {"chap": "ROTTEN ROW.", "val": 0.5526315789473685}, {"chap": "THE CLERICAL COMMISSION.", "val": 0.5789473684210527}, {"chap": "FRAMLEY PARSONAGE.", "val": 0.6842105263157895}, {"chap": "THE ARCHDEACON GOES TO FRAMLEY.", "val": 0.7368421052631579}, {"chap": "A DOUBLE PLEDGE.", "val": 0.7631578947368421}, {"chap": "THE CROSS-GRAINEDNESS OF MEN.", "val": 0.7105263157894737}, {"chap": "A LADY PRESENTS HER COMPLIMENTS TO MISS L. D.", "val": 0.631578947368421}, {"chap": "THE END OF JAEL AND SISERA.", "val": 0.631578947368421}, {"chap": "IT'S DOGGED AS DOES IT.", "val": 0.5526315789473685}, {"chap": "MR. CRAWLEY'S LETTER TO THE DEAN.", "val": 0.5789473684210527}, {"chap": "TWO VISITORS TO HOGGLESTOCK.", "val": 0.8421052631578947}, {"chap": "THE TRAGEDY IN HOOK COURT.", "val": 0.5}, {"chap": "MISS VAN SIEVER MAKES HER CHOICE.", "val": 0.6052631578947368}, {"chap": "REQUIESCAT IN PACE.", "val": 0.47368421052631576}, {"chap": "IN MEMORIAM.", "val": 0.631578947368421}, {"chap": "THE OBSTINACY OF MR. CRAWLEY.", "val": 0.5263157894736842}, {"chap": "MR. CRAWLEY'S LAST APPEARANCE IN HIS OWN PULPIT.", "val": 0.39473684210526316}, {"chap": "MRS. ARABIN IS CAUGHT.", "val": 0.6842105263157895}, {"chap": "MR. TOOGOOD AT SILVERBRIDGE.", "val": 0.5526315789473685}, {"chap": "MR. TOOGOOD AT THE DRAGON OF WANTLY.", "val": 0.34210526315789475}, {"chap": "THERE IS COMFORT AT PLUMSTEAD.", "val": 0.47368421052631576}, {"chap": "THE CRAWLEYS ARE INFORMED.", "val": 0.6842105263157895}, {"chap": "MADALINA'S HEART IS BLEEDING.", "val": 0.631578947368421}, {"chap": "I THINK HE IS LIGHT OF HEART.", "val": 0.6052631578947368}, {"chap": "THE SHATTERED TREE.", "val": 0.5}, {"chap": "THE ARABINS RETURN TO BARCHESTER.", "val": 0.7368421052631579}, {"chap": "MR. CRAWLEY SPEAKS OF HIS COAT.", "val": 0.5}, {"chap": "MISS DEMOLINES DESIRES TO BECOME A FINGER-POST.", "val": 0.6842105263157895}, {"chap": "BARCHESTER CLOISTERS.", "val": 0.47368421052631576}, {"chap": "THE LAST SCENE AT HOGGLESTOCK.", "val": 0.6842105263157895}, {"chap": "MR. CRAWLEY IS CONQUERED.", "val": 0.6052631578947368}, {"chap": "CONCLUSION.", "val": 0.5526315789473685}], "title": "Last_Chronicle"}]}]
+[{
+	"topic": "gender",
+	"books": [{
+		"totalchap": 21,
+		"b": [{
+			"chap": "Hiram's Hospital",
+			"val": 0.42105263157894735
+		},
+		{
+			"chap": "The Barchester Reformer",
+			"val": 0.6578947368421053
+		},
+		{
+			"chap": "The Bishop of Barchester",
+			"val": 0.4473684210526316
+		},
+		{
+			"chap": "Hiram's Bedesmen",
+			"val": 0.2894736842105263
+		},
+		{
+			"chap": "Dr Grantly Visits the Hospital",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "The Warden's Tea Party",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "_The Jupiter_",
+			"val": 0.4473684210526316
+		},
+		{
+			"chap": "Plumstead Episcopi",
+			"val": 0.7894736842105263
+		},
+		{
+			"chap": "The Conference",
+			"val": 0.39473684210526316
+		},
+		{
+			"chap": "Tribulation",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "Iphigenia",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "Mr Bold's Visit to Plumstead",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "The Warden's Decision",
+			"val": 0.47368421052631576
+		},
+		{
+			"chap": "Mount Olympus",
+			"val": 0.3157894736842105
+		},
+		{
+			"chap": "Tom Towers, Dr Anticant, and Mr Sentiment",
+			"val": 0.42105263157894735
+		},
+		{
+			"chap": "A Long Day in London",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "Sir Abraham Haphazard",
+			"val": 0.5526315789473685
+		},
+		{
+			"chap": "The Warden Is Very Obstinate",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "The Warden Resigns",
+			"val": 0.5526315789473685
+		},
+		{
+			"chap": "Farewell",
+			"val": 0.42105263157894735
+		},
+		{
+			"chap": "Conclusion",
+			"val": 0.42105263157894735
+		}],
+		"title": "Warden"
+	},
+	{
+		"totalchap": 53,
+		"b": [{
+			"chap": "Who Will Be the New Bishop?",
+			"val": 0.42105263157894735
+		},
+		{
+			"chap": "Hiram's Hospital According to Act of Parliament",
+			"val": 0.6578947368421053
+		},
+		{
+			"chap": "Dr. and Mrs. Proudie",
+			"val": 0.5
+		},
+		{
+			"chap": "The Bishop's Chaplain",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "A Morning Visit",
+			"val": 0.5
+		},
+		{
+			"chap": "War",
+			"val": 0.39473684210526316
+		},
+		{
+			"chap": "The Dean and Chapter Take Counsel",
+			"val": 0.3157894736842105
+		},
+		{
+			"chap": "The Ex-Warden Rejoices in His Probable Return to the Hospital",
+			"val": 0.4473684210526316
+		},
+		{
+			"chap": "The Stanhope Family",
+			"val": 0.7368421052631579
+		},
+		{
+			"chap": "Mrs. Proudie's Reception\u2014Commenced",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "Mrs. Proudie's Reception\u2014Concluded",
+			"val": 0.8157894736842105
+		},
+		{
+			"chap": "Slope versus Harding",
+			"val": 0.3684210526315789
+		},
+		{
+			"chap": "The Rubbish Cart",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "The New Champion",
+			"val": 0.39473684210526316
+		},
+		{
+			"chap": "The Widow's Suitors",
+			"val": 0.6842105263157895
+		},
+		{
+			"chap": "Baby Worship",
+			"val": 0.7368421052631579
+		},
+		{
+			"chap": "Who Shall Be Cock of the Walk?",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "The Widow's Persecution",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "Barchester by Moonlight",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "Mr. Arabin",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "St. Ewold's Parsonage",
+			"val": 0.5526315789473685
+		},
+		{
+			"chap": "The Thornes of Ullathorne",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "Mr. Arabin Reads Himself in at St. Ewold's",
+			"val": 0.47368421052631576
+		},
+		{
+			"chap": "Mr. Slope Manages Matters Very Cleverly at Puddingdale",
+			"val": 0.6578947368421053
+		},
+		{
+			"chap": "Fourteen Arguments in Favour of Mr. Quiverful's Claims",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "Mrs. Proudie Wrestles and Gets a Fall",
+			"val": 0.5526315789473685
+		},
+		{
+			"chap": "A Love Scene",
+			"val": 0.7368421052631579
+		},
+		{
+			"chap": "Mrs. Bold is Entertained by Dr. and Mrs. Grantly at Plumstead",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "A Serious Interview",
+			"val": 0.6578947368421053
+		},
+		{
+			"chap": "Another Love Scene",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "The Bishop's Library",
+			"val": 0.3684210526315789
+		},
+		{
+			"chap": "A New Candidate for Ecclesiastical Honours",
+			"val": 0.42105263157894735
+		},
+		{
+			"chap": "Mrs. Proudie Victrix",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "Oxford\u2014The Master and Tutor of Lazarus",
+			"val": 0.47368421052631576
+		},
+		{
+			"chap": "Miss Thorne's F\u00eate Champ\u00eatre",
+			"val": 0.5526315789473685
+		},
+		{
+			"chap": "Ullathorne Sports\u2014Act I",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "The Signora Neroni, the Countess De Courcy,",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "The Bishop Sits Down to Breakfast, and the Dean Dies",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "The Lookalofts and the Greenacres",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "Ullathorne Sports\u2014Act II",
+			"val": 0.5526315789473685
+		},
+		{
+			"chap": "Mrs. Bold Confides Her Sorrow to Her Friend Miss Stanhope",
+			"val": 0.5
+		},
+		{
+			"chap": "Ullathorne Sports\u2014Act III",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "Mr. and Mrs. Quiverful Are Made Happy.",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "Mrs. Bold at Home",
+			"val": 0.6842105263157895
+		},
+		{
+			"chap": "The Stanhopes at Home",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "Mr. Slope's Parting Interview with the Signora",
+			"val": 0.7368421052631579
+		},
+		{
+			"chap": "The Dean Elect",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "Miss Thorne Shows Her Talent at Match-Making",
+			"val": 0.6842105263157895
+		},
+		{
+			"chap": "The Beelzebub Colt",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "The Archdeacon Is Satisfied with the State of Affairs",
+			"val": 0.5526315789473685
+		},
+		{
+			"chap": "Mr. Slope Bids Farewell to the Palace and Its Inhabitants",
+			"val": 0.5526315789473685
+		},
+		{
+			"chap": "The New Dean Takes Possession of the Deanery,\u2028and the New Warden of the Hospital\u2028",
+			"val": 0.5
+		},
+		{
+			"chap": "Conclusion",
+			"val": 0.4473684210526316
+		}],
+		"title": "Barchester_Towers"
+	},
+	{
+		"totalchap": 47,
+		"b": [{
+			"chap": "The Greshams of Greshamsbury",
+			"val": 0.8157894736842105
+		},
+		{
+			"chap": "Long, Long Ago",
+			"val": 0.8421052631578947
+		},
+		{
+			"chap": "Dr Thorne",
+			"val": 0.7631578947368421
+		},
+		{
+			"chap": "Lessons from Courcy Castle",
+			"val": 0.7894736842105263
+		},
+		{
+			"chap": "Frank Gresham's First Speech",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "Frank Gresham's Early Loves",
+			"val": 0.8421052631578947
+		},
+		{
+			"chap": "The Doctor's Garden",
+			"val": 0.7894736842105263
+		},
+		{
+			"chap": "Matrimonial Prospects",
+			"val": 0.7368421052631579
+		},
+		{
+			"chap": "Sir Roger Scatcherd",
+			"val": 0.4473684210526316
+		},
+		{
+			"chap": "Sir Roger's Will",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "The Doctor Drinks His Tea",
+			"val": 0.47368421052631576
+		},
+		{
+			"chap": "When Greek Meets Greek, Then Comes the Tug of War",
+			"val": 0.47368421052631576
+		},
+		{
+			"chap": "The Two Uncles",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "Sentence of Exile",
+			"val": 0.8157894736842105
+		},
+		{
+			"chap": "Courcy",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "Miss Dunstable",
+			"val": 0.5
+		},
+		{
+			"chap": "The Election",
+			"val": 0.42105263157894735
+		},
+		{
+			"chap": "The Rivals",
+			"val": 0.6578947368421053
+		},
+		{
+			"chap": "The Duke of Omnium",
+			"val": 0.23684210526315788
+		},
+		{
+			"chap": "The Proposal",
+			"val": 0.3684210526315789
+		},
+		{
+			"chap": "Mr Moffat Falls into Trouble",
+			"val": 0.8157894736842105
+		},
+		{
+			"chap": "Sir Roger Is Unseated",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "Retrospective",
+			"val": 0.7631578947368421
+		},
+		{
+			"chap": "Louis Scatcherd",
+			"val": 0.6842105263157895
+		},
+		{
+			"chap": "Sir Roger Dies",
+			"val": 0.7368421052631579
+		},
+		{
+			"chap": "War",
+			"val": 0.8157894736842105
+		},
+		{
+			"chap": "Miss Thorne Goes on a Visit",
+			"val": 0.7894736842105263
+		},
+		{
+			"chap": "The Doctor Hears Something to His Advantage",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "The Donkey Ride",
+			"val": 0.6842105263157895
+		},
+		{
+			"chap": "Post Prandial",
+			"val": 0.6842105263157895
+		},
+		{
+			"chap": "The Small End of the Wedge",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "Mr Oriel",
+			"val": 0.7631578947368421
+		},
+		{
+			"chap": "A Morning Visit",
+			"val": 0.6578947368421053
+		},
+		{
+			"chap": "A Barouche and Four Arrives at Greshamsbury",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "Sir Louis Goes Out to Dinner",
+			"val": 0.6842105263157895
+		},
+		{
+			"chap": "Will He Come Again?",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "Sir Louis Leaves Greshamsbury",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "De Courcy Precepts and de Courcy Practice",
+			"val": 0.7631578947368421
+		},
+		{
+			"chap": "What the World Says about Blood",
+			"val": 0.6578947368421053
+		},
+		{
+			"chap": "The Two Doctors Change Patients",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "Doctor Thorne Won't Interfere",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "What Can You Give in Return?",
+			"val": 0.6842105263157895
+		},
+		{
+			"chap": "The Race of Scatcherd Becomes Extinct",
+			"val": 0.6578947368421053
+		},
+		{
+			"chap": "Saturday Evening and Sunday Morning",
+			"val": 0.7894736842105263
+		},
+		{
+			"chap": "Law Business in London",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "Our Pet Fox Finds a Tail",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "How the Bride Was Received, and Who Were Asked to the Wedding",
+			"val": 0.8421052631578947
+		}],
+		"title": "Doctor_Thorne"
+	},
+	{
+		"totalchap": 48,
+		"b": [{
+			"chap": "OMNES OMNIA BONA DICERE.",
+			"val": 0.7368421052631579
+		},
+		{
+			"chap": "THE FRAMLEY SET, AND THE CHALDICOTES SET.",
+			"val": 0.7631578947368421
+		},
+		{
+			"chap": "CHALDICOTES.",
+			"val": 0.5526315789473685
+		},
+		{
+			"chap": "A MATTER OF CONSCIENCE.",
+			"val": 0.5
+		},
+		{
+			"chap": "AMANTIUM IR\u00c6 AMORIS INTEGRATIO.",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "MR. HAROLD SMITH'S LECTURE.",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "SUNDAY MORNING.",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "GATHERUM CASTLE.",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "THE VICAR'S RETURN.",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "LUCY ROBARTS.",
+			"val": 0.7894736842105263
+		},
+		{
+			"chap": "GRISELDA GRANTLY.",
+			"val": 0.7631578947368421
+		},
+		{
+			"chap": "THE LITTLE BILL.",
+			"val": 0.47368421052631576
+		},
+		{
+			"chap": "DELICATE HINTS.",
+			"val": 0.5526315789473685
+		},
+		{
+			"chap": "MR. CRAWLEY OF HOGGLESTOCK.",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "LADY LUFTON'S AMBASSADOR.",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "MRS. PODGENS' BABY.",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "MRS. PROUDIE'S CONVERSAZIONE.",
+			"val": 0.5
+		},
+		{
+			"chap": "THE NEW MINISTER'S PATRONAGE.",
+			"val": 0.42105263157894735
+		},
+		{
+			"chap": "MONEY DEALINGS.",
+			"val": 0.39473684210526316
+		},
+		{
+			"chap": "HAROLD SMITH IN THE CABINET.",
+			"val": 0.5
+		},
+		{
+			"chap": "WHY PUCK, THE PONY, WAS BEATEN.",
+			"val": 0.7368421052631579
+		},
+		{
+			"chap": "HOGGLESTOCK PARSONAGE.",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "THE TRIUMPH OF THE GIANTS.",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "MAGNA EST VERITAS.",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "NON-IMPULSIVE.",
+			"val": 0.6578947368421053
+		},
+		{
+			"chap": "IMPULSIVE.",
+			"val": 0.6578947368421053
+		},
+		{
+			"chap": "SOUTH AUDLEY STREET.",
+			"val": 0.39473684210526316
+		},
+		{
+			"chap": "DR. THORNE.",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "MISS DUNSTABLE AT HOME.",
+			"val": 0.6578947368421053
+		},
+		{
+			"chap": "THE GRANTLY TRIUMPH.",
+			"val": 0.5
+		},
+		{
+			"chap": "SALMON FISHING IN NORWAY.",
+			"val": 0.7631578947368421
+		},
+		{
+			"chap": "THE GOAT AND COMPASSES.",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "CONSOLATION.",
+			"val": 0.47368421052631576
+		},
+		{
+			"chap": "LADY LUFTON IS TAKEN BY SURPRISE.",
+			"val": 0.7894736842105263
+		},
+		{
+			"chap": "THE STORY OF KING COPHETUA.",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "KIDNAPPING AT HOGGLESTOCK.",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "MR. SOWERBY WITHOUT COMPANY.",
+			"val": 0.47368421052631576
+		},
+		{
+			"chap": "IS THERE CAUSE OR JUST IMPEDIMENT?",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "HOW TO WRITE A LOVE LETTER.",
+			"val": 0.6578947368421053
+		},
+		{
+			"chap": "INTERNECINE.",
+			"val": 0.7368421052631579
+		},
+		{
+			"chap": "DON QUIXOTE.",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "TOUCHING PITCH.",
+			"val": 0.4473684210526316
+		},
+		{
+			"chap": "IS SHE NOT INSIGNIFICANT?",
+			"val": 0.7368421052631579
+		},
+		{
+			"chap": "THE PHILISTINES AT THE PARSONAGE.",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "PALACE BLESSINGS.",
+			"val": 0.6578947368421053
+		},
+		{
+			"chap": "LADY LUFTON'S REQUEST.",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "NEMESIS.",
+			"val": 0.5
+		},
+		{
+			"chap": "HOW THEY WERE ALL MARRIED, HAD TWO CHILDREN, AND LIVED HAPPY EVER AFTER.",
+			"val": 0.7368421052631579
+		}],
+		"title": "Framley_Parsonage"
+	},
+	{
+		"totalchap": 60,
+		"b": [{
+			"chap": "THE SQUIRE OF ALLINGTON.",
+			"val": 0.47368421052631576
+		},
+		{
+			"chap": "THE TWO PEARLS OF ALLINGTON.",
+			"val": 0.6578947368421053
+		},
+		{
+			"chap": "THE WIDOW DALE OF ALLINGTON.",
+			"val": 0.7631578947368421
+		},
+		{
+			"chap": "MRS. ROPER'S BOARDING-HOUSE.",
+			"val": 0.7368421052631579
+		},
+		{
+			"chap": "ABOUT L. D.",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "BEAUTIFUL DAYS.",
+			"val": 0.7631578947368421
+		},
+		{
+			"chap": "THE BEGINNING OF TROUBLES.",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "IT CANNOT BE.",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "MRS. DALE'S LITTLE PARTY.",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "MRS. LUPEX AND AMELIA ROPER.",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "SOCIAL LIFE.",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "LILIAN DALE BECOMES A BUTTERFLY.",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "A VISIT TO GUESTWICK.",
+			"val": 0.7368421052631579
+		},
+		{
+			"chap": "JOHN EAMES TAKES A WALK.",
+			"val": 0.5
+		},
+		{
+			"chap": "THE LAST DAY.",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "MR. CROSBIE MEETS AN OLD CLERGYMAN ON HIS WAY TO COURCY CASTLE.",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "COURCY CASTLE.",
+			"val": 0.7631578947368421
+		},
+		{
+			"chap": "LILY DALE'S FIRST LOVE-LETTER.",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "THE SQUIRE MAKES A VISIT TO THE SMALL HOUSE.",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "DR. CROFTS.",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "JOHN EAMES ENCOUNTERS TWO ADVENTURES, AND DISPLAYS GREAT COURAGE IN",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "LORD DE GUEST AT HOME.",
+			"val": 0.5
+		},
+		{
+			"chap": "MR. PLANTAGENET PALLISER.",
+			"val": 0.8157894736842105
+		},
+		{
+			"chap": "A MOTHER-IN-LAW AND A FATHER-IN-LAW.",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "ADOLPHUS CROSBIE SPENDS AN EVENING AT HIS CLUB.",
+			"val": 0.7368421052631579
+		},
+		{
+			"chap": "LORD DE COURCY IN THE BOSOM OF HIS FAMILY.",
+			"val": 0.7631578947368421
+		},
+		{
+			"chap": "ON MY HONOUR, I DO NOT UNDERSTAND IT.",
+			"val": 0.7631578947368421
+		},
+		{
+			"chap": "THE BOARD.",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "JOHN EAMES RETURNS TO BURTON CRESCENT.",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "IS IT FROM HIM?",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "THE WOUNDED FAWN.",
+			"val": 0.6842105263157895
+		},
+		{
+			"chap": "PAWKINS'S IN JERMYN STREET.",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "THE TIME WILL COME.",
+			"val": 0.7631578947368421
+		},
+		{
+			"chap": "THE COMBAT.",
+			"val": 0.42105263157894735
+		},
+		{
+			"chap": "V\u00c6 VICTIS.",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "SEE, THE CONQUERING HERO COMES.",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "AN OLD MAN'S COMPLAINT.",
+			"val": 0.5526315789473685
+		},
+		{
+			"chap": "DOCTOR CROFTS IS CALLED IN.",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "DR. CROFTS IS TURNED OUT.",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "PREPARATIONS FOR THE WEDDING.",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "DOMESTIC TROUBLES.",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "LILY'S BEDSIDE.",
+			"val": 0.5
+		},
+		{
+			"chap": "FIE, FIE!",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "VALENTINE'S DAY AT ALLINGTON.",
+			"val": 0.5526315789473685
+		},
+		{
+			"chap": "VALENTINE'S DAY IN LONDON.",
+			"val": 0.7631578947368421
+		},
+		{
+			"chap": "JOHN EAMES AT HIS OFFICE.",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "THE NEW PRIVATE SECRETARY.",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "NEMESIS.",
+			"val": 0.7631578947368421
+		},
+		{
+			"chap": "PREPARATIONS FOR GOING.",
+			"val": 0.6578947368421053
+		},
+		{
+			"chap": "MRS. DALE IS THANKFUL FOR A GOOD THING.",
+			"val": 0.5526315789473685
+		},
+		{
+			"chap": "JOHN EAMES DOES THINGS WHICH HE OUGHT NOT TO HAVE DONE.",
+			"val": 0.7368421052631579
+		},
+		{
+			"chap": "THE FIRST VISIT TO THE GUESTWICK BRIDGE.",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "LOQUITUR HOPKINS.",
+			"val": 0.6578947368421053
+		},
+		{
+			"chap": "THE SECOND VISIT TO THE GUESTWICK BRIDGE.",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "NOT VERY FIE FIE AFTER ALL.",
+			"val": 0.7368421052631579
+		},
+		{
+			"chap": "SHOWING HOW MR. CROSBIE BECAME AGAIN A HAPPY MAN.",
+			"val": 0.6578947368421053
+		},
+		{
+			"chap": "LILIAN DALE VANQUISHES HER MOTHER.",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "THE FATE OF THE SMALL HOUSE.",
+			"val": 0.6842105263157895
+		},
+		{
+			"chap": "JOHN EAMES BECOMES A MAN.",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "CONCLUSION.",
+			"val": 0.5526315789473685
+		}],
+		"title": "Small_House"
+	},
+	{
+		"totalchap": 84,
+		"b": [{
+			"chap": "HOW DID HE GET IT?",
+			"val": 0.8157894736842105
+		},
+		{
+			"chap": "BY HEAVENS HE HAD BETTER NOT!",
+			"val": 0.7631578947368421
+		},
+		{
+			"chap": "THE ARCHDEACON'S THREAT.",
+			"val": 0.7894736842105263
+		},
+		{
+			"chap": "THE CLERGYMAN'S HOUSE AT HOGGLESTOCK.",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "WHAT THE WORLD THOUGHT ABOUT IT.",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "GRACE CRAWLEY.",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "MISS PRETTYMAN'S PRIVATE ROOM.",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "MR. CRAWLEY IS TAKEN TO SILVERBRIDGE.",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "GRACE CRAWLEY GOES TO ALLINGTON.",
+			"val": 0.7631578947368421
+		},
+		{
+			"chap": "DINNER AT FRAMLEY COURT.",
+			"val": 0.4473684210526316
+		},
+		{
+			"chap": "THE BISHOP SENDS HIS INHIBITION.",
+			"val": 0.5
+		},
+		{
+			"chap": "MR. CRAWLEY SEEKS FOR SYMPATHY.",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "THE BISHOP'S ANGEL.",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "MAJOR GRANTLY CONSULTS A FRIEND.",
+			"val": 0.6842105263157895
+		},
+		{
+			"chap": "UP IN LONDON.",
+			"val": 0.6842105263157895
+		},
+		{
+			"chap": "DOWN AT ALLINGTON.",
+			"val": 0.8157894736842105
+		},
+		{
+			"chap": "MR. CRAWLEY IS SUMMONED TO BARCHESTER.",
+			"val": 0.42105263157894735
+		},
+		{
+			"chap": "THE BISHOP OF BARCHESTER IS CRUSHED.",
+			"val": 0.5526315789473685
+		},
+		{
+			"chap": "WHERE DID IT COME FROM?",
+			"val": 0.4473684210526316
+		},
+		{
+			"chap": "WHAT MR. WALKER THOUGHT ABOUT IT.",
+			"val": 0.47368421052631576
+		},
+		{
+			"chap": "MR. ROBARTS ON HIS EMBASSY.",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "MAJOR GRANTLY AT HOME.",
+			"val": 0.7894736842105263
+		},
+		{
+			"chap": "MISS LILY DALE'S RESOLUTION.",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "MRS. DOBBS BROUGHTON'S DINNER-PARTY.",
+			"val": 0.7631578947368421
+		},
+		{
+			"chap": "MISS MADALINA DEMOLINES.",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "THE PICTURE.",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "A HERO AT HOME.",
+			"val": 0.6578947368421053
+		},
+		{
+			"chap": "SHOWING HOW MAJOR GRANTLY TOOK A WALK.",
+			"val": 0.7368421052631579
+		},
+		{
+			"chap": "MISS LILY DALE'S LOGIC.",
+			"val": 0.5
+		},
+		{
+			"chap": "SHOWING WHAT MAJOR GRANTLY DID AFTER HIS WALK.",
+			"val": 0.5526315789473685
+		},
+		{
+			"chap": "SHOWING HOW MAJOR GRANTLY RETURNED TO GUESTWICK.",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "MR. TOOGOOD.",
+			"val": 0.7631578947368421
+		},
+		{
+			"chap": "THE PLUMSTEAD FOXES.",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "MRS. PROUDIE SENDS FOR HER LAWYER.",
+			"val": 0.47368421052631576
+		},
+		{
+			"chap": "LILY DALE WRITES TWO WORDS IN HER BOOK.",
+			"val": 0.7894736842105263
+		},
+		{
+			"chap": "GRACE CRAWLEY RETURNS HOME.",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "HOOK COURT.",
+			"val": 0.39473684210526316
+		},
+		{
+			"chap": "JAEL.",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "A NEW FLIRTATION.",
+			"val": 0.5
+		},
+		{
+			"chap": "MR. TOOGOOD'S IDEAS ABOUT SOCIETY.",
+			"val": 0.5
+		},
+		{
+			"chap": "GRACE CRAWLEY AT HOME.",
+			"val": 0.6578947368421053
+		},
+		{
+			"chap": "MR. TOOGOOD TRAVELS PROFESSIONALLY.",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "MR. CROSBIE GOES INTO THE CITY.",
+			"val": 0.42105263157894735
+		},
+		{
+			"chap": "I SUPPOSE I MUST LET YOU HAVE IT.",
+			"val": 0.5
+		},
+		{
+			"chap": "LILY DALE GOES TO LONDON.",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "THE BAYSWATER ROMANCE.",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "DR. TEMPEST AT THE PALACE.",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "THE SOFTNESS OF SIR RAFFLE BUFFLE.",
+			"val": 0.34210526315789475
+		},
+		{
+			"chap": "NEAR THE CLOSE.",
+			"val": 0.8421052631578947
+		},
+		{
+			"chap": "LADY LUFTON'S PROPOSITION.",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "MRS. DOBBS BROUGHTON PILES HER FAGOTS.",
+			"val": 0.6578947368421053
+		},
+		{
+			"chap": "WHY DON'T YOU HAVE AN \"IT\" FOR YOURSELF?",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "ROTTEN ROW.",
+			"val": 0.5526315789473685
+		},
+		{
+			"chap": "THE CLERICAL COMMISSION.",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "FRAMLEY PARSONAGE.",
+			"val": 0.6842105263157895
+		},
+		{
+			"chap": "THE ARCHDEACON GOES TO FRAMLEY.",
+			"val": 0.7368421052631579
+		},
+		{
+			"chap": "A DOUBLE PLEDGE.",
+			"val": 0.7631578947368421
+		},
+		{
+			"chap": "THE CROSS-GRAINEDNESS OF MEN.",
+			"val": 0.7105263157894737
+		},
+		{
+			"chap": "A LADY PRESENTS HER COMPLIMENTS TO MISS L. D.",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "THE END OF JAEL AND SISERA.",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "IT'S DOGGED AS DOES IT.",
+			"val": 0.5526315789473685
+		},
+		{
+			"chap": "MR. CRAWLEY'S LETTER TO THE DEAN.",
+			"val": 0.5789473684210527
+		},
+		{
+			"chap": "TWO VISITORS TO HOGGLESTOCK.",
+			"val": 0.8421052631578947
+		},
+		{
+			"chap": "THE TRAGEDY IN HOOK COURT.",
+			"val": 0.5
+		},
+		{
+			"chap": "MISS VAN SIEVER MAKES HER CHOICE.",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "REQUIESCAT IN PACE.",
+			"val": 0.47368421052631576
+		},
+		{
+			"chap": "IN MEMORIAM.",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "THE OBSTINACY OF MR. CRAWLEY.",
+			"val": 0.5263157894736842
+		},
+		{
+			"chap": "MR. CRAWLEY'S LAST APPEARANCE IN HIS OWN PULPIT.",
+			"val": 0.39473684210526316
+		},
+		{
+			"chap": "MRS. ARABIN IS CAUGHT.",
+			"val": 0.6842105263157895
+		},
+		{
+			"chap": "MR. TOOGOOD AT SILVERBRIDGE.",
+			"val": 0.5526315789473685
+		},
+		{
+			"chap": "MR. TOOGOOD AT THE DRAGON OF WANTLY.",
+			"val": 0.34210526315789475
+		},
+		{
+			"chap": "THERE IS COMFORT AT PLUMSTEAD.",
+			"val": 0.47368421052631576
+		},
+		{
+			"chap": "THE CRAWLEYS ARE INFORMED.",
+			"val": 0.6842105263157895
+		},
+		{
+			"chap": "MADALINA'S HEART IS BLEEDING.",
+			"val": 0.631578947368421
+		},
+		{
+			"chap": "I THINK HE IS LIGHT OF HEART.",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "THE SHATTERED TREE.",
+			"val": 0.5
+		},
+		{
+			"chap": "THE ARABINS RETURN TO BARCHESTER.",
+			"val": 0.7368421052631579
+		},
+		{
+			"chap": "MR. CRAWLEY SPEAKS OF HIS COAT.",
+			"val": 0.5
+		},
+		{
+			"chap": "MISS DEMOLINES DESIRES TO BECOME A FINGER-POST.",
+			"val": 0.6842105263157895
+		},
+		{
+			"chap": "BARCHESTER CLOISTERS.",
+			"val": 0.47368421052631576
+		},
+		{
+			"chap": "THE LAST SCENE AT HOGGLESTOCK.",
+			"val": 0.6842105263157895
+		},
+		{
+			"chap": "MR. CRAWLEY IS CONQUERED.",
+			"val": 0.6052631578947368
+		},
+		{
+			"chap": "CONCLUSION.",
+			"val": 0.5526315789473685
+		}],
+		"title": "Last_Chronicle"
+	}]
+}]

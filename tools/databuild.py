@@ -1,4 +1,5 @@
 import os, re, nltk, json, sklearn
+from freqmetrics import *
 
 #lengths of warde, barch, docto, framl, smallh, lastc
 chapter_lengths = [21,53,47,48,60,84]
@@ -12,12 +13,14 @@ chapter_titles = []
 master_dict = []
 
 
-corpus0 = ["he","her","his","hers","him","himself","herself","she",
-	"Mr","Mrs","Ms","man","woman","men","women","father","mother",
-	"son","daughter","brother","sister","Sir","sir","love","papa",
-	"mamma","gentleman","lady","wife","husband","children","family",
-	"girl","boy","marry","married","marriage","child"
-]
+allcorps = {
+	"gender": ["he","her","his","hers","him","himself","herself","she",
+		"Mr","Mrs","Ms","man","woman","men","women","father","mother",
+		"son","daughter","brother","sister","Sir","sir","love","papa",
+		"mamma","gentleman","lady","wife","husband","children","family",
+		"girl","boy","marry","married","marriage","child"
+		]
+	}
 
 
 def addTopic(tpc):
@@ -46,16 +49,6 @@ def makeTitles(path_in, name):
 		new.append(line)
 	chapter_titles.append(new)
 	
-	
-def freqMetric(tok,corp):
-	#General frequency metric. 
-	#This counts number of hits,
-	# but can be more complex
-	tok_set = set(tok)
-	corp_set = set(corp)
-	inter = tok_set.intersection(corp_set)
-	return len(inter)/float(len(corp))
-	
 def numZero(num):
 	#Determines if end of file ends as
 	# 00x or 0xx
@@ -66,12 +59,13 @@ def numZero(num):
 		
 def readChap(path_in, corp):
 	#Reads in the chapter, returns a 
-	# value to measure frequency 
+	# value to measure frequency---see
+	# freqmetrics.py for possible values
 	with open(path_in, "r") as infile:
 		text = infile.read().decode("utf-8")
 		tokens = nltk.word_tokenize(text)
-		return freqMetric(tokens,corp)
-
+		#return corpFreq(tokens,corp)
+		return chapFreq(tokens, corp)
 	
 def genData(tpc):
 	addTopic(tpc)
@@ -85,7 +79,7 @@ def genData(tpc):
 		#runs through each chapter
 		for c in range(chapter_lengths[b]):
 			chap_path = book_path + numZero(c+1)+".txt"
-			value = readChap(chap_path,corpus0)
+			value = readChap(chap_path,allcorps[tpc])
 			name = chapter_titles[b][c]
 			addChap(name,value,master_dict[0]['books'][b]['b'])
 		
