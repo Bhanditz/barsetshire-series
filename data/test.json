@@ -4,87 +4,87 @@
 		"totalchap": 21,
 		"b": [{
 			"chap": "Hiram's Hospital",
-			"val": 0.42105263157894735
+			"val": 0.019406392694063926
 		},
 		{
 			"chap": "The Barchester Reformer",
-			"val": 0.6578947368421053
+			"val": 0.021396851029471135
 		},
 		{
 			"chap": "The Bishop of Barchester",
-			"val": 0.4473684210526316
+			"val": 0.016914611779091093
 		},
 		{
 			"chap": "Hiram's Bedesmen",
-			"val": 0.2894736842105263
+			"val": 0.009854913769504517
 		},
 		{
 			"chap": "Dr Grantly Visits the Hospital",
-			"val": 0.5263157894736842
+			"val": 0.012519260400616333
 		},
 		{
 			"chap": "The Warden's Tea Party",
-			"val": 0.5789473684210527
+			"val": 0.01990632318501171
 		},
 		{
 			"chap": "_The Jupiter_",
-			"val": 0.4473684210526316
+			"val": 0.01054562127464466
 		},
 		{
 			"chap": "Plumstead Episcopi",
-			"val": 0.7894736842105263
+			"val": 0.016850426461410443
 		},
 		{
 			"chap": "The Conference",
-			"val": 0.39473684210526316
+			"val": 0.0075096899224806205
 		},
 		{
 			"chap": "Tribulation",
-			"val": 0.5263157894736842
+			"val": 0.014002642007926024
 		},
 		{
 			"chap": "Iphigenia",
-			"val": 0.6052631578947368
+			"val": 0.020361189801699715
 		},
 		{
 			"chap": "Mr Bold's Visit to Plumstead",
-			"val": 0.5789473684210527
+			"val": 0.014500995166334945
 		},
 		{
 			"chap": "The Warden's Decision",
-			"val": 0.47368421052631576
+			"val": 0.01887406443215099
 		},
 		{
 			"chap": "Mount Olympus",
-			"val": 0.3157894736842105
+			"val": 0.0068632435180477885
 		},
 		{
 			"chap": "Tom Towers, Dr Anticant, and Mr Sentiment",
-			"val": 0.42105263157894735
+			"val": 0.01064018442986345
 		},
 		{
 			"chap": "A Long Day in London",
-			"val": 0.5263157894736842
+			"val": 0.012350035285815103
 		},
 		{
 			"chap": "Sir Abraham Haphazard",
-			"val": 0.5526315789473685
+			"val": 0.017059024223814397
 		},
 		{
 			"chap": "The Warden Is Very Obstinate",
-			"val": 0.5789473684210527
+			"val": 0.020689655172413793
 		},
 		{
 			"chap": "The Warden Resigns",
-			"val": 0.5526315789473685
+			"val": 0.017728014928854677
 		},
 		{
 			"chap": "Farewell",
-			"val": 0.42105263157894735
+			"val": 0.020145379023883695
 		},
 		{
 			"chap": "Conclusion",
-			"val": 0.42105263157894735
+			"val": 0.022536687631027254
 		}],
 		"title": "Warden"
 	},
@@ -92,215 +92,215 @@
 		"totalchap": 53,
 		"b": [{
 			"chap": "Who Will Be the New Bishop?",
-			"val": 0.42105263157894735
+			"val": 0.0112
 		},
 		{
 			"chap": "Hiram's Hospital According to Act of Parliament",
-			"val": 0.6578947368421053
+			"val": 0.012420275260154415
 		},
 		{
 			"chap": "Dr. and Mrs. Proudie",
-			"val": 0.5
+			"val": 0.013361462728551337
 		},
 		{
 			"chap": "The Bishop's Chaplain",
-			"val": 0.631578947368421
+			"val": 0.011544991511035654
 		},
 		{
 			"chap": "A Morning Visit",
-			"val": 0.5
+			"val": 0.00827991452991453
 		},
 		{
 			"chap": "War",
-			"val": 0.39473684210526316
+			"val": 0.006144393241167435
 		},
 		{
 			"chap": "The Dean and Chapter Take Counsel",
-			"val": 0.3157894736842105
+			"val": 0.007169811320754717
 		},
 		{
 			"chap": "The Ex-Warden Rejoices in His Probable Return to the Hospital",
-			"val": 0.4473684210526316
+			"val": 0.012472715933894606
 		},
 		{
 			"chap": "The Stanhope Family",
-			"val": 0.7368421052631579
+			"val": 0.016699236098774203
 		},
 		{
 			"chap": "Mrs. Proudie's Reception\u2014Commenced",
-			"val": 0.7105263157894737
+			"val": 0.01675977653631285
 		},
 		{
 			"chap": "Mrs. Proudie's Reception\u2014Concluded",
-			"val": 0.8157894736842105
+			"val": 0.014024088434251774
 		},
 		{
 			"chap": "Slope versus Harding",
-			"val": 0.3684210526315789
+			"val": 0.007636016544702514
 		},
 		{
 			"chap": "The Rubbish Cart",
-			"val": 0.6052631578947368
+			"val": 0.016358839050131926
 		},
 		{
 			"chap": "The New Champion",
-			"val": 0.39473684210526316
+			"val": 0.009861325115562404
 		},
 		{
 			"chap": "The Widow's Suitors",
-			"val": 0.6842105263157895
+			"val": 0.020391517128874388
 		},
 		{
 			"chap": "Baby Worship",
-			"val": 0.7368421052631579
+			"val": 0.01678219627873039
 		},
 		{
 			"chap": "Who Shall Be Cock of the Walk?",
-			"val": 0.6052631578947368
+			"val": 0.009606724707295107
 		},
 		{
 			"chap": "The Widow's Persecution",
-			"val": 0.5263157894736842
+			"val": 0.011449315833566042
 		},
 		{
 			"chap": "Barchester by Moonlight",
-			"val": 0.631578947368421
+			"val": 0.016872427983539096
 		},
 		{
 			"chap": "Mr. Arabin",
-			"val": 0.6052631578947368
+			"val": 0.012961296129612962
 		},
 		{
 			"chap": "St. Ewold's Parsonage",
-			"val": 0.5526315789473685
+			"val": 0.008074283407347598
 		},
 		{
 			"chap": "The Thornes of Ullathorne",
-			"val": 0.5789473684210527
+			"val": 0.009013520280420632
 		},
 		{
 			"chap": "Mr. Arabin Reads Himself in at St. Ewold's",
-			"val": 0.47368421052631576
+			"val": 0.008962868117797696
 		},
 		{
 			"chap": "Mr. Slope Manages Matters Very Cleverly at Puddingdale",
-			"val": 0.6578947368421053
+			"val": 0.015672705068186445
 		},
 		{
 			"chap": "Fourteen Arguments in Favour of Mr. Quiverful's Claims",
-			"val": 0.5789473684210527
+			"val": 0.018436769670215528
 		},
 		{
 			"chap": "Mrs. Proudie Wrestles and Gets a Fall",
-			"val": 0.5526315789473685
+			"val": 0.013614124654328865
 		},
 		{
 			"chap": "A Love Scene",
-			"val": 0.7368421052631579
+			"val": 0.018486171761280933
 		},
 		{
 			"chap": "Mrs. Bold is Entertained by Dr. and Mrs. Grantly at Plumstead",
-			"val": 0.7105263157894737
+			"val": 0.017193736567393307
 		},
 		{
 			"chap": "A Serious Interview",
-			"val": 0.6578947368421053
+			"val": 0.01428200467411062
 		},
 		{
 			"chap": "Another Love Scene",
-			"val": 0.5789473684210527
+			"val": 0.017150619799626423
 		},
 		{
 			"chap": "The Bishop's Library",
-			"val": 0.3684210526315789
+			"val": 0.008670520231213872
 		},
 		{
 			"chap": "A New Candidate for Ecclesiastical Honours",
-			"val": 0.42105263157894735
+			"val": 0.006990881458966565
 		},
 		{
 			"chap": "Mrs. Proudie Victrix",
-			"val": 0.7105263157894737
+			"val": 0.009131493506493506
 		},
 		{
 			"chap": "Oxford\u2014The Master and Tutor of Lazarus",
-			"val": 0.47368421052631576
+			"val": 0.010499359795134442
 		},
 		{
 			"chap": "Miss Thorne's F\u00eate Champ\u00eatre",
-			"val": 0.5526315789473685
+			"val": 0.008590308370044052
 		},
 		{
 			"chap": "Ullathorne Sports\u2014Act I",
-			"val": 0.7105263157894737
+			"val": 0.012528473804100227
 		},
 		{
 			"chap": "The Signora Neroni, the Countess De Courcy,",
-			"val": 0.7105263157894737
+			"val": 0.017341040462427744
 		},
 		{
 			"chap": "The Bishop Sits Down to Breakfast, and the Dean Dies",
-			"val": 0.631578947368421
+			"val": 0.015022624434389141
 		},
 		{
 			"chap": "The Lookalofts and the Greenacres",
-			"val": 0.5263157894736842
+			"val": 0.007759958613554061
 		},
 		{
 			"chap": "Ullathorne Sports\u2014Act II",
-			"val": 0.5526315789473685
+			"val": 0.010434360592089298
 		},
 		{
 			"chap": "Mrs. Bold Confides Her Sorrow to Her Friend Miss Stanhope",
-			"val": 0.5
+			"val": 0.017039106145251396
 		},
 		{
 			"chap": "Ullathorne Sports\u2014Act III",
-			"val": 0.7105263157894737
+			"val": 0.016131534046843494
 		},
 		{
 			"chap": "Mr. and Mrs. Quiverful Are Made Happy.",
-			"val": 0.5789473684210527
+			"val": 0.010559839088166276
 		},
 		{
 			"chap": "Mrs. Bold at Home",
-			"val": 0.6842105263157895
+			"val": 0.01328653797944347
 		},
 		{
 			"chap": "The Stanhopes at Home",
-			"val": 0.7105263157894737
+			"val": 0.018354430379746836
 		},
 		{
 			"chap": "Mr. Slope's Parting Interview with the Signora",
-			"val": 0.7368421052631579
+			"val": 0.014933333333333333
 		},
 		{
 			"chap": "The Dean Elect",
-			"val": 0.631578947368421
+			"val": 0.01325
 		},
 		{
 			"chap": "Miss Thorne Shows Her Talent at Match-Making",
-			"val": 0.6842105263157895
+			"val": 0.007577352136392338
 		},
 		{
 			"chap": "The Beelzebub Colt",
-			"val": 0.5789473684210527
+			"val": 0.01806182702327197
 		},
 		{
 			"chap": "The Archdeacon Is Satisfied with the State of Affairs",
-			"val": 0.5526315789473685
+			"val": 0.01088348271446863
 		},
 		{
 			"chap": "Mr. Slope Bids Farewell to the Palace and Its Inhabitants",
-			"val": 0.5526315789473685
+			"val": 0.007850834151128557
 		},
 		{
 			"chap": "The New Dean Takes Possession of the Deanery,\u2028and the New Warden of the Hospital\u2028",
-			"val": 0.5
+			"val": 0.01075894155277697
 		},
 		{
 			"chap": "Conclusion",
-			"val": 0.4473684210526316
+			"val": 0.015167930660888408
 		}],
 		"title": "Barchester_Towers"
 	},
@@ -308,191 +308,191 @@
 		"totalchap": 47,
 		"b": [{
 			"chap": "The Greshams of Greshamsbury",
-			"val": 0.8157894736842105
+			"val": 0.016812465828321486
 		},
 		{
 			"chap": "Long, Long Ago",
-			"val": 0.8421052631578947
+			"val": 0.029378316906747536
 		},
 		{
 			"chap": "Dr Thorne",
-			"val": 0.7631578947368421
+			"val": 0.012724550898203593
 		},
 		{
 			"chap": "Lessons from Courcy Castle",
-			"val": 0.7894736842105263
+			"val": 0.013760504201680672
 		},
 		{
 			"chap": "Frank Gresham's First Speech",
-			"val": 0.7105263157894737
+			"val": 0.017637732857709077
 		},
 		{
 			"chap": "Frank Gresham's Early Loves",
-			"val": 0.8421052631578947
+			"val": 0.022979845545300432
 		},
 		{
 			"chap": "The Doctor's Garden",
-			"val": 0.7894736842105263
+			"val": 0.021669341894060994
 		},
 		{
 			"chap": "Matrimonial Prospects",
-			"val": 0.7368421052631579
+			"val": 0.01407624633431085
 		},
 		{
 			"chap": "Sir Roger Scatcherd",
-			"val": 0.4473684210526316
+			"val": 0.011208477684939882
 		},
 		{
 			"chap": "Sir Roger's Will",
-			"val": 0.7105263157894737
+			"val": 0.015381729506659163
 		},
 		{
 			"chap": "The Doctor Drinks His Tea",
-			"val": 0.47368421052631576
+			"val": 0.007928388746803069
 		},
 		{
 			"chap": "When Greek Meets Greek, Then Comes the Tug of War",
-			"val": 0.47368421052631576
+			"val": 0.008732846194974157
 		},
 		{
 			"chap": "The Two Uncles",
-			"val": 0.5789473684210527
+			"val": 0.015814335592524133
 		},
 		{
 			"chap": "Sentence of Exile",
-			"val": 0.8157894736842105
+			"val": 0.012338983050847458
 		},
 		{
 			"chap": "Courcy",
-			"val": 0.5789473684210527
+			"val": 0.012764871074802144
 		},
 		{
 			"chap": "Miss Dunstable",
-			"val": 0.5
+			"val": 0.012934518997574777
 		},
 		{
 			"chap": "The Election",
-			"val": 0.42105263157894735
+			"val": 0.018356164383561645
 		},
 		{
 			"chap": "The Rivals",
-			"val": 0.6578947368421053
+			"val": 0.014144877839691384
 		},
 		{
 			"chap": "The Duke of Omnium",
-			"val": 0.23684210526315788
+			"val": 0.013095506886430346
 		},
 		{
 			"chap": "The Proposal",
-			"val": 0.3684210526315789
+			"val": 0.013360221830098312
 		},
 		{
 			"chap": "Mr Moffat Falls into Trouble",
-			"val": 0.8157894736842105
+			"val": 0.018682858477347034
 		},
 		{
 			"chap": "Sir Roger Is Unseated",
-			"val": 0.5263157894736842
+			"val": 0.017703466928940252
 		},
 		{
 			"chap": "Retrospective",
-			"val": 0.7631578947368421
+			"val": 0.011780104712041885
 		},
 		{
 			"chap": "Louis Scatcherd",
-			"val": 0.6842105263157895
+			"val": 0.018570717957221025
 		},
 		{
 			"chap": "Sir Roger Dies",
-			"val": 0.7368421052631579
+			"val": 0.013530135301353014
 		},
 		{
 			"chap": "War",
-			"val": 0.8157894736842105
+			"val": 0.014093137254901961
 		},
 		{
 			"chap": "Miss Thorne Goes on a Visit",
-			"val": 0.7894736842105263
+			"val": 0.013763722759298706
 		},
 		{
 			"chap": "The Doctor Hears Something to His Advantage",
-			"val": 0.631578947368421
+			"val": 0.013518518518518518
 		},
 		{
 			"chap": "The Donkey Ride",
-			"val": 0.6842105263157895
+			"val": 0.013933849401829698
 		},
 		{
 			"chap": "Post Prandial",
-			"val": 0.6842105263157895
+			"val": 0.023973546431523836
 		},
 		{
 			"chap": "The Small End of the Wedge",
-			"val": 0.7105263157894737
+			"val": 0.011104127383197151
 		},
 		{
 			"chap": "Mr Oriel",
-			"val": 0.7631578947368421
+			"val": 0.023
 		},
 		{
 			"chap": "A Morning Visit",
-			"val": 0.6578947368421053
+			"val": 0.01460653642505021
 		},
 		{
 			"chap": "A Barouche and Four Arrives at Greshamsbury",
-			"val": 0.631578947368421
+			"val": 0.01300195604648487
 		},
 		{
 			"chap": "Sir Louis Goes Out to Dinner",
-			"val": 0.6842105263157895
+			"val": 0.017188188629352136
 		},
 		{
 			"chap": "Will He Come Again?",
-			"val": 0.5263157894736842
+			"val": 0.00950950950950951
 		},
 		{
 			"chap": "Sir Louis Leaves Greshamsbury",
-			"val": 0.5263157894736842
+			"val": 0.013779527559055118
 		},
 		{
 			"chap": "De Courcy Precepts and de Courcy Practice",
-			"val": 0.7631578947368421
+			"val": 0.0219134918361501
 		},
 		{
 			"chap": "What the World Says about Blood",
-			"val": 0.6578947368421053
+			"val": 0.024800163968026236
 		},
 		{
 			"chap": "The Two Doctors Change Patients",
-			"val": 0.5789473684210527
+			"val": 0.010464058234758872
 		},
 		{
 			"chap": "Doctor Thorne Won't Interfere",
-			"val": 0.7105263157894737
+			"val": 0.020158827122785584
 		},
 		{
 			"chap": "What Can You Give in Return?",
-			"val": 0.6842105263157895
+			"val": 0.012503859215807349
 		},
 		{
 			"chap": "The Race of Scatcherd Becomes Extinct",
-			"val": 0.6578947368421053
+			"val": 0.010349025974025974
 		},
 		{
 			"chap": "Saturday Evening and Sunday Morning",
-			"val": 0.7894736842105263
+			"val": 0.022632423756019263
 		},
 		{
 			"chap": "Law Business in London",
-			"val": 0.631578947368421
+			"val": 0.015331853943917692
 		},
 		{
 			"chap": "Our Pet Fox Finds a Tail",
-			"val": 0.631578947368421
+			"val": 0.01017984390906006
 		},
 		{
 			"chap": "How the Bride Was Received, and Who Were Asked to the Wedding",
-			"val": 0.8421052631578947
+			"val": 0.014242673240208161
 		}],
 		"title": "Doctor_Thorne"
 	},
@@ -500,195 +500,195 @@
 		"totalchap": 48,
 		"b": [{
 			"chap": "OMNES OMNIA BONA DICERE.",
-			"val": 0.7368421052631579
+			"val": 0.017816354499771585
 		},
 		{
 			"chap": "THE FRAMLEY SET, AND THE CHALDICOTES SET.",
-			"val": 0.7631578947368421
+			"val": 0.012997243009058685
 		},
 		{
 			"chap": "CHALDICOTES.",
-			"val": 0.5526315789473685
+			"val": 0.010331611398100316
 		},
 		{
 			"chap": "A MATTER OF CONSCIENCE.",
-			"val": 0.5
+			"val": 0.006072874493927126
 		},
 		{
 			"chap": "AMANTIUM IR\u00c6 AMORIS INTEGRATIO.",
-			"val": 0.631578947368421
+			"val": 0.01034231609613984
 		},
 		{
 			"chap": "MR. HAROLD SMITH'S LECTURE.",
-			"val": 0.5789473684210527
+			"val": 0.008736415938632005
 		},
 		{
 			"chap": "SUNDAY MORNING.",
-			"val": 0.5263157894736842
+			"val": 0.008765145656096932
 		},
 		{
 			"chap": "GATHERUM CASTLE.",
-			"val": 0.7105263157894737
+			"val": 0.011269631938616473
 		},
 		{
 			"chap": "THE VICAR'S RETURN.",
-			"val": 0.5263157894736842
+			"val": 0.010396039603960397
 		},
 		{
 			"chap": "LUCY ROBARTS.",
-			"val": 0.7894736842105263
+			"val": 0.015527950310559006
 		},
 		{
 			"chap": "GRISELDA GRANTLY.",
-			"val": 0.7631578947368421
+			"val": 0.011302709752209825
 		},
 		{
 			"chap": "THE LITTLE BILL.",
-			"val": 0.47368421052631576
+			"val": 0.008549292011755277
 		},
 		{
 			"chap": "DELICATE HINTS.",
-			"val": 0.5526315789473685
+			"val": 0.007070514045480604
 		},
 		{
 			"chap": "MR. CRAWLEY OF HOGGLESTOCK.",
-			"val": 0.6052631578947368
+			"val": 0.010902591599642538
 		},
 		{
 			"chap": "LADY LUFTON'S AMBASSADOR.",
-			"val": 0.5789473684210527
+			"val": 0.009484154522322461
 		},
 		{
 			"chap": "MRS. PODGENS' BABY.",
-			"val": 0.6052631578947368
+			"val": 0.01308188922867822
 		},
 		{
 			"chap": "MRS. PROUDIE'S CONVERSAZIONE.",
-			"val": 0.5
+			"val": 0.007062978222483814
 		},
 		{
 			"chap": "THE NEW MINISTER'S PATRONAGE.",
-			"val": 0.42105263157894735
+			"val": 0.007674418604651163
 		},
 		{
 			"chap": "MONEY DEALINGS.",
-			"val": 0.39473684210526316
+			"val": 0.007204385277995302
 		},
 		{
 			"chap": "HAROLD SMITH IN THE CABINET.",
-			"val": 0.5
+			"val": 0.01001088139281828
 		},
 		{
 			"chap": "WHY PUCK, THE PONY, WAS BEATEN.",
-			"val": 0.7368421052631579
+			"val": 0.013260869565217392
 		},
 		{
 			"chap": "HOGGLESTOCK PARSONAGE.",
-			"val": 0.7105263157894737
+			"val": 0.014027515511195037
 		},
 		{
 			"chap": "THE TRIUMPH OF THE GIANTS.",
-			"val": 0.6052631578947368
+			"val": 0.010281385281385282
 		},
 		{
 			"chap": "MAGNA EST VERITAS.",
-			"val": 0.5789473684210527
+			"val": 0.015997585270147902
 		},
 		{
 			"chap": "NON-IMPULSIVE.",
-			"val": 0.6578947368421053
+			"val": 0.016317016317016316
 		},
 		{
 			"chap": "IMPULSIVE.",
-			"val": 0.6578947368421053
+			"val": 0.00838639540301289
 		},
 		{
 			"chap": "SOUTH AUDLEY STREET.",
-			"val": 0.39473684210526316
+			"val": 0.005373831775700935
 		},
 		{
 			"chap": "DR. THORNE.",
-			"val": 0.6052631578947368
+			"val": 0.012430939226519336
 		},
 		{
 			"chap": "MISS DUNSTABLE AT HOME.",
-			"val": 0.6578947368421053
+			"val": 0.009054216210319625
 		},
 		{
 			"chap": "THE GRANTLY TRIUMPH.",
-			"val": 0.5
+			"val": 0.010965837199493884
 		},
 		{
 			"chap": "SALMON FISHING IN NORWAY.",
-			"val": 0.7631578947368421
+			"val": 0.01593726283835062
 		},
 		{
 			"chap": "THE GOAT AND COMPASSES.",
-			"val": 0.5263157894736842
+			"val": 0.008964143426294821
 		},
 		{
 			"chap": "CONSOLATION.",
-			"val": 0.47368421052631576
+			"val": 0.007641365257259297
 		},
 		{
 			"chap": "LADY LUFTON IS TAKEN BY SURPRISE.",
-			"val": 0.7894736842105263
+			"val": 0.022406639004149378
 		},
 		{
 			"chap": "THE STORY OF KING COPHETUA.",
-			"val": 0.631578947368421
+			"val": 0.014984825493171473
 		},
 		{
 			"chap": "KIDNAPPING AT HOGGLESTOCK.",
-			"val": 0.631578947368421
+			"val": 0.01621209231356094
 		},
 		{
 			"chap": "MR. SOWERBY WITHOUT COMPANY.",
-			"val": 0.47368421052631576
+			"val": 0.007028332967274325
 		},
 		{
 			"chap": "IS THERE CAUSE OR JUST IMPEDIMENT?",
-			"val": 0.5789473684210527
+			"val": 0.010305483989694516
 		},
 		{
 			"chap": "HOW TO WRITE A LOVE LETTER.",
-			"val": 0.6578947368421053
+			"val": 0.007822685788787484
 		},
 		{
 			"chap": "INTERNECINE.",
-			"val": 0.7368421052631579
+			"val": 0.017374517374517374
 		},
 		{
 			"chap": "DON QUIXOTE.",
-			"val": 0.631578947368421
+			"val": 0.009106762255376865
 		},
 		{
 			"chap": "TOUCHING PITCH.",
-			"val": 0.4473684210526316
+			"val": 0.009821976672805401
 		},
 		{
 			"chap": "IS SHE NOT INSIGNIFICANT?",
-			"val": 0.7368421052631579
+			"val": 0.017507915813000558
 		},
 		{
 			"chap": "THE PHILISTINES AT THE PARSONAGE.",
-			"val": 0.6052631578947368
+			"val": 0.010909763313609468
 		},
 		{
 			"chap": "PALACE BLESSINGS.",
-			"val": 0.6578947368421053
+			"val": 0.012731740004467277
 		},
 		{
 			"chap": "LADY LUFTON'S REQUEST.",
-			"val": 0.5263157894736842
+			"val": 0.006094547850436501
 		},
 		{
 			"chap": "NEMESIS.",
-			"val": 0.5
+			"val": 0.009309162175404213
 		},
 		{
 			"chap": "HOW THEY WERE ALL MARRIED, HAD TWO CHILDREN, AND LIVED HAPPY EVER AFTER.",
-			"val": 0.7368421052631579
+			"val": 0.01573078454798885
 		}],
 		"title": "Framley_Parsonage"
 	},
@@ -696,243 +696,243 @@
 		"totalchap": 60,
 		"b": [{
 			"chap": "THE SQUIRE OF ALLINGTON.",
-			"val": 0.47368421052631576
+			"val": 0.010793172690763053
 		},
 		{
 			"chap": "THE TWO PEARLS OF ALLINGTON.",
-			"val": 0.6578947368421053
+			"val": 0.011949349028000713
 		},
 		{
 			"chap": "THE WIDOW DALE OF ALLINGTON.",
-			"val": 0.7631578947368421
+			"val": 0.01627994011976048
 		},
 		{
 			"chap": "MRS. ROPER'S BOARDING-HOUSE.",
-			"val": 0.7368421052631579
+			"val": 0.018511146496815286
 		},
 		{
 			"chap": "ABOUT L. D.",
-			"val": 0.6052631578947368
+			"val": 0.014485387547649302
 		},
 		{
 			"chap": "BEAUTIFUL DAYS.",
-			"val": 0.7631578947368421
+			"val": 0.019099156453923283
 		},
 		{
 			"chap": "THE BEGINNING OF TROUBLES.",
-			"val": 0.6052631578947368
+			"val": 0.013042060645582002
 		},
 		{
 			"chap": "IT CANNOT BE.",
-			"val": 0.5789473684210527
+			"val": 0.01030662200463798
 		},
 		{
 			"chap": "MRS. DALE'S LITTLE PARTY.",
-			"val": 0.7105263157894737
+			"val": 0.014299036369288157
 		},
 		{
 			"chap": "MRS. LUPEX AND AMELIA ROPER.",
-			"val": 0.5789473684210527
+			"val": 0.013100436681222707
 		},
 		{
 			"chap": "SOCIAL LIFE.",
-			"val": 0.631578947368421
+			"val": 0.017762975298362477
 		},
 		{
 			"chap": "LILIAN DALE BECOMES A BUTTERFLY.",
-			"val": 0.7105263157894737
+			"val": 0.010769634883110061
 		},
 		{
 			"chap": "A VISIT TO GUESTWICK.",
-			"val": 0.7368421052631579
+			"val": 0.01465702560093805
 		},
 		{
 			"chap": "JOHN EAMES TAKES A WALK.",
-			"val": 0.5
+			"val": 0.013071895424836602
 		},
 		{
 			"chap": "THE LAST DAY.",
-			"val": 0.5789473684210527
+			"val": 0.010674429888403688
 		},
 		{
 			"chap": "MR. CROSBIE MEETS AN OLD CLERGYMAN ON HIS WAY TO COURCY CASTLE.",
-			"val": 0.5789473684210527
+			"val": 0.01716867469879518
 		},
 		{
 			"chap": "COURCY CASTLE.",
-			"val": 0.7631578947368421
+			"val": 0.016942260775277853
 		},
 		{
 			"chap": "LILY DALE'S FIRST LOVE-LETTER.",
-			"val": 0.5789473684210527
+			"val": 0.012631077216396568
 		},
 		{
 			"chap": "THE SQUIRE MAKES A VISIT TO THE SMALL HOUSE.",
-			"val": 0.7105263157894737
+			"val": 0.022366815778771858
 		},
 		{
 			"chap": "DR. CROFTS.",
-			"val": 0.631578947368421
+			"val": 0.015750064549444876
 		},
 		{
 			"chap": "JOHN EAMES ENCOUNTERS TWO ADVENTURES, AND DISPLAYS GREAT COURAGE IN",
-			"val": 0.5263157894736842
+			"val": 0.008771929824561403
 		},
 		{
 			"chap": "LORD DE GUEST AT HOME.",
-			"val": 0.5
+			"val": 0.008189655172413794
 		},
 		{
 			"chap": "MR. PLANTAGENET PALLISER.",
-			"val": 0.8157894736842105
+			"val": 0.013007400762502803
 		},
 		{
 			"chap": "A MOTHER-IN-LAW AND A FATHER-IN-LAW.",
-			"val": 0.5263157894736842
+			"val": 0.011778563015312132
 		},
 		{
 			"chap": "ADOLPHUS CROSBIE SPENDS AN EVENING AT HIS CLUB.",
-			"val": 0.7368421052631579
+			"val": 0.016979269496544915
 		},
 		{
 			"chap": "LORD DE COURCY IN THE BOSOM OF HIS FAMILY.",
-			"val": 0.7631578947368421
+			"val": 0.015602246723528189
 		},
 		{
 			"chap": "ON MY HONOUR, I DO NOT UNDERSTAND IT.",
-			"val": 0.7631578947368421
+			"val": 0.01966392563460851
 		},
 		{
 			"chap": "THE BOARD.",
-			"val": 0.5263157894736842
+			"val": 0.008198214611040262
 		},
 		{
 			"chap": "JOHN EAMES RETURNS TO BURTON CRESCENT.",
-			"val": 0.7105263157894737
+			"val": 0.015241320914479255
 		},
 		{
 			"chap": "IS IT FROM HIM?",
-			"val": 0.631578947368421
+			"val": 0.016967126193001062
 		},
 		{
 			"chap": "THE WOUNDED FAWN.",
-			"val": 0.6842105263157895
+			"val": 0.014896373056994818
 		},
 		{
 			"chap": "PAWKINS'S IN JERMYN STREET.",
-			"val": 0.631578947368421
+			"val": 0.009312913907284769
 		},
 		{
 			"chap": "THE TIME WILL COME.",
-			"val": 0.7631578947368421
+			"val": 0.007959854646132549
 		},
 		{
 			"chap": "THE COMBAT.",
-			"val": 0.42105263157894735
+			"val": 0.010506960861570791
 		},
 		{
 			"chap": "V\u00c6 VICTIS.",
-			"val": 0.7105263157894737
+			"val": 0.008470269354565475
 		},
 		{
 			"chap": "SEE, THE CONQUERING HERO COMES.",
-			"val": 0.5263157894736842
+			"val": 0.007917789757412398
 		},
 		{
 			"chap": "AN OLD MAN'S COMPLAINT.",
-			"val": 0.5526315789473685
+			"val": 0.013658275307980718
 		},
 		{
 			"chap": "DOCTOR CROFTS IS CALLED IN.",
-			"val": 0.631578947368421
+			"val": 0.008201202843083653
 		},
 		{
 			"chap": "DR. CROFTS IS TURNED OUT.",
-			"val": 0.631578947368421
+			"val": 0.010758110606824677
 		},
 		{
 			"chap": "PREPARATIONS FOR THE WEDDING.",
-			"val": 0.7105263157894737
+			"val": 0.01224078341013825
 		},
 		{
 			"chap": "DOMESTIC TROUBLES.",
-			"val": 0.5789473684210527
+			"val": 0.014751368070425886
 		},
 		{
 			"chap": "LILY'S BEDSIDE.",
-			"val": 0.5
+			"val": 0.010645375914836993
 		},
 		{
 			"chap": "FIE, FIE!",
-			"val": 0.7105263157894737
+			"val": 0.011716669625421623
 		},
 		{
 			"chap": "VALENTINE'S DAY AT ALLINGTON.",
-			"val": 0.5526315789473685
+			"val": 0.010244470314318976
 		},
 		{
 			"chap": "VALENTINE'S DAY IN LONDON.",
-			"val": 0.7631578947368421
+			"val": 0.01559177888022679
 		},
 		{
 			"chap": "JOHN EAMES AT HIS OFFICE.",
-			"val": 0.6052631578947368
+			"val": 0.01053151225933849
 		},
 		{
 			"chap": "THE NEW PRIVATE SECRETARY.",
-			"val": 0.5263157894736842
+			"val": 0.007297605473204105
 		},
 		{
 			"chap": "NEMESIS.",
-			"val": 0.7631578947368421
+			"val": 0.014591965411637544
 		},
 		{
 			"chap": "PREPARATIONS FOR GOING.",
-			"val": 0.6578947368421053
+			"val": 0.009446693657219974
 		},
 		{
 			"chap": "MRS. DALE IS THANKFUL FOR A GOOD THING.",
-			"val": 0.5526315789473685
+			"val": 0.009688934217236104
 		},
 		{
 			"chap": "JOHN EAMES DOES THINGS WHICH HE OUGHT NOT TO HAVE DONE.",
-			"val": 0.7368421052631579
+			"val": 0.011575091575091576
 		},
 		{
 			"chap": "THE FIRST VISIT TO THE GUESTWICK BRIDGE.",
-			"val": 0.7105263157894737
+			"val": 0.012185976752905886
 		},
 		{
 			"chap": "LOQUITUR HOPKINS.",
-			"val": 0.6578947368421053
+			"val": 0.009499683343888538
 		},
 		{
 			"chap": "THE SECOND VISIT TO THE GUESTWICK BRIDGE.",
-			"val": 0.7105263157894737
+			"val": 0.010485371215964823
 		},
 		{
 			"chap": "NOT VERY FIE FIE AFTER ALL.",
-			"val": 0.7368421052631579
+			"val": 0.015973477998794453
 		},
 		{
 			"chap": "SHOWING HOW MR. CROSBIE BECAME AGAIN A HAPPY MAN.",
-			"val": 0.6578947368421053
+			"val": 0.015714285714285715
 		},
 		{
 			"chap": "LILIAN DALE VANQUISHES HER MOTHER.",
-			"val": 0.6052631578947368
+			"val": 0.01400329489291598
 		},
 		{
 			"chap": "THE FATE OF THE SMALL HOUSE.",
-			"val": 0.6842105263157895
+			"val": 0.01065385418842699
 		},
 		{
 			"chap": "JOHN EAMES BECOMES A MAN.",
-			"val": 0.6052631578947368
+			"val": 0.008894776684330053
 		},
 		{
 			"chap": "CONCLUSION.",
-			"val": 0.5526315789473685
+			"val": 0.00756000756000756
 		}],
 		"title": "Small_House"
 	},
@@ -940,5528 +940,4177 @@
 		"totalchap": 84,
 		"b": [{
 			"chap": "HOW DID HE GET IT?",
-			"val": 0.8157894736842105
+			"val": 0.015313935681470138
 		},
 		{
 			"chap": "BY HEAVENS HE HAD BETTER NOT!",
-			"val": 0.7631578947368421
+			"val": 0.031738623103850644
 		},
 		{
 			"chap": "THE ARCHDEACON'S THREAT.",
-			"val": 0.7894736842105263
+			"val": 0.040983606557377046
 		},
 		{
 			"chap": "THE CLERGYMAN'S HOUSE AT HOGGLESTOCK.",
-			"val": 0.6052631578947368
+			"val": 0.018925952211970666
 		},
 		{
 			"chap": "WHAT THE WORLD THOUGHT ABOUT IT.",
-			"val": 0.7105263157894737
+			"val": 0.021449463763405913
 		},
 		{
 			"chap": "GRACE CRAWLEY.",
-			"val": 0.5789473684210527
+			"val": 0.014123768816205166
 		},
 		{
 			"chap": "MISS PRETTYMAN'S PRIVATE ROOM.",
-			"val": 0.7105263157894737
+			"val": 0.023479936919572456
 		},
 		{
 			"chap": "MR. CRAWLEY IS TAKEN TO SILVERBRIDGE.",
-			"val": 0.631578947368421
+			"val": 0.010692254969156956
 		},
 		{
 			"chap": "GRACE CRAWLEY GOES TO ALLINGTON.",
-			"val": 0.7631578947368421
+			"val": 0.01590568862275449
 		},
 		{
 			"chap": "DINNER AT FRAMLEY COURT.",
-			"val": 0.4473684210526316
+			"val": 0.010266281681103625
 		},
 		{
 			"chap": "THE BISHOP SENDS HIS INHIBITION.",
-			"val": 0.5
+			"val": 0.008306414397784956
 		},
 		{
 			"chap": "MR. CRAWLEY SEEKS FOR SYMPATHY.",
-			"val": 0.5789473684210527
+			"val": 0.011805108392358874
 		},
 		{
 			"chap": "THE BISHOP'S ANGEL.",
-			"val": 0.5263157894736842
+			"val": 0.007323832145684877
 		},
 		{
 			"chap": "MAJOR GRANTLY CONSULTS A FRIEND.",
-			"val": 0.6842105263157895
+			"val": 0.022348127163991188
 		},
 		{
 			"chap": "UP IN LONDON.",
-			"val": 0.6842105263157895
+			"val": 0.014126510751844295
 		},
 		{
 			"chap": "DOWN AT ALLINGTON.",
-			"val": 0.8157894736842105
+			"val": 0.016573775300674685
 		},
 		{
 			"chap": "MR. CRAWLEY IS SUMMONED TO BARCHESTER.",
-			"val": 0.42105263157894735
+			"val": 0.007814106518609911
 		},
 		{
 			"chap": "THE BISHOP OF BARCHESTER IS CRUSHED.",
-			"val": 0.5526315789473685
+			"val": 0.010508215513947268
 		},
 		{
 			"chap": "WHERE DID IT COME FROM?",
-			"val": 0.4473684210526316
+			"val": 0.008945210585165859
 		},
 		{
 			"chap": "WHAT MR. WALKER THOUGHT ABOUT IT.",
-			"val": 0.47368421052631576
+			"val": 0.007948717948717949
 		},
 		{
 			"chap": "MR. ROBARTS ON HIS EMBASSY.",
-			"val": 0.5263157894736842
+			"val": 0.008866522885214475
 		},
 		{
 			"chap": "MAJOR GRANTLY AT HOME.",
-			"val": 0.7894736842105263
+			"val": 0.026320882523708147
 		},
 		{
 			"chap": "MISS LILY DALE'S RESOLUTION.",
-			"val": 0.6052631578947368
+			"val": 0.016976820111002284
 		},
 		{
 			"chap": "MRS. DOBBS BROUGHTON'S DINNER-PARTY.",
-			"val": 0.7631578947368421
+			"val": 0.011077005204857868
 		},
 		{
 			"chap": "MISS MADALINA DEMOLINES.",
-			"val": 0.631578947368421
+			"val": 0.011759851454507943
 		},
 		{
 			"chap": "THE PICTURE.",
-			"val": 0.5789473684210527
+			"val": 0.011791269443050678
 		},
 		{
 			"chap": "A HERO AT HOME.",
-			"val": 0.6578947368421053
+			"val": 0.011392699372239015
 		},
 		{
 			"chap": "SHOWING HOW MAJOR GRANTLY TOOK A WALK.",
-			"val": 0.7368421052631579
+			"val": 0.014503441494591937
 		},
 		{
 			"chap": "MISS LILY DALE'S LOGIC.",
-			"val": 0.5
+			"val": 0.013355048859934854
 		},
 		{
 			"chap": "SHOWING WHAT MAJOR GRANTLY DID AFTER HIS WALK.",
-			"val": 0.5526315789473685
+			"val": 0.017829457364341085
 		},
 		{
 			"chap": "SHOWING HOW MAJOR GRANTLY RETURNED TO GUESTWICK.",
-			"val": 0.6052631578947368
+			"val": 0.015423514538558787
 		},
 		{
 			"chap": "MR. TOOGOOD.",
-			"val": 0.7631578947368421
+			"val": 0.012495925241768988
 		},
 		{
 			"chap": "THE PLUMSTEAD FOXES.",
-			"val": 0.6052631578947368
+			"val": 0.01741049534085336
 		},
 		{
 			"chap": "MRS. PROUDIE SENDS FOR HER LAWYER.",
-			"val": 0.47368421052631576
+			"val": 0.008575942225231325
 		},
 		{
 			"chap": "LILY DALE WRITES TWO WORDS IN HER BOOK.",
-			"val": 0.7894736842105263
+			"val": 0.011255311818077408
 		},
 		{
 			"chap": "GRACE CRAWLEY RETURNS HOME.",
-			"val": 0.5263157894736842
+			"val": 0.011666666666666667
 		},
 		{
 			"chap": "HOOK COURT.",
-			"val": 0.39473684210526316
+			"val": 0.005806451612903226
 		},
 		{
 			"chap": "JAEL.",
-			"val": 0.631578947368421
+			"val": 0.011190430252749373
 		},
 		{
 			"chap": "A NEW FLIRTATION.",
-			"val": 0.5
+			"val": 0.009667823500247892
 		},
 		{
 			"chap": "MR. TOOGOOD'S IDEAS ABOUT SOCIETY.",
-			"val": 0.5
+			"val": 0.012307692307692308
 		},
 		{
 			"chap": "GRACE CRAWLEY AT HOME.",
-			"val": 0.6578947368421053
+			"val": 0.021200750469043152
 		},
 		{
 			"chap": "MR. TOOGOOD TRAVELS PROFESSIONALLY.",
-			"val": 0.631578947368421
+			"val": 0.014136196819355715
 		},
 		{
 			"chap": "MR. CROSBIE GOES INTO THE CITY.",
-			"val": 0.42105263157894735
+			"val": 0.007792207792207792
 		},
 		{
 			"chap": "I SUPPOSE I MUST LET YOU HAVE IT.",
-			"val": 0.5
+			"val": 0.00909090909090909
 		},
 		{
 			"chap": "LILY DALE GOES TO LONDON.",
-			"val": 0.7105263157894737
+			"val": 0.011980267794221282
 		},
 		{
 			"chap": "THE BAYSWATER ROMANCE.",
-			"val": 0.6052631578947368
+			"val": 0.01014370245139476
 		},
 		{
 			"chap": "DR. TEMPEST AT THE PALACE.",
-			"val": 0.6052631578947368
+			"val": 0.007774322523322968
 		},
 		{
 			"chap": "THE SOFTNESS OF SIR RAFFLE BUFFLE.",
-			"val": 0.34210526315789475
+			"val": 0.006211180124223602
 		},
 		{
 			"chap": "NEAR THE CLOSE.",
-			"val": 0.8421052631578947
+			"val": 0.016629436584760487
 		},
 		{
 			"chap": "LADY LUFTON'S PROPOSITION.",
-			"val": 0.5789473684210527
+			"val": 0.008293838862559242
 		},
 		{
 			"chap": "MRS. DOBBS BROUGHTON PILES HER FAGOTS.",
-			"val": 0.6578947368421053
+			"val": 0.01003890074036893
 		},
 		{
 			"chap": "WHY DON'T YOU HAVE AN \"IT\" FOR YOURSELF?",
-			"val": 0.7105263157894737
+			"val": 0.009676795045480937
 		},
 		{
 			"chap": "ROTTEN ROW.",
-			"val": 0.5526315789473685
+			"val": 0.010154266744776411
 		},
 		{
 			"chap": "THE CLERICAL COMMISSION.",
-			"val": 0.5789473684210527
+			"val": 0.008259212198221092
 		},
 		{
 			"chap": "FRAMLEY PARSONAGE.",
-			"val": 0.6842105263157895
+			"val": 0.014126149802890934
 		},
 		{
 			"chap": "THE ARCHDEACON GOES TO FRAMLEY.",
-			"val": 0.7368421052631579
+			"val": 0.01800720288115246
 		},
 		{
 			"chap": "A DOUBLE PLEDGE.",
-			"val": 0.7631578947368421
+			"val": 0.02483660130718954
 		},
 		{
 			"chap": "THE CROSS-GRAINEDNESS OF MEN.",
-			"val": 0.7105263157894737
+			"val": 0.023790767291633843
 		},
 		{
 			"chap": "A LADY PRESENTS HER COMPLIMENTS TO MISS L. D.",
-			"val": 0.631578947368421
+			"val": 0.012012480499219968
 		},
 		{
 			"chap": "THE END OF JAEL AND SISERA.",
-			"val": 0.631578947368421
+			"val": 0.010987334045475354
 		},
 		{
 			"chap": "IT'S DOGGED AS DOES IT.",
-			"val": 0.5526315789473685
+			"val": 0.008890300047626608
 		},
 		{
 			"chap": "MR. CRAWLEY'S LETTER TO THE DEAN.",
-			"val": 0.5789473684210527
+			"val": 0.007982120051085569
 		},
 		{
 			"chap": "TWO VISITORS TO HOGGLESTOCK.",
-			"val": 0.8421052631578947
+			"val": 0.02512945476698142
 		},
 		{
 			"chap": "THE TRAGEDY IN HOOK COURT.",
-			"val": 0.5
+			"val": 0.011988011988011988
 		},
 		{
 			"chap": "MISS VAN SIEVER MAKES HER CHOICE.",
-			"val": 0.6052631578947368
+			"val": 0.018020241915576402
 		},
 		{
 			"chap": "REQUIESCAT IN PACE.",
-			"val": 0.47368421052631576
+			"val": 0.008206565252201762
 		},
 		{
 			"chap": "IN MEMORIAM.",
-			"val": 0.631578947368421
+			"val": 0.014377307169224791
 		},
 		{
 			"chap": "THE OBSTINACY OF MR. CRAWLEY.",
-			"val": 0.5263157894736842
+			"val": 0.016210984756835228
 		},
 		{
 			"chap": "MR. CRAWLEY'S LAST APPEARANCE IN HIS OWN PULPIT.",
-			"val": 0.39473684210526316
+			"val": 0.009281540048126504
 		},
 		{
 			"chap": "MRS. ARABIN IS CAUGHT.",
-			"val": 0.6842105263157895
+			"val": 0.01162136832239925
 		},
 		{
 			"chap": "MR. TOOGOOD AT SILVERBRIDGE.",
-			"val": 0.5526315789473685
+			"val": 0.008531656937584195
 		},
 		{
 			"chap": "MR. TOOGOOD AT THE DRAGON OF WANTLY.",
-			"val": 0.34210526315789475
+			"val": 0.013109756097560975
 		},
 		{
 			"chap": "THERE IS COMFORT AT PLUMSTEAD.",
-			"val": 0.47368421052631576
+			"val": 0.010282776349614395
 		},
 		{
 			"chap": "THE CRAWLEYS ARE INFORMED.",
-			"val": 0.6842105263157895
+			"val": 0.013631937682570594
 		},
 		{
 			"chap": "MADALINA'S HEART IS BLEEDING.",
-			"val": 0.631578947368421
+			"val": 0.007572570466975179
 		},
 		{
 			"chap": "I THINK HE IS LIGHT OF HEART.",
-			"val": 0.6052631578947368
+			"val": 0.012263396427619302
 		},
 		{
 			"chap": "THE SHATTERED TREE.",
-			"val": 0.5
+			"val": 0.008980582524271844
 		},
 		{
 			"chap": "THE ARABINS RETURN TO BARCHESTER.",
-			"val": 0.7368421052631579
+			"val": 0.015163147792706335
 		},
 		{
 			"chap": "MR. CRAWLEY SPEAKS OF HIS COAT.",
-			"val": 0.5
+			"val": 0.008431272355646398
 		},
 		{
 			"chap": "MISS DEMOLINES DESIRES TO BECOME A FINGER-POST.",
-			"val": 0.6842105263157895
+			"val": 0.010102604577742699
 		},
 		{
 			"chap": "BARCHESTER CLOISTERS.",
-			"val": 0.47368421052631576
+			"val": 0.012881854987118146
 		},
 		{
 			"chap": "THE LAST SCENE AT HOGGLESTOCK.",
-			"val": 0.6842105263157895
+			"val": 0.01276595744680851
 		},
 		{
 			"chap": "MR. CRAWLEY IS CONQUERED.",
-			"val": 0.6052631578947368
+			"val": 0.01146384479717813
 		},
 		{
 			"chap": "CONCLUSION.",
-			"val": 0.5526315789473685
+			"val": 0.011235955056179775
 		}],
 		"title": "Last_Chronicle"
 	}]
 },
 {
-	"topic": "TOPIC1",
+	"topic": "abstract",
 	"books": [{
-		"totalchap": 27,
+		"totalchap": 21,
 		"b": [{
-			"chap": 1,
-			"val": 0.21031541601908843
+			"chap": "Hiram's Hospital",
+			"val": 0.028538812785388126
 		},
 		{
-			"chap": 2,
-			"val": 0.9325575631540214
+			"chap": "The Barchester Reformer",
+			"val": 0.024626564392410174
 		},
 		{
-			"chap": 3,
-			"val": 0.5796314000806537
+			"chap": "The Bishop of Barchester",
+			"val": 0.03158752802119421
 		},
 		{
-			"chap": 4,
-			"val": 0.9768701974521936
+			"chap": "Hiram's Bedesmen",
+			"val": 0.030112236517930466
 		},
 		{
-			"chap": 5,
-			"val": 0.8915133642428862
+			"chap": "Dr Grantly Visits the Hospital",
+			"val": 0.03293528505392912
 		},
 		{
-			"chap": 6,
-			"val": 0.8482748986434399
+			"chap": "The Warden's Tea Party",
+			"val": 0.032591725214676036
 		},
 		{
-			"chap": 7,
-			"val": 0.7997352719787372
+			"chap": "_The Jupiter_",
+			"val": 0.026593305823016965
 		},
 		{
-			"chap": 8,
-			"val": 0.24022653998701737
+			"chap": "Plumstead Episcopi",
+			"val": 0.024547534845017684
 		},
 		{
-			"chap": 9,
-			"val": 0.6140288851621297
+			"chap": "The Conference",
+			"val": 0.03173449612403101
 		},
 		{
-			"chap": 10,
-			"val": 0.42103146067680675
+			"chap": "Tribulation",
+			"val": 0.035402906208718624
 		},
 		{
-			"chap": 11,
-			"val": 0.39951015548029445
+			"chap": "Iphigenia",
+			"val": 0.032046742209631725
 		},
 		{
-			"chap": 12,
-			"val": 0.5908676876207661
+			"chap": "Mr Bold's Visit to Plumstead",
+			"val": 0.02701165766278078
 		},
 		{
-			"chap": 13,
-			"val": 0.5096984625766243
+			"chap": "The Warden's Decision",
+			"val": 0.03189066059225513
 		},
 		{
-			"chap": 14,
-			"val": 0.5431174311644144
+			"chap": "Mount Olympus",
+			"val": 0.02414844941535333
 		},
 		{
-			"chap": 15,
-			"val": 0.7510655192384587
+			"chap": "Tom Towers, Dr Anticant, and Mr Sentiment",
+			"val": 0.030501862032275225
 		},
 		{
-			"chap": 16,
-			"val": 0.8475676262688114
+			"chap": "A Long Day in London",
+			"val": 0.025935074100211716
 		},
 		{
-			"chap": 17,
-			"val": 0.7936145460975346
+			"chap": "Sir Abraham Haphazard",
+			"val": 0.032753326509723645
 		},
 		{
-			"chap": 18,
-			"val": 0.5496900734410352
+			"chap": "The Warden Is Very Obstinate",
+			"val": 0.026293103448275863
 		},
 		{
-			"chap": 19,
-			"val": 0.020387678624515293
+			"chap": "The Warden Resigns",
+			"val": 0.028924655936552367
 		},
 		{
-			"chap": 20,
-			"val": 0.3773678037362054
+			"chap": "Farewell",
+			"val": 0.030944963655244028
 		},
 		{
-			"chap": 21,
-			"val": 0.05032772116422968
-		},
-		{
-			"chap": 22,
-			"val": 0.6359370297240897
-		},
-		{
-			"chap": 23,
-			"val": 0.3744557131806636
-		},
-		{
-			"chap": 24,
-			"val": 0.6756342297445611
-		},
-		{
-			"chap": 25,
-			"val": 0.594928384218215
-		},
-		{
-			"chap": 26,
-			"val": 0.058144136101960675
-		},
-		{
-			"chap": 27,
-			"val": 0.826689940388438
-		}]
-	},
-	{
-		"totalchap": 60,
-		"b": [{
-			"chap": 1,
-			"val": 0.30138906579660063
-		},
-		{
-			"chap": 2,
-			"val": 0.3577541573401125
-		},
-		{
-			"chap": 3,
-			"val": 0.3699542058073908
-		},
-		{
-			"chap": 4,
-			"val": 0.2640664707119703
-		},
-		{
-			"chap": 5,
-			"val": 0.89484846760114
-		},
-		{
-			"chap": 6,
-			"val": 0.8642364168845466
-		},
-		{
-			"chap": 7,
-			"val": 0.9326480972238017
-		},
-		{
-			"chap": 8,
-			"val": 0.47081733922629576
-		},
-		{
-			"chap": 9,
-			"val": 0.9155794077447796
-		},
-		{
-			"chap": 10,
-			"val": 0.34388455449407695
-		},
-		{
-			"chap": 11,
-			"val": 0.5723833922632452
-		},
-		{
-			"chap": 12,
-			"val": 0.7821072463195345
-		},
-		{
-			"chap": 13,
-			"val": 0.7110050484162379
-		},
-		{
-			"chap": 14,
-			"val": 0.2347844627966824
-		},
-		{
-			"chap": 15,
-			"val": 0.9212111274121172
-		},
-		{
-			"chap": 16,
-			"val": 0.5052847024744915
-		},
-		{
-			"chap": 17,
-			"val": 0.5160359624248745
-		},
-		{
-			"chap": 18,
-			"val": 0.18385444637531956
-		},
-		{
-			"chap": 19,
-			"val": 0.06279476374749171
-		},
-		{
-			"chap": 20,
-			"val": 0.7950314652910832
-		},
-		{
-			"chap": 21,
-			"val": 0.9508774439655039
-		},
-		{
-			"chap": 22,
-			"val": 0.23570511892908097
-		},
-		{
-			"chap": 23,
-			"val": 0.5461719271055321
-		},
-		{
-			"chap": 24,
-			"val": 0.31251745138671605
-		},
-		{
-			"chap": 25,
-			"val": 0.3729931644569645
-		},
-		{
-			"chap": 26,
-			"val": 0.2637757844987797
-		},
-		{
-			"chap": 27,
-			"val": 0.45400962334263906
-		},
-		{
-			"chap": 28,
-			"val": 0.862941597794579
-		},
-		{
-			"chap": 29,
-			"val": 0.4920174948761218
-		},
-		{
-			"chap": 30,
-			"val": 0.3467474823152382
-		},
-		{
-			"chap": 31,
-			"val": 0.6640420434935118
-		},
-		{
-			"chap": 32,
-			"val": 0.11901206499007166
-		},
-		{
-			"chap": 33,
-			"val": 0.48056869201533436
-		},
-		{
-			"chap": 34,
-			"val": 0.13539498741371847
-		},
-		{
-			"chap": 35,
-			"val": 0.7517884185232246
-		},
-		{
-			"chap": 36,
-			"val": 0.6153562818467225
-		},
-		{
-			"chap": 37,
-			"val": 0.9067163959933481
-		},
-		{
-			"chap": 38,
-			"val": 0.4209591759106276
-		},
-		{
-			"chap": 39,
-			"val": 0.41173233722779645
-		},
-		{
-			"chap": 40,
-			"val": 0.18767946008090697
-		},
-		{
-			"chap": 41,
-			"val": 0.8061968113176492
-		},
-		{
-			"chap": 42,
-			"val": 0.9435756623013243
-		},
-		{
-			"chap": 43,
-			"val": 0.7305666256690078
-		},
-		{
-			"chap": 44,
-			"val": 0.5962861581427462
-		},
-		{
-			"chap": 45,
-			"val": 0.8740315908569861
-		},
-		{
-			"chap": 46,
-			"val": 0.38988673027540466
-		},
-		{
-			"chap": 47,
-			"val": 0.9933613391424942
-		},
-		{
-			"chap": 48,
-			"val": 0.21071875561525133
-		},
-		{
-			"chap": 49,
-			"val": 0.21694044951971214
-		},
-		{
-			"chap": 50,
-			"val": 0.8347197223650861
-		},
-		{
-			"chap": 51,
-			"val": 0.9294649541787533
-		},
-		{
-			"chap": 52,
-			"val": 0.035799380442215534
-		},
-		{
-			"chap": 53,
-			"val": 0.6878119497613282
-		},
-		{
-			"chap": 54,
-			"val": 0.6479935827838061
-		},
-		{
-			"chap": 55,
-			"val": 0.5302568080243187
-		},
-		{
-			"chap": 56,
-			"val": 0.6781966352273558
-		},
-		{
-			"chap": 57,
-			"val": 0.10848162271746942
-		},
-		{
-			"chap": 58,
-			"val": 0.21516059045264135
-		},
-		{
-			"chap": 59,
-			"val": 0.9048844880466465
-		},
-		{
-			"chap": 60,
-			"val": 0.4111995908537571
-		}]
-	},
-	{
-		"totalchap": 84,
-		"b": [{
-			"chap": 1,
-			"val": 0.7052063817111731
-		},
-		{
-			"chap": 2,
-			"val": 0.1890746348803547
-		},
-		{
-			"chap": 3,
-			"val": 0.0004716412613300358
-		},
-		{
-			"chap": 4,
-			"val": 0.4075359848052248
-		},
-		{
-			"chap": 5,
-			"val": 0.06039827699859135
-		},
-		{
-			"chap": 6,
-			"val": 0.7199940664443695
-		},
-		{
-			"chap": 7,
-			"val": 0.09795555364378339
-		},
-		{
-			"chap": 8,
-			"val": 0.4587360802156024
-		},
-		{
-			"chap": 9,
-			"val": 0.1343230338678496
-		},
-		{
-			"chap": 10,
-			"val": 0.19021818348126363
-		},
-		{
-			"chap": 11,
-			"val": 0.8296581029526808
-		},
-		{
-			"chap": 12,
-			"val": 0.3563162553698319
-		},
-		{
-			"chap": 13,
-			"val": 0.647202580930555
-		},
-		{
-			"chap": 14,
-			"val": 0.76140564799326
-		},
-		{
-			"chap": 15,
-			"val": 0.010234818109782884
-		},
-		{
-			"chap": 16,
-			"val": 0.08941727832224133
-		},
-		{
-			"chap": 17,
-			"val": 0.7241743968666411
-		},
-		{
-			"chap": 18,
-			"val": 0.9133981704233678
-		},
-		{
-			"chap": 19,
-			"val": 0.9165919407356805
-		},
-		{
-			"chap": 20,
-			"val": 0.6247151241154166
-		},
-		{
-			"chap": 21,
-			"val": 0.5287310552609563
-		},
-		{
-			"chap": 22,
-			"val": 0.27626704326617724
-		},
-		{
-			"chap": 23,
-			"val": 0.008035149652985796
-		},
-		{
-			"chap": 24,
-			"val": 0.4216611365921259
-		},
-		{
-			"chap": 25,
-			"val": 0.0958561641108302
-		},
-		{
-			"chap": 26,
-			"val": 0.3908219805985338
-		},
-		{
-			"chap": 27,
-			"val": 0.9046843939441541
-		},
-		{
-			"chap": 28,
-			"val": 0.954854383253504
-		},
-		{
-			"chap": 29,
-			"val": 0.09988316051172008
-		},
-		{
-			"chap": 30,
-			"val": 0.11821548182755282
-		},
-		{
-			"chap": 31,
-			"val": 0.5437992233180127
-		},
-		{
-			"chap": 32,
-			"val": 0.6903717516468123
-		},
-		{
-			"chap": 33,
-			"val": 0.8230523147839803
-		},
-		{
-			"chap": 34,
-			"val": 0.207844611857659
-		},
-		{
-			"chap": 35,
-			"val": 0.00032573053714035627
-		},
-		{
-			"chap": 36,
-			"val": 0.9849830386433057
-		},
-		{
-			"chap": 37,
-			"val": 0.531589928396901
-		},
-		{
-			"chap": 38,
-			"val": 0.5475098128398435
-		},
-		{
-			"chap": 39,
-			"val": 0.452898063431032
-		},
-		{
-			"chap": 40,
-			"val": 0.27638700153737683
-		},
-		{
-			"chap": 41,
-			"val": 0.8699644876256006
-		},
-		{
-			"chap": 42,
-			"val": 0.666067040062003
-		},
-		{
-			"chap": 43,
-			"val": 0.9660629024946765
-		},
-		{
-			"chap": 44,
-			"val": 0.006420890426633519
-		},
-		{
-			"chap": 45,
-			"val": 0.7503087024486119
-		},
-		{
-			"chap": 46,
-			"val": 0.3963867781526822
-		},
-		{
-			"chap": 47,
-			"val": 0.35502117614888673
-		},
-		{
-			"chap": 48,
-			"val": 0.8020587840033812
-		},
-		{
-			"chap": 49,
-			"val": 0.24028953607792325
-		},
-		{
-			"chap": 50,
-			"val": 0.40208359543975747
-		},
-		{
-			"chap": 51,
-			"val": 0.3110696152118272
-		},
-		{
-			"chap": 52,
-			"val": 0.4359837783547311
-		},
-		{
-			"chap": 53,
-			"val": 0.6525749490831083
-		},
-		{
-			"chap": 54,
-			"val": 0.49892016763260805
-		},
-		{
-			"chap": 55,
-			"val": 0.976438507365951
-		},
-		{
-			"chap": 56,
-			"val": 0.6382187107935833
-		},
-		{
-			"chap": 57,
-			"val": 0.8430821791102122
-		},
-		{
-			"chap": 58,
-			"val": 0.9888589899641538
-		},
-		{
-			"chap": 59,
-			"val": 0.28430489367498823
-		},
-		{
-			"chap": 60,
-			"val": 0.34739581717788326
-		},
-		{
-			"chap": 61,
-			"val": 0.5318243325127083
-		},
-		{
-			"chap": 62,
-			"val": 0.8566680886711244
-		},
-		{
-			"chap": 63,
-			"val": 0.8957969437835536
-		},
-		{
-			"chap": 64,
-			"val": 0.37326792734323755
-		},
-		{
-			"chap": 65,
-			"val": 0.3673210624873078
-		},
-		{
-			"chap": 66,
-			"val": 0.5608134692579129
-		},
-		{
-			"chap": 67,
-			"val": 0.6205708175477089
-		},
-		{
-			"chap": 68,
-			"val": 0.8317208281986861
-		},
-		{
-			"chap": 69,
-			"val": 0.29437659528329085
-		},
-		{
-			"chap": 70,
-			"val": 0.5549590195613762
-		},
-		{
-			"chap": 71,
-			"val": 0.6741624922356907
-		},
-		{
-			"chap": 72,
-			"val": 0.14344520061212807
-		},
-		{
-			"chap": 73,
-			"val": 0.5307690112369887
-		},
-		{
-			"chap": 74,
-			"val": 0.7985083867339137
-		},
-		{
-			"chap": 75,
-			"val": 0.6428808790498766
-		},
-		{
-			"chap": 76,
-			"val": 0.1289522813280729
-		},
-		{
-			"chap": 77,
-			"val": 0.37598888120585006
-		},
-		{
-			"chap": 78,
-			"val": 0.9920163064033533
-		},
-		{
-			"chap": 79,
-			"val": 0.6470105028903553
-		},
-		{
-			"chap": 80,
-			"val": 0.37949234736417325
-		},
-		{
-			"chap": 81,
-			"val": 0.42885661464992586
-		},
-		{
-			"chap": 82,
-			"val": 0.7684781315719383
-		},
-		{
-			"chap": 83,
-			"val": 0.04480643190532618
-		},
-		{
-			"chap": 84,
-			"val": 0.3805978145781963
-		}]
-	},
-	{
-		"totalchap": 48,
-		"b": [{
-			"chap": 1,
-			"val": 0.12214216686421986
-		},
-		{
-			"chap": 2,
-			"val": 0.4788986753004497
-		},
-		{
-			"chap": 3,
-			"val": 0.623535595544766
-		},
-		{
-			"chap": 4,
-			"val": 0.4242361733544481
-		},
-		{
-			"chap": 5,
-			"val": 0.09958956905076977
-		},
-		{
-			"chap": 6,
-			"val": 0.48241812862348266
-		},
-		{
-			"chap": 7,
-			"val": 0.5335279291812605
-		},
-		{
-			"chap": 8,
-			"val": 0.7414469126286222
-		},
-		{
-			"chap": 9,
-			"val": 0.6678255499134323
-		},
-		{
-			"chap": 10,
-			"val": 0.29770329629576864
-		},
-		{
-			"chap": 11,
-			"val": 0.4174901348636836
-		},
-		{
-			"chap": 12,
-			"val": 0.46365517198066
-		},
-		{
-			"chap": 13,
-			"val": 0.961410013974284
-		},
-		{
-			"chap": 14,
-			"val": 0.22639170105212525
-		},
-		{
-			"chap": 15,
-			"val": 0.8112615895646752
-		},
-		{
-			"chap": 16,
-			"val": 0.8270876093915805
-		},
-		{
-			"chap": 17,
-			"val": 0.8142676733839598
-		},
-		{
-			"chap": 18,
-			"val": 0.603870053464793
-		},
-		{
-			"chap": 19,
-			"val": 0.08546183783630634
-		},
-		{
-			"chap": 20,
-			"val": 0.034692013583573766
-		},
-		{
-			"chap": 21,
-			"val": 0.2222493327120525
-		},
-		{
-			"chap": 22,
-			"val": 0.11609986409801976
-		},
-		{
-			"chap": 23,
-			"val": 0.3688442951903702
-		},
-		{
-			"chap": 24,
-			"val": 0.8326697883201692
-		},
-		{
-			"chap": 25,
-			"val": 0.39243538590147864
-		},
-		{
-			"chap": 26,
-			"val": 0.2479778010688779
-		},
-		{
-			"chap": 27,
-			"val": 0.04477124782057029
-		},
-		{
-			"chap": 28,
-			"val": 0.09840959941241567
-		},
-		{
-			"chap": 29,
-			"val": 0.15875157880262436
-		},
-		{
-			"chap": 30,
-			"val": 0.758633750045607
-		},
-		{
-			"chap": 31,
-			"val": 0.6503978338807958
-		},
-		{
-			"chap": 32,
-			"val": 0.3333039326684957
-		},
-		{
-			"chap": 33,
-			"val": 0.1718849871108047
-		},
-		{
-			"chap": 34,
-			"val": 0.0279393110935493
-		},
-		{
-			"chap": 35,
-			"val": 0.2963146920915254
-		},
-		{
-			"chap": 36,
-			"val": 0.6250488768496264
-		},
-		{
-			"chap": 37,
-			"val": 0.7585616135219327
-		},
-		{
-			"chap": 38,
-			"val": 0.7332839811427625
-		},
-		{
-			"chap": 39,
-			"val": 0.5406537065784044
-		},
-		{
-			"chap": 40,
-			"val": 0.09932074366588417
-		},
-		{
-			"chap": 41,
-			"val": 0.0907064973626115
-		},
-		{
-			"chap": 42,
-			"val": 0.7842882751571385
-		},
-		{
-			"chap": 43,
-			"val": 0.16146075205622767
-		},
-		{
-			"chap": 44,
-			"val": 0.8124509157330733
-		},
-		{
-			"chap": 45,
-			"val": 0.18214102913877261
-		},
-		{
-			"chap": 46,
-			"val": 0.9493090174685244
-		},
-		{
-			"chap": 47,
-			"val": 0.4083968914505113
-		},
-		{
-			"chap": 48,
-			"val": 0.34826367536381675
-		}]
-	},
-	{
-		"totalchap": 47,
-		"b": [{
-			"chap": 1,
-			"val": 0.5142866561953124
-		},
-		{
-			"chap": 2,
-			"val": 0.24414928601808294
-		},
-		{
-			"chap": 3,
-			"val": 0.23877836193114066
-		},
-		{
-			"chap": 4,
-			"val": 0.20930262315275416
-		},
-		{
-			"chap": 5,
-			"val": 0.6795435833358491
-		},
-		{
-			"chap": 6,
-			"val": 0.5763312727632574
-		},
-		{
-			"chap": 7,
-			"val": 0.9447302501756293
-		},
-		{
-			"chap": 8,
-			"val": 0.17992684906770617
-		},
-		{
-			"chap": 9,
-			"val": 0.3933475562511044
-		},
-		{
-			"chap": 10,
-			"val": 0.35318727366665925
-		},
-		{
-			"chap": 11,
-			"val": 0.5482970235561965
-		},
-		{
-			"chap": 12,
-			"val": 0.07032457483578491
-		},
-		{
-			"chap": 13,
-			"val": 0.9237919924494462
-		},
-		{
-			"chap": 14,
-			"val": 0.15750775547727436
-		},
-		{
-			"chap": 15,
-			"val": 0.15778120435895715
-		},
-		{
-			"chap": 16,
-			"val": 0.2544324289847206
-		},
-		{
-			"chap": 17,
-			"val": 0.2140658166332543
-		},
-		{
-			"chap": 18,
-			"val": 0.07448883953102636
-		},
-		{
-			"chap": 19,
-			"val": 0.9107436528981937
-		},
-		{
-			"chap": 20,
-			"val": 0.7956262466924243
-		},
-		{
-			"chap": 21,
-			"val": 0.6543351755215718
-		},
-		{
-			"chap": 22,
-			"val": 0.32134584086440465
-		},
-		{
-			"chap": 23,
-			"val": 0.0965518341067847
-		},
-		{
-			"chap": 24,
-			"val": 0.8065584883556945
-		},
-		{
-			"chap": 25,
-			"val": 0.905095232917862
-		},
-		{
-			"chap": 26,
-			"val": 0.8186862317803685
-		},
-		{
-			"chap": 27,
-			"val": 0.19326154637896176
-		},
-		{
-			"chap": 28,
-			"val": 0.6534521362742586
-		},
-		{
-			"chap": 29,
-			"val": 0.8896033216208191
-		},
-		{
-			"chap": 30,
-			"val": 0.5057809638789443
-		},
-		{
-			"chap": 31,
-			"val": 0.8633926526022065
-		},
-		{
-			"chap": 32,
-			"val": 0.43451003770876573
-		},
-		{
-			"chap": 33,
-			"val": 0.649008922201863
-		},
-		{
-			"chap": 34,
-			"val": 0.4574834338094863
-		},
-		{
-			"chap": 35,
-			"val": 0.8201311029439057
-		},
-		{
-			"chap": 36,
-			"val": 0.8362332202120965
-		},
-		{
-			"chap": 37,
-			"val": 0.41554543840043234
-		},
-		{
-			"chap": 38,
-			"val": 0.29783274666674886
-		},
-		{
-			"chap": 39,
-			"val": 0.3764322869330341
-		},
-		{
-			"chap": 40,
-			"val": 0.1971014652571068
-		},
-		{
-			"chap": 41,
-			"val": 0.09232554187295516
-		},
-		{
-			"chap": 42,
-			"val": 0.7732609762885482
-		},
-		{
-			"chap": 43,
-			"val": 0.8904629930751126
-		},
-		{
-			"chap": 44,
-			"val": 0.4373722187889405
-		},
-		{
-			"chap": 45,
-			"val": 0.9905242742545884
-		},
-		{
-			"chap": 46,
-			"val": 0.4818023307469499
-		},
-		{
-			"chap": 47,
-			"val": 0.084718514234571
-		}]
+			"chap": "Conclusion",
+			"val": 0.018867924528301886
+		}],
+		"title": "Warden"
 	},
 	{
 		"totalchap": 53,
 		"b": [{
-			"chap": 1,
-			"val": 0.6755125159289699
+			"chap": "Who Will Be the New Bishop?",
+			"val": 0.0272
 		},
 		{
-			"chap": 2,
-			"val": 0.10956796242436384
+			"chap": "Hiram's Hospital According to Act of Parliament",
+			"val": 0.02484055052030883
 		},
 		{
-			"chap": 3,
-			"val": 0.4155169608869965
+			"chap": "Dr. and Mrs. Proudie",
+			"val": 0.029535864978902954
 		},
 		{
-			"chap": 4,
-			"val": 0.35144136961348926
+			"chap": "The Bishop's Chaplain",
+			"val": 0.03123938879456706
 		},
 		{
-			"chap": 5,
-			"val": 0.8386487455780253
+			"chap": "A Morning Visit",
+			"val": 0.020566239316239316
 		},
 		{
-			"chap": 6,
-			"val": 0.4215689215016927
+			"chap": "War",
+			"val": 0.020929339477726575
 		},
 		{
-			"chap": 7,
-			"val": 0.07124936481424549
+			"chap": "The Dean and Chapter Take Counsel",
+			"val": 0.025660377358490565
 		},
 		{
-			"chap": 8,
-			"val": 0.4178835510692679
+			"chap": "The Ex-Warden Rejoices in His Probable Return to the Hospital",
+			"val": 0.030558154038041782
 		},
 		{
-			"chap": 9,
-			"val": 0.6224561534960411
+			"chap": "The Stanhope Family",
+			"val": 0.02718067152247291
 		},
 		{
-			"chap": 10,
-			"val": 0.6187813245688332
+			"chap": "Mrs. Proudie's Reception\u2014Commenced",
+			"val": 0.019217877094972066
 		},
 		{
-			"chap": 11,
-			"val": 0.7492826737784642
+			"chap": "Mrs. Proudie's Reception\u2014Concluded",
+			"val": 0.017818841775284606
 		},
 		{
-			"chap": 12,
-			"val": 0.44267844405029555
+			"chap": "Slope versus Harding",
+			"val": 0.027998727330575884
 		},
 		{
-			"chap": 13,
-			"val": 0.8182048666020897
+			"chap": "The Rubbish Cart",
+			"val": 0.029023746701846966
 		},
 		{
-			"chap": 14,
-			"val": 0.27973617583440946
+			"chap": "The New Champion",
+			"val": 0.026194144838212634
 		},
 		{
-			"chap": 15,
-			"val": 0.6389046842994521
+			"chap": "The Widow's Suitors",
+			"val": 0.03181076672104405
 		},
 		{
-			"chap": 16,
-			"val": 0.7339119553536217
+			"chap": "Baby Worship",
+			"val": 0.03028091937249179
 		},
 		{
-			"chap": 17,
-			"val": 0.41054546985644813
+			"chap": "Who Shall Be Cock of the Walk?",
+			"val": 0.029720804563194234
 		},
 		{
-			"chap": 18,
-			"val": 0.9019271170534191
+			"chap": "The Widow's Persecution",
+			"val": 0.022898631667132085
 		},
 		{
-			"chap": 19,
-			"val": 0.10920424986560573
+			"chap": "Barchester by Moonlight",
+			"val": 0.023045267489711935
 		},
 		{
-			"chap": 20,
-			"val": 0.04367359713265562
+			"chap": "Mr. Arabin",
+			"val": 0.027182718271827184
 		},
 		{
-			"chap": 21,
-			"val": 0.8702152492969667
+			"chap": "St. Ewold's Parsonage",
+			"val": 0.023213564796124343
 		},
 		{
-			"chap": 22,
-			"val": 0.04380048753882804
+			"chap": "The Thornes of Ullathorne",
+			"val": 0.021365381405441496
 		},
 		{
-			"chap": 23,
-			"val": 0.9372424421659518
+			"chap": "Mr. Arabin Reads Himself in at St. Ewold's",
+			"val": 0.02714468629961588
 		},
 		{
-			"chap": 24,
-			"val": 0.19496785398372118
+			"chap": "Mr. Slope Manages Matters Very Cleverly at Puddingdale",
+			"val": 0.03134541013637289
 		},
 		{
-			"chap": 25,
-			"val": 0.3795839934811125
+			"chap": "Fourteen Arguments in Favour of Mr. Quiverful's Claims",
+			"val": 0.025188262788886005
 		},
 		{
-			"chap": 26,
-			"val": 0.18414918564417493
+			"chap": "Mrs. Proudie Wrestles and Gets a Fall",
+			"val": 0.02616464582003829
 		},
 		{
-			"chap": 27,
-			"val": 0.42954471656052784
+			"chap": "A Love Scene",
+			"val": 0.03609898107714701
 		},
 		{
-			"chap": 28,
-			"val": 0.35184464274624505
+			"chap": "Mrs. Bold is Entertained by Dr. and Mrs. Grantly at Plumstead",
+			"val": 0.027325759901750075
 		},
 		{
-			"chap": 29,
-			"val": 0.2648959235814471
+			"chap": "A Serious Interview",
+			"val": 0.034796156842378606
 		},
 		{
-			"chap": 30,
-			"val": 0.8358710684730948
+			"chap": "Another Love Scene",
+			"val": 0.033622007131940905
 		},
 		{
-			"chap": 31,
-			"val": 0.22673761084569555
+			"chap": "The Bishop's Library",
+			"val": 0.027250206440957887
 		},
 		{
-			"chap": 32,
-			"val": 0.1292199699871731
+			"chap": "A New Candidate for Ecclesiastical Honours",
+			"val": 0.03480243161094225
 		},
 		{
-			"chap": 33,
-			"val": 0.2544576630006492
+			"chap": "Mrs. Proudie Victrix",
+			"val": 0.02922077922077922
 		},
 		{
-			"chap": 34,
-			"val": 0.8450849249688095
+			"chap": "Oxford\u2014The Master and Tutor of Lazarus",
+			"val": 0.03354673495518566
 		},
 		{
-			"chap": 35,
-			"val": 0.06059139401488367
+			"chap": "Miss Thorne's F\u00eate Champ\u00eatre",
+			"val": 0.024669603524229075
 		},
 		{
-			"chap": 36,
-			"val": 0.4232843397991225
+			"chap": "Ullathorne Sports\u2014Act I",
+			"val": 0.027904328018223234
 		},
 		{
-			"chap": 37,
-			"val": 0.8533293368169086
+			"chap": "The Signora Neroni, the Countess De Courcy,",
+			"val": 0.026310544149890373
 		},
 		{
-			"chap": 38,
-			"val": 0.15454628362641554
+			"chap": "The Bishop Sits Down to Breakfast, and the Dean Dies",
+			"val": 0.029683257918552038
 		},
 		{
-			"chap": 39,
-			"val": 0.5374134784445228
+			"chap": "The Lookalofts and the Greenacres",
+			"val": 0.01991722710812209
 		},
 		{
-			"chap": 40,
-			"val": 0.9158104961777436
+			"chap": "Ullathorne Sports\u2014Act II",
+			"val": 0.02450861441397719
 		},
 		{
-			"chap": 41,
-			"val": 0.5831932060524796
+			"chap": "Mrs. Bold Confides Her Sorrow to Her Friend Miss Stanhope",
+			"val": 0.027374301675977653
 		},
 		{
-			"chap": 42,
-			"val": 0.7937814092903116
+			"chap": "Ullathorne Sports\u2014Act III",
+			"val": 0.026213742826120677
 		},
 		{
-			"chap": 43,
-			"val": 0.05109669784297688
+			"chap": "Mr. and Mrs. Quiverful Are Made Happy.",
+			"val": 0.02681863895407308
 		},
 		{
-			"chap": 44,
-			"val": 0.3659107572628396
+			"chap": "Mrs. Bold at Home",
+			"val": 0.02657307595888694
 		},
 		{
-			"chap": 45,
-			"val": 0.4037392914426384
+			"chap": "The Stanhopes at Home",
+			"val": 0.026371308016877638
 		},
 		{
-			"chap": 46,
-			"val": 0.3896340983265075
+			"chap": "Mr. Slope's Parting Interview with the Signora",
+			"val": 0.0208
 		},
 		{
-			"chap": 47,
-			"val": 0.5991007579913129
+			"chap": "The Dean Elect",
+			"val": 0.02775
 		},
 		{
-			"chap": 48,
-			"val": 0.3939295102798698
+			"chap": "Miss Thorne Shows Her Talent at Match-Making",
+			"val": 0.02715217848873921
 		},
 		{
-			"chap": 49,
-			"val": 0.37899730554310695
+			"chap": "The Beelzebub Colt",
+			"val": 0.03438693990969086
 		},
 		{
-			"chap": 50,
-			"val": 0.08916387924582836
+			"chap": "The Archdeacon Is Satisfied with the State of Affairs",
+			"val": 0.026568501920614596
 		},
 		{
-			"chap": 51,
-			"val": 0.4666704934549475
+			"chap": "Mr. Slope Bids Farewell to the Palace and Its Inhabitants",
+			"val": 0.023225384363755316
 		},
 		{
-			"chap": 52,
-			"val": 0.10388334099539664
+			"chap": "The New Dean Takes Possession of the Deanery,\u2028and the New Warden of the Hospital\u2028",
+			"val": 0.024425705146845014
 		},
 		{
-			"chap": 53,
-			"val": 0.6590024873455934
-		}]
+			"chap": "Conclusion",
+			"val": 0.020585048754062838
+		}],
+		"title": "Barchester_Towers"
+	},
+	{
+		"totalchap": 47,
+		"b": [{
+			"chap": "The Greshams of Greshamsbury",
+			"val": 0.02186987424822307
+		},
+		{
+			"chap": "Long, Long Ago",
+			"val": 0.026535253980288095
+		},
+		{
+			"chap": "Dr Thorne",
+			"val": 0.027994011976047905
+		},
+		{
+			"chap": "Lessons from Courcy Castle",
+			"val": 0.030882352941176472
+		},
+		{
+			"chap": "Frank Gresham's First Speech",
+			"val": 0.02893380895759017
+		},
+		{
+			"chap": "Frank Gresham's Early Loves",
+			"val": 0.029760783575061216
+		},
+		{
+			"chap": "The Doctor's Garden",
+			"val": 0.03350722311396469
+		},
+		{
+			"chap": "Matrimonial Prospects",
+			"val": 0.027712609970674488
+		},
+		{
+			"chap": "Sir Roger Scatcherd",
+			"val": 0.026696555940493173
+		},
+		{
+			"chap": "Sir Roger's Will",
+			"val": 0.028324892140311385
+		},
+		{
+			"chap": "The Doctor Drinks His Tea",
+			"val": 0.02506393861892583
+		},
+		{
+			"chap": "When Greek Meets Greek, Then Comes the Tug of War",
+			"val": 0.029406522901443594
+		},
+		{
+			"chap": "The Two Uncles",
+			"val": 0.027726432532347505
+		},
+		{
+			"chap": "Sentence of Exile",
+			"val": 0.035661016949152545
+		},
+		{
+			"chap": "Courcy",
+			"val": 0.023487362777635946
+		},
+		{
+			"chap": "Miss Dunstable",
+			"val": 0.02768795472918351
+		},
+		{
+			"chap": "The Election",
+			"val": 0.021369863013698632
+		},
+		{
+			"chap": "The Rivals",
+			"val": 0.028861265895127875
+		},
+		{
+			"chap": "The Duke of Omnium",
+			"val": 0.023933167757958906
+		},
+		{
+			"chap": "The Proposal",
+			"val": 0.04360978069069826
+		},
+		{
+			"chap": "Mr Moffat Falls into Trouble",
+			"val": 0.029892573563755253
+		},
+		{
+			"chap": "Sir Roger Is Unseated",
+			"val": 0.026555200393410375
+		},
+		{
+			"chap": "Retrospective",
+			"val": 0.030104712041884817
+		},
+		{
+			"chap": "Louis Scatcherd",
+			"val": 0.02802188691759244
+		},
+		{
+			"chap": "Sir Roger Dies",
+			"val": 0.034850348503485035
+		},
+		{
+			"chap": "War",
+			"val": 0.03594771241830065
+		},
+		{
+			"chap": "Miss Thorne Goes on a Visit",
+			"val": 0.030476814681304278
+		},
+		{
+			"chap": "The Doctor Hears Something to His Advantage",
+			"val": 0.028888888888888888
+		},
+		{
+			"chap": "The Donkey Ride",
+			"val": 0.030260380014074596
+		},
+		{
+			"chap": "Post Prandial",
+			"val": 0.032515844585285204
+		},
+		{
+			"chap": "The Small End of the Wedge",
+			"val": 0.02765556253928347
+		},
+		{
+			"chap": "Mr Oriel",
+			"val": 0.03025
+		},
+		{
+			"chap": "A Morning Visit",
+			"val": 0.040533138579514336
+		},
+		{
+			"chap": "A Barouche and Four Arrives at Greshamsbury",
+			"val": 0.021746634449430445
+		},
+		{
+			"chap": "Sir Louis Goes Out to Dinner",
+			"val": 0.025341560158660202
+		},
+		{
+			"chap": "Will He Come Again?",
+			"val": 0.02902902902902903
+		},
+		{
+			"chap": "Sir Louis Leaves Greshamsbury",
+			"val": 0.03346456692913386
+		},
+		{
+			"chap": "De Courcy Precepts and de Courcy Practice",
+			"val": 0.03394442853050702
+		},
+		{
+			"chap": "What the World Says about Blood",
+			"val": 0.03402336544373847
+		},
+		{
+			"chap": "The Two Doctors Change Patients",
+			"val": 0.02888989990900819
+		},
+		{
+			"chap": "Doctor Thorne Won't Interfere",
+			"val": 0.03807778456526166
+		},
+		{
+			"chap": "What Can You Give in Return?",
+			"val": 0.04245137388082742
+		},
+		{
+			"chap": "The Race of Scatcherd Becomes Extinct",
+			"val": 0.037743506493506496
+		},
+		{
+			"chap": "Saturday Evening and Sunday Morning",
+			"val": 0.026805778491171748
+		},
+		{
+			"chap": "Law Business in London",
+			"val": 0.028242888844058907
+		},
+		{
+			"chap": "Our Pet Fox Finds a Tail",
+			"val": 0.02986087546657618
+		},
+		{
+			"chap": "How the Bride Was Received, and Who Were Asked to the Wedding",
+			"val": 0.02889619282388387
+		}],
+		"title": "Doctor_Thorne"
+	},
+	{
+		"totalchap": 48,
+		"b": [{
+			"chap": "OMNES OMNIA BONA DICERE.",
+			"val": 0.029008679762448607
+		},
+		{
+			"chap": "THE FRAMLEY SET, AND THE CHALDICOTES SET.",
+			"val": 0.02264671130366286
+		},
+		{
+			"chap": "CHALDICOTES.",
+			"val": 0.021329778370271623
+		},
+		{
+			"chap": "A MATTER OF CONSCIENCE.",
+			"val": 0.03148897885739991
+		},
+		{
+			"chap": "AMANTIUM IR\u00c6 AMORIS INTEGRATIO.",
+			"val": 0.023452294246176255
+		},
+		{
+			"chap": "MR. HAROLD SMITH'S LECTURE.",
+			"val": 0.021947581504368208
+		},
+		{
+			"chap": "SUNDAY MORNING.",
+			"val": 0.026553235369940708
+		},
+		{
+			"chap": "GATHERUM CASTLE.",
+			"val": 0.029732645965711544
+		},
+		{
+			"chap": "THE VICAR'S RETURN.",
+			"val": 0.03539603960396039
+		},
+		{
+			"chap": "LUCY ROBARTS.",
+			"val": 0.031055900621118012
+		},
+		{
+			"chap": "GRISELDA GRANTLY.",
+			"val": 0.026372989421822923
+		},
+		{
+			"chap": "THE LITTLE BILL.",
+			"val": 0.03152551429334758
+		},
+		{
+			"chap": "DELICATE HINTS.",
+			"val": 0.030766290846550734
+		},
+		{
+			"chap": "MR. CRAWLEY OF HOGGLESTOCK.",
+			"val": 0.03074173369079535
+		},
+		{
+			"chap": "LADY LUFTON'S AMBASSADOR.",
+			"val": 0.028452463566967384
+		},
+		{
+			"chap": "MRS. PODGENS' BABY.",
+			"val": 0.036357458375807
+		},
+		{
+			"chap": "MRS. PROUDIE'S CONVERSAZIONE.",
+			"val": 0.02707474985285462
+		},
+		{
+			"chap": "THE NEW MINISTER'S PATRONAGE.",
+			"val": 0.02930232558139535
+		},
+		{
+			"chap": "MONEY DEALINGS.",
+			"val": 0.027877838684416602
+		},
+		{
+			"chap": "HAROLD SMITH IN THE CABINET.",
+			"val": 0.02720348204570185
+		},
+		{
+			"chap": "WHY PUCK, THE PONY, WAS BEATEN.",
+			"val": 0.03369565217391304
+		},
+		{
+			"chap": "HOGGLESTOCK PARSONAGE.",
+			"val": 0.025357431885621798
+		},
+		{
+			"chap": "THE TRIUMPH OF THE GIANTS.",
+			"val": 0.03318903318903319
+		},
+		{
+			"chap": "MAGNA EST VERITAS.",
+			"val": 0.03471174162390583
+		},
+		{
+			"chap": "NON-IMPULSIVE.",
+			"val": 0.034329307056579786
+		},
+		{
+			"chap": "IMPULSIVE.",
+			"val": 0.03898120826215251
+		},
+		{
+			"chap": "SOUTH AUDLEY STREET.",
+			"val": 0.02967289719626168
+		},
+		{
+			"chap": "DR. THORNE.",
+			"val": 0.03508287292817679
+		},
+		{
+			"chap": "MISS DUNSTABLE AT HOME.",
+			"val": 0.027926257227009928
+		},
+		{
+			"chap": "THE GRANTLY TRIUMPH.",
+			"val": 0.035428089413749475
+		},
+		{
+			"chap": "SALMON FISHING IN NORWAY.",
+			"val": 0.035542625853781935
+		},
+		{
+			"chap": "THE GOAT AND COMPASSES.",
+			"val": 0.028635458167330676
+		},
+		{
+			"chap": "CONSOLATION.",
+			"val": 0.03387671930718288
+		},
+		{
+			"chap": "LADY LUFTON IS TAKEN BY SURPRISE.",
+			"val": 0.031950207468879666
+		},
+		{
+			"chap": "THE STORY OF KING COPHETUA.",
+			"val": 0.03319423368740516
+		},
+		{
+			"chap": "KIDNAPPING AT HOGGLESTOCK.",
+			"val": 0.0263208086973107
+		},
+		{
+			"chap": "MR. SOWERBY WITHOUT COMPANY.",
+			"val": 0.026356248627278717
+		},
+		{
+			"chap": "IS THERE CAUSE OR JUST IMPEDIMENT?",
+			"val": 0.032756716967243284
+		},
+		{
+			"chap": "HOW TO WRITE A LOVE LETTER.",
+			"val": 0.03427081393183088
+		},
+		{
+			"chap": "INTERNECINE.",
+			"val": 0.030694980694980695
+		},
+		{
+			"chap": "DON QUIXOTE.",
+			"val": 0.031001743848091456
+		},
+		{
+			"chap": "TOUCHING PITCH.",
+			"val": 0.03089830161653366
+		},
+		{
+			"chap": "IS SHE NOT INSIGNIFICANT?",
+			"val": 0.02998696219035202
+		},
+		{
+			"chap": "THE PHILISTINES AT THE PARSONAGE.",
+			"val": 0.029400887573964498
+		},
+		{
+			"chap": "PALACE BLESSINGS.",
+			"val": 0.032611123520214426
+		},
+		{
+			"chap": "LADY LUFTON'S REQUEST.",
+			"val": 0.0339318069510789
+		},
+		{
+			"chap": "NEMESIS.",
+			"val": 0.029887310142087214
+		},
+		{
+			"chap": "HOW THEY WERE ALL MARRIED, HAD TWO CHILDREN, AND LIVED HAPPY EVER AFTER.",
+			"val": 0.034050179211469536
+		}],
+		"title": "Framley_Parsonage"
+	},
+	{
+		"totalchap": 60,
+		"b": [{
+			"chap": "THE SQUIRE OF ALLINGTON.",
+			"val": 0.023343373493975902
+		},
+		{
+			"chap": "THE TWO PEARLS OF ALLINGTON.",
+			"val": 0.027822364901016586
+		},
+		{
+			"chap": "THE WIDOW DALE OF ALLINGTON.",
+			"val": 0.03480538922155688
+		},
+		{
+			"chap": "MRS. ROPER'S BOARDING-HOUSE.",
+			"val": 0.033837579617834394
+		},
+		{
+			"chap": "ABOUT L. D.",
+			"val": 0.03430749682337993
+		},
+		{
+			"chap": "BEAUTIFUL DAYS.",
+			"val": 0.03294604488301767
+		},
+		{
+			"chap": "THE BEGINNING OF TROUBLES.",
+			"val": 0.03570264101728073
+		},
+		{
+			"chap": "IT CANNOT BE.",
+			"val": 0.03633084256634888
+		},
+		{
+			"chap": "MRS. DALE'S LITTLE PARTY.",
+			"val": 0.03761268262356233
+		},
+		{
+			"chap": "MRS. LUPEX AND AMELIA ROPER.",
+			"val": 0.03907147782119053
+		},
+		{
+			"chap": "SOCIAL LIFE.",
+			"val": 0.025534276991396057
+		},
+		{
+			"chap": "LILIAN DALE BECOMES A BUTTERFLY.",
+			"val": 0.03322826372471763
+		},
+		{
+			"chap": "A VISIT TO GUESTWICK.",
+			"val": 0.039085401602501464
+		},
+		{
+			"chap": "JOHN EAMES TAKES A WALK.",
+			"val": 0.032407407407407406
+		},
+		{
+			"chap": "THE LAST DAY.",
+			"val": 0.038330907326540514
+		},
+		{
+			"chap": "MR. CROSBIE MEETS AN OLD CLERGYMAN ON HIS WAY TO COURCY CASTLE.",
+			"val": 0.02891566265060241
+		},
+		{
+			"chap": "COURCY CASTLE.",
+			"val": 0.027649769585253458
+		},
+		{
+			"chap": "LILY DALE'S FIRST LOVE-LETTER.",
+			"val": 0.02716873212583413
+		},
+		{
+			"chap": "THE SQUIRE MAKES A VISIT TO THE SMALL HOUSE.",
+			"val": 0.0422936152907686
+		},
+		{
+			"chap": "DR. CROFTS.",
+			"val": 0.035889491350374385
+		},
+		{
+			"chap": "JOHN EAMES ENCOUNTERS TWO ADVENTURES, AND DISPLAYS GREAT COURAGE IN",
+			"val": 0.026467029643073202
+		},
+		{
+			"chap": "LORD DE GUEST AT HOME.",
+			"val": 0.026293103448275863
+		},
+		{
+			"chap": "MR. PLANTAGENET PALLISER.",
+			"val": 0.029715182776407265
+		},
+		{
+			"chap": "A MOTHER-IN-LAW AND A FATHER-IN-LAW.",
+			"val": 0.030231645072634473
+		},
+		{
+			"chap": "ADOLPHUS CROSBIE SPENDS AN EVENING AT HIS CLUB.",
+			"val": 0.03139190523198421
+		},
+		{
+			"chap": "LORD DE COURCY IN THE BOSOM OF HIS FAMILY.",
+			"val": 0.03494903266070314
+		},
+		{
+			"chap": "ON MY HONOUR, I DO NOT UNDERSTAND IT.",
+			"val": 0.040757954951734
+		},
+		{
+			"chap": "THE BOARD.",
+			"val": 0.027327382036800876
+		},
+		{
+			"chap": "JOHN EAMES RETURNS TO BURTON CRESCENT.",
+			"val": 0.026672311600338696
+		},
+		{
+			"chap": "IS IT FROM HIM?",
+			"val": 0.03092965712265818
+		},
+		{
+			"chap": "THE WOUNDED FAWN.",
+			"val": 0.03065630397236615
+		},
+		{
+			"chap": "PAWKINS'S IN JERMYN STREET.",
+			"val": 0.030008278145695365
+		},
+		{
+			"chap": "THE TIME WILL COME.",
+			"val": 0.03460806367883717
+		},
+		{
+			"chap": "THE COMBAT.",
+			"val": 0.02442868400315209
+		},
+		{
+			"chap": "V\u00c6 VICTIS.",
+			"val": 0.026427240386244284
+		},
+		{
+			"chap": "SEE, THE CONQUERING HERO COMES.",
+			"val": 0.029649595687331536
+		},
+		{
+			"chap": "AN OLD MAN'S COMPLAINT.",
+			"val": 0.03802892340653455
+		},
+		{
+			"chap": "DOCTOR CROFTS IS CALLED IN.",
+			"val": 0.03480954984508839
+		},
+		{
+			"chap": "DR. CROFTS IS TURNED OUT.",
+			"val": 0.03395528660279039
+		},
+		{
+			"chap": "PREPARATIONS FOR THE WEDDING.",
+			"val": 0.02620967741935484
+		},
+		{
+			"chap": "DOMESTIC TROUBLES.",
+			"val": 0.028551034975017844
+		},
+		{
+			"chap": "LILY'S BEDSIDE.",
+			"val": 0.034597471723220224
+		},
+		{
+			"chap": "FIE, FIE!",
+			"val": 0.03284218001065152
+		},
+		{
+			"chap": "VALENTINE'S DAY AT ALLINGTON.",
+			"val": 0.0339930151338766
+		},
+		{
+			"chap": "VALENTINE'S DAY IN LONDON.",
+			"val": 0.029588944011339477
+		},
+		{
+			"chap": "JOHN EAMES AT HIS OFFICE.",
+			"val": 0.026822445285502716
+		},
+		{
+			"chap": "THE NEW PRIVATE SECRETARY.",
+			"val": 0.0362599771949829
+		},
+		{
+			"chap": "NEMESIS.",
+			"val": 0.03278688524590164
+		},
+		{
+			"chap": "PREPARATIONS FOR GOING.",
+			"val": 0.029111239637555426
+		},
+		{
+			"chap": "MRS. DALE IS THANKFUL FOR A GOOD THING.",
+			"val": 0.031106578276389598
+		},
+		{
+			"chap": "JOHN EAMES DOES THINGS WHICH HE OUGHT NOT TO HAVE DONE.",
+			"val": 0.03223443223443224
+		},
+		{
+			"chap": "THE FIRST VISIT TO THE GUESTWICK BRIDGE.",
+			"val": 0.03393325834270716
+		},
+		{
+			"chap": "LOQUITUR HOPKINS.",
+			"val": 0.03377665188938146
+		},
+		{
+			"chap": "THE SECOND VISIT TO THE GUESTWICK BRIDGE.",
+			"val": 0.03517672924065618
+		},
+		{
+			"chap": "NOT VERY FIE FIE AFTER ALL.",
+			"val": 0.029535864978902954
+		},
+		{
+			"chap": "SHOWING HOW MR. CROSBIE BECAME AGAIN A HAPPY MAN.",
+			"val": 0.03785714285714286
+		},
+		{
+			"chap": "LILIAN DALE VANQUISHES HER MOTHER.",
+			"val": 0.042627677100494234
+		},
+		{
+			"chap": "THE FATE OF THE SMALL HOUSE.",
+			"val": 0.035512847294756636
+		},
+		{
+			"chap": "JOHN EAMES BECOMES A MAN.",
+			"val": 0.03028009084027252
+		},
+		{
+			"chap": "CONCLUSION.",
+			"val": 0.029484029484029485
+		}],
+		"title": "Small_House"
+	},
+	{
+		"totalchap": 84,
+		"b": [{
+			"chap": "HOW DID HE GET IT?",
+			"val": 0.03283988429470818
+		},
+		{
+			"chap": "BY HEAVENS HE HAD BETTER NOT!",
+			"val": 0.031971995332555424
+		},
+		{
+			"chap": "THE ARCHDEACON'S THREAT.",
+			"val": 0.038002980625931444
+		},
+		{
+			"chap": "THE CLERGYMAN'S HOUSE AT HOGGLESTOCK.",
+			"val": 0.02720605630470783
+		},
+		{
+			"chap": "WHAT THE WORLD THOUGHT ABOUT IT.",
+			"val": 0.033799155021124475
+		},
+		{
+			"chap": "GRACE CRAWLEY.",
+			"val": 0.04125627206838878
+		},
+		{
+			"chap": "MISS PRETTYMAN'S PRIVATE ROOM.",
+			"val": 0.03259155423164535
+		},
+		{
+			"chap": "MR. CRAWLEY IS TAKEN TO SILVERBRIDGE.",
+			"val": 0.023989033584647018
+		},
+		{
+			"chap": "GRACE CRAWLEY GOES TO ALLINGTON.",
+			"val": 0.03985778443113772
+		},
+		{
+			"chap": "DINNER AT FRAMLEY COURT.",
+			"val": 0.02823227462303497
+		},
+		{
+			"chap": "THE BISHOP SENDS HIS INHIBITION.",
+			"val": 0.023996308260267652
+		},
+		{
+			"chap": "MR. CRAWLEY SEEKS FOR SYMPATHY.",
+			"val": 0.03326894183301138
+		},
+		{
+			"chap": "THE BISHOP'S ANGEL.",
+			"val": 0.022565320665083134
+		},
+		{
+			"chap": "MAJOR GRANTLY CONSULTS A FRIEND.",
+			"val": 0.03179099779666352
+		},
+		{
+			"chap": "UP IN LONDON.",
+			"val": 0.03390362580442631
+		},
+		{
+			"chap": "DOWN AT ALLINGTON.",
+			"val": 0.03065415077735406
+		},
+		{
+			"chap": "MR. CRAWLEY IS SUMMONED TO BARCHESTER.",
+			"val": 0.031050791692370964
+		},
+		{
+			"chap": "THE BISHOP OF BARCHESTER IS CRUSHED.",
+			"val": 0.02311807413068399
+		},
+		{
+			"chap": "WHERE DID IT COME FROM?",
+			"val": 0.02981736861721953
+		},
+		{
+			"chap": "WHAT MR. WALKER THOUGHT ABOUT IT.",
+			"val": 0.028205128205128206
+		},
+		{
+			"chap": "MR. ROBARTS ON HIS EMBASSY.",
+			"val": 0.02683920440929787
+		},
+		{
+			"chap": "MAJOR GRANTLY AT HOME.",
+			"val": 0.028643313334623572
+		},
+		{
+			"chap": "MISS LILY DALE'S RESOLUTION.",
+			"val": 0.040319947763630425
+		},
+		{
+			"chap": "MRS. DOBBS BROUGHTON'S DINNER-PARTY.",
+			"val": 0.028426531429334045
+		},
+		{
+			"chap": "MISS MADALINA DEMOLINES.",
+			"val": 0.032184856612337526
+		},
+		{
+			"chap": "THE PICTURE.",
+			"val": 0.028600100351229302
+		},
+		{
+			"chap": "A HERO AT HOME.",
+			"val": 0.038130667286677515
+		},
+		{
+			"chap": "SHOWING HOW MAJOR GRANTLY TOOK A WALK.",
+			"val": 0.03048180924287119
+		},
+		{
+			"chap": "MISS LILY DALE'S LOGIC.",
+			"val": 0.03713355048859935
+		},
+		{
+			"chap": "SHOWING WHAT MAJOR GRANTLY DID AFTER HIS WALK.",
+			"val": 0.03875968992248062
+		},
+		{
+			"chap": "SHOWING HOW MAJOR GRANTLY RETURNED TO GUESTWICK.",
+			"val": 0.030847029077117574
+		},
+		{
+			"chap": "MR. TOOGOOD.",
+			"val": 0.02792567640986635
+		},
+		{
+			"chap": "THE PLUMSTEAD FOXES.",
+			"val": 0.030407062285434036
+		},
+		{
+			"chap": "MRS. PROUDIE SENDS FOR HER LAWYER.",
+			"val": 0.028210336267208307
+		},
+		{
+			"chap": "LILY DALE WRITES TWO WORDS IN HER BOOK.",
+			"val": 0.031124382680601814
+		},
+		{
+			"chap": "GRACE CRAWLEY RETURNS HOME.",
+			"val": 0.035666666666666666
+		},
+		{
+			"chap": "HOOK COURT.",
+			"val": 0.026451612903225806
+		},
+		{
+			"chap": "JAEL.",
+			"val": 0.03299247540034729
+		},
+		{
+			"chap": "A NEW FLIRTATION.",
+			"val": 0.03024293505205751
+		},
+		{
+			"chap": "MR. TOOGOOD'S IDEAS ABOUT SOCIETY.",
+			"val": 0.029349112426035502
+		},
+		{
+			"chap": "GRACE CRAWLEY AT HOME.",
+			"val": 0.0348968105065666
+		},
+		{
+			"chap": "MR. TOOGOOD TRAVELS PROFESSIONALLY.",
+			"val": 0.028136468669294548
+		},
+		{
+			"chap": "MR. CROSBIE GOES INTO THE CITY.",
+			"val": 0.028200371057513916
+		},
+		{
+			"chap": "I SUPPOSE I MUST LET YOU HAVE IT.",
+			"val": 0.0383399209486166
+		},
+		{
+			"chap": "LILY DALE GOES TO LONDON.",
+			"val": 0.030479210711768852
+		},
+		{
+			"chap": "THE BAYSWATER ROMANCE.",
+			"val": 0.03021978021978022
+		},
+		{
+			"chap": "DR. TEMPEST AT THE PALACE.",
+			"val": 0.027210128831630386
+		},
+		{
+			"chap": "THE SOFTNESS OF SIR RAFFLE BUFFLE.",
+			"val": 0.03157349896480331
+		},
+		{
+			"chap": "NEAR THE CLOSE.",
+			"val": 0.037726482998262596
+		},
+		{
+			"chap": "LADY LUFTON'S PROPOSITION.",
+			"val": 0.03495260663507109
+		},
+		{
+			"chap": "MRS. DOBBS BROUGHTON PILES HER FAGOTS.",
+			"val": 0.0367674739616012
+		},
+		{
+			"chap": "WHY DON'T YOU HAVE AN \"IT\" FOR YOURSELF?",
+			"val": 0.031159280046448617
+		},
+		{
+			"chap": "ROTTEN ROW.",
+			"val": 0.029291154071470416
+		},
+		{
+			"chap": "THE CLERICAL COMMISSION.",
+			"val": 0.02626005929690809
+		},
+		{
+			"chap": "FRAMLEY PARSONAGE.",
+			"val": 0.031865965834428384
+		},
+		{
+			"chap": "THE ARCHDEACON GOES TO FRAMLEY.",
+			"val": 0.03748165933039883
+		},
+		{
+			"chap": "A DOUBLE PLEDGE.",
+			"val": 0.03380018674136321
+		},
+		{
+			"chap": "THE CROSS-GRAINEDNESS OF MEN.",
+			"val": 0.03056562155348984
+		},
+		{
+			"chap": "A LADY PRESENTS HER COMPLIMENTS TO MISS L. D.",
+			"val": 0.031513260530421215
+		},
+		{
+			"chap": "THE END OF JAEL AND SISERA.",
+			"val": 0.025942316496261254
+		},
+		{
+			"chap": "IT'S DOGGED AS DOES IT.",
+			"val": 0.02794094300682648
+		},
+		{
+			"chap": "MR. CRAWLEY'S LETTER TO THE DEAN.",
+			"val": 0.029533844189016605
+		},
+		{
+			"chap": "TWO VISITORS TO HOGGLESTOCK.",
+			"val": 0.024824855315260432
+		},
+		{
+			"chap": "THE TRAGEDY IN HOOK COURT.",
+			"val": 0.03196803196803197
+		},
+		{
+			"chap": "MISS VAN SIEVER MAKES HER CHOICE.",
+			"val": 0.036040483831152804
+		},
+		{
+			"chap": "REQUIESCAT IN PACE.",
+			"val": 0.02842273819055244
+		},
+		{
+			"chap": "IN MEMORIAM.",
+			"val": 0.03341752477171168
+		},
+		{
+			"chap": "THE OBSTINACY OF MR. CRAWLEY.",
+			"val": 0.03024437454633438
+		},
+		{
+			"chap": "MR. CRAWLEY'S LAST APPEARANCE IN HIS OWN PULPIT.",
+			"val": 0.024407012719147473
+		},
+		{
+			"chap": "MRS. ARABIN IS CAUGHT.",
+			"val": 0.031302717900656044
+		},
+		{
+			"chap": "MR. TOOGOOD AT SILVERBRIDGE.",
+			"val": 0.028738212842388863
+		},
+		{
+			"chap": "MR. TOOGOOD AT THE DRAGON OF WANTLY.",
+			"val": 0.022865853658536585
+		},
+		{
+			"chap": "THERE IS COMFORT AT PLUMSTEAD.",
+			"val": 0.02724935732647815
+		},
+		{
+			"chap": "THE CRAWLEYS ARE INFORMED.",
+			"val": 0.02750730282375852
+		},
+		{
+			"chap": "MADALINA'S HEART IS BLEEDING.",
+			"val": 0.032393773664282706
+		},
+		{
+			"chap": "I THINK HE IS LIGHT OF HEART.",
+			"val": 0.032791255665155956
+		},
+		{
+			"chap": "THE SHATTERED TREE.",
+			"val": 0.027912621359223302
+		},
+		{
+			"chap": "THE ARABINS RETURN TO BARCHESTER.",
+			"val": 0.03474088291746641
+		},
+		{
+			"chap": "MR. CRAWLEY SPEAKS OF HIS COAT.",
+			"val": 0.027337761880429228
+		},
+		{
+			"chap": "MISS DEMOLINES DESIRES TO BECOME A FINGER-POST.",
+			"val": 0.031097079715864246
+		},
+		{
+			"chap": "BARCHESTER CLOISTERS.",
+			"val": 0.03422892896577107
+		},
+		{
+			"chap": "THE LAST SCENE AT HOGGLESTOCK.",
+			"val": 0.029314420803782507
+		},
+		{
+			"chap": "MR. CRAWLEY IS CONQUERED.",
+			"val": 0.025279247501469725
+		},
+		{
+			"chap": "CONCLUSION.",
+			"val": 0.026484751203852328
+		}],
+		"title": "Last_Chronicle"
 	}]
 },
 {
-	"topic": "TOPIC2",
+	"topic": "class",
 	"books": [{
-		"totalchap": 27,
+		"totalchap": 21,
 		"b": [{
-			"chap": 1,
-			"val": 0.14711456899979714
+			"chap": "Hiram's Hospital",
+			"val": 0.0319634703196347
 		},
 		{
-			"chap": 2,
-			"val": 0.8979762602967716
+			"chap": "The Barchester Reformer",
+			"val": 0.023415421881308032
 		},
 		{
-			"chap": 3,
-			"val": 0.9232635238437042
+			"chap": "The Bishop of Barchester",
+			"val": 0.026288974933768087
 		},
 		{
-			"chap": 4,
-			"val": 0.010739213081303656
+			"chap": "Hiram's Bedesmen",
+			"val": 0.017793594306049824
 		},
 		{
-			"chap": 5,
-			"val": 0.44308776931071225
+			"chap": "Dr Grantly Visits the Hospital",
+			"val": 0.02561633281972265
 		},
 		{
-			"chap": 6,
-			"val": 0.28152962605046783
+			"chap": "The Warden's Tea Party",
+			"val": 0.01834504293520687
 		},
 		{
-			"chap": 7,
-			"val": 0.3136312322028514
+			"chap": "_The Jupiter_",
+			"val": 0.01742320036680422
 		},
 		{
-			"chap": 8,
-			"val": 0.3315771411143673
+			"chap": "Plumstead Episcopi",
+			"val": 0.021011025587684626
 		},
 		{
-			"chap": 9,
-			"val": 0.011306932136672998
+			"chap": "The Conference",
+			"val": 0.025193798449612403
 		},
 		{
-			"chap": 10,
-			"val": 0.01765121898598543
+			"chap": "Tribulation",
+			"val": 0.01215323645970938
 		},
 		{
-			"chap": 11,
-			"val": 0.9313230319333349
+			"chap": "Iphigenia",
+			"val": 0.010269121813031162
 		},
 		{
-			"chap": 12,
-			"val": 0.6487320640012914
+			"chap": "Mr Bold's Visit to Plumstead",
+			"val": 0.018197327267557576
 		},
 		{
-			"chap": 13,
-			"val": 0.2577969719081784
+			"chap": "The Warden's Decision",
+			"val": 0.016270745200130166
 		},
 		{
-			"chap": 14,
-			"val": 0.3680798193655678
+			"chap": "Mount Olympus",
+			"val": 0.009659379766141332
 		},
 		{
-			"chap": 15,
-			"val": 0.6001653251747965
+			"chap": "Tom Towers, Dr Anticant, and Mr Sentiment",
+			"val": 0.016669622273452738
 		},
 		{
-			"chap": 16,
-			"val": 0.08119780519685715
+			"chap": "A Long Day in London",
+			"val": 0.01676076217360621
 		},
 		{
-			"chap": 17,
-			"val": 0.6181781166592076
+			"chap": "Sir Abraham Haphazard",
+			"val": 0.02047082906857728
 		},
 		{
-			"chap": 18,
-			"val": 0.9109053879548827
+			"chap": "The Warden Is Very Obstinate",
+			"val": 0.023706896551724137
 		},
 		{
-			"chap": 19,
-			"val": 0.9932673966800348
+			"chap": "The Warden Resigns",
+			"val": 0.020293911826452064
 		},
 		{
-			"chap": 20,
-			"val": 0.18516296340329375
+			"chap": "Farewell",
+			"val": 0.023260643821391484
 		},
 		{
-			"chap": 21,
-			"val": 0.5063569706529427
-		},
-		{
-			"chap": 22,
-			"val": 0.943456475781548
-		},
-		{
-			"chap": 23,
-			"val": 0.16615432356451165
-		},
-		{
-			"chap": 24,
-			"val": 0.059285668340396724
-		},
-		{
-			"chap": 25,
-			"val": 0.4949357492121642
-		},
-		{
-			"chap": 26,
-			"val": 0.692606496794135
-		},
-		{
-			"chap": 27,
-			"val": 0.7324015028806409
-		}]
-	},
-	{
-		"totalchap": 60,
-		"b": [{
-			"chap": 1,
-			"val": 0.31678255009291467
-		},
-		{
-			"chap": 2,
-			"val": 0.6582307690427178
-		},
-		{
-			"chap": 3,
-			"val": 0.2801871455565803
-		},
-		{
-			"chap": 4,
-			"val": 0.14662455910349892
-		},
-		{
-			"chap": 5,
-			"val": 0.6923327462887388
-		},
-		{
-			"chap": 6,
-			"val": 0.971218733790967
-		},
-		{
-			"chap": 7,
-			"val": 0.4265686940782969
-		},
-		{
-			"chap": 8,
-			"val": 0.5367451441793009
-		},
-		{
-			"chap": 9,
-			"val": 0.17731017590878273
-		},
-		{
-			"chap": 10,
-			"val": 0.7230980164721128
-		},
-		{
-			"chap": 11,
-			"val": 0.1619951917143344
-		},
-		{
-			"chap": 12,
-			"val": 0.2973315549901574
-		},
-		{
-			"chap": 13,
-			"val": 0.5535398363138203
-		},
-		{
-			"chap": 14,
-			"val": 0.9046756939090113
-		},
-		{
-			"chap": 15,
-			"val": 0.9479517195295709
-		},
-		{
-			"chap": 16,
-			"val": 0.060009686046029076
-		},
-		{
-			"chap": 17,
-			"val": 0.39121972847829223
-		},
-		{
-			"chap": 18,
-			"val": 0.8911324056088947
-		},
-		{
-			"chap": 19,
-			"val": 0.7130491875766892
-		},
-		{
-			"chap": 20,
-			"val": 0.5719269338270204
-		},
-		{
-			"chap": 21,
-			"val": 0.01166588234791821
-		},
-		{
-			"chap": 22,
-			"val": 0.17385470589838303
-		},
-		{
-			"chap": 23,
-			"val": 0.4815362932294337
-		},
-		{
-			"chap": 24,
-			"val": 0.45471920450167025
-		},
-		{
-			"chap": 25,
-			"val": 0.33668153676960266
-		},
-		{
-			"chap": 26,
-			"val": 0.879220531479145
-		},
-		{
-			"chap": 27,
-			"val": 0.5084658279935197
-		},
-		{
-			"chap": 28,
-			"val": 0.4868892364572287
-		},
-		{
-			"chap": 29,
-			"val": 0.2411815636493314
-		},
-		{
-			"chap": 30,
-			"val": 0.42918867188906873
-		},
-		{
-			"chap": 31,
-			"val": 0.6055637295410754
-		},
-		{
-			"chap": 32,
-			"val": 0.7421675150055226
-		},
-		{
-			"chap": 33,
-			"val": 0.5389338117990977
-		},
-		{
-			"chap": 34,
-			"val": 0.12763010871363578
-		},
-		{
-			"chap": 35,
-			"val": 0.07340375662766874
-		},
-		{
-			"chap": 36,
-			"val": 0.2019569600794382
-		},
-		{
-			"chap": 37,
-			"val": 0.28915848550852563
-		},
-		{
-			"chap": 38,
-			"val": 0.7730147769305216
-		},
-		{
-			"chap": 39,
-			"val": 0.6887622673352134
-		},
-		{
-			"chap": 40,
-			"val": 0.9231120775796037
-		},
-		{
-			"chap": 41,
-			"val": 0.2660318349058346
-		},
-		{
-			"chap": 42,
-			"val": 0.3035632072569904
-		},
-		{
-			"chap": 43,
-			"val": 0.8421138597002898
-		},
-		{
-			"chap": 44,
-			"val": 0.5637001226463465
-		},
-		{
-			"chap": 45,
-			"val": 0.6373643703111439
-		},
-		{
-			"chap": 46,
-			"val": 0.9766980605324752
-		},
-		{
-			"chap": 47,
-			"val": 0.8361814261670012
-		},
-		{
-			"chap": 48,
-			"val": 0.4783217093812109
-		},
-		{
-			"chap": 49,
-			"val": 0.4393157480889631
-		},
-		{
-			"chap": 50,
-			"val": 0.4071908003606055
-		},
-		{
-			"chap": 51,
-			"val": 0.3683698490140902
-		},
-		{
-			"chap": 52,
-			"val": 0.3954818930661731
-		},
-		{
-			"chap": 53,
-			"val": 0.1195669313689347
-		},
-		{
-			"chap": 54,
-			"val": 0.7034468512304743
-		},
-		{
-			"chap": 55,
-			"val": 0.3436792694116221
-		},
-		{
-			"chap": 56,
-			"val": 0.8020120692700092
-		},
-		{
-			"chap": 57,
-			"val": 0.17463691283386973
-		},
-		{
-			"chap": 58,
-			"val": 0.020517593956788427
-		},
-		{
-			"chap": 59,
-			"val": 0.7468393890554836
-		},
-		{
-			"chap": 60,
-			"val": 0.7050703863046593
-		}]
-	},
-	{
-		"totalchap": 84,
-		"b": [{
-			"chap": 1,
-			"val": 0.2241278255686534
-		},
-		{
-			"chap": 2,
-			"val": 0.24761779700877162
-		},
-		{
-			"chap": 3,
-			"val": 0.9119411183231143
-		},
-		{
-			"chap": 4,
-			"val": 0.9061143447725345
-		},
-		{
-			"chap": 5,
-			"val": 0.962196882889193
-		},
-		{
-			"chap": 6,
-			"val": 0.2983076473583445
-		},
-		{
-			"chap": 7,
-			"val": 0.6520964038915804
-		},
-		{
-			"chap": 8,
-			"val": 0.4821402279697523
-		},
-		{
-			"chap": 9,
-			"val": 0.5934165563705802
-		},
-		{
-			"chap": 10,
-			"val": 0.28637093430049987
-		},
-		{
-			"chap": 11,
-			"val": 0.25639163884425165
-		},
-		{
-			"chap": 12,
-			"val": 0.6340068924300938
-		},
-		{
-			"chap": 13,
-			"val": 0.31766192211226196
-		},
-		{
-			"chap": 14,
-			"val": 0.11658334832094808
-		},
-		{
-			"chap": 15,
-			"val": 0.6175367126836239
-		},
-		{
-			"chap": 16,
-			"val": 0.22625802589115795
-		},
-		{
-			"chap": 17,
-			"val": 0.1609243759529584
-		},
-		{
-			"chap": 18,
-			"val": 0.5154673510115142
-		},
-		{
-			"chap": 19,
-			"val": 0.04093573662438954
-		},
-		{
-			"chap": 20,
-			"val": 0.07266022679599904
-		},
-		{
-			"chap": 21,
-			"val": 0.25639317249229265
-		},
-		{
-			"chap": 22,
-			"val": 0.8518188927333659
-		},
-		{
-			"chap": 23,
-			"val": 0.8840326835758993
-		},
-		{
-			"chap": 24,
-			"val": 0.40911948060513414
-		},
-		{
-			"chap": 25,
-			"val": 0.9729973812232168
-		},
-		{
-			"chap": 26,
-			"val": 0.28286286030424557
-		},
-		{
-			"chap": 27,
-			"val": 0.3726961438602485
-		},
-		{
-			"chap": 28,
-			"val": 0.5424674823956396
-		},
-		{
-			"chap": 29,
-			"val": 0.8657129139467504
-		},
-		{
-			"chap": 30,
-			"val": 0.19776558601964545
-		},
-		{
-			"chap": 31,
-			"val": 0.4692977023315391
-		},
-		{
-			"chap": 32,
-			"val": 0.3901540928504179
-		},
-		{
-			"chap": 33,
-			"val": 0.5483607213206231
-		},
-		{
-			"chap": 34,
-			"val": 0.10554994160230968
-		},
-		{
-			"chap": 35,
-			"val": 0.9477746541658459
-		},
-		{
-			"chap": 36,
-			"val": 0.04338786219495383
-		},
-		{
-			"chap": 37,
-			"val": 0.8306422331653053
-		},
-		{
-			"chap": 38,
-			"val": 0.5183243529518372
-		},
-		{
-			"chap": 39,
-			"val": 0.7237042096871136
-		},
-		{
-			"chap": 40,
-			"val": 0.294140055206938
-		},
-		{
-			"chap": 41,
-			"val": 0.0682829152952642
-		},
-		{
-			"chap": 42,
-			"val": 0.5855163463103431
-		},
-		{
-			"chap": 43,
-			"val": 0.7653674638759967
-		},
-		{
-			"chap": 44,
-			"val": 0.24192193082538316
-		},
-		{
-			"chap": 45,
-			"val": 0.1130651493610898
-		},
-		{
-			"chap": 46,
-			"val": 0.38946444587353457
-		},
-		{
-			"chap": 47,
-			"val": 0.8744410366082042
-		},
-		{
-			"chap": 48,
-			"val": 0.9007802797593804
-		},
-		{
-			"chap": 49,
-			"val": 0.7220676664991058
-		},
-		{
-			"chap": 50,
-			"val": 0.1815983792092607
-		},
-		{
-			"chap": 51,
-			"val": 0.5257158889257622
-		},
-		{
-			"chap": 52,
-			"val": 0.6272655928151099
-		},
-		{
-			"chap": 53,
-			"val": 0.7199377476113391
-		},
-		{
-			"chap": 54,
-			"val": 0.4131122589189492
-		},
-		{
-			"chap": 55,
-			"val": 0.5381316312918879
-		},
-		{
-			"chap": 56,
-			"val": 0.1615815527457869
-		},
-		{
-			"chap": 57,
-			"val": 0.893867677323539
-		},
-		{
-			"chap": 58,
-			"val": 0.7643260058609395
-		},
-		{
-			"chap": 59,
-			"val": 0.528005639321738
-		},
-		{
-			"chap": 60,
-			"val": 0.389018840770483
-		},
-		{
-			"chap": 61,
-			"val": 0.15552209122705973
-		},
-		{
-			"chap": 62,
-			"val": 0.7668033136192386
-		},
-		{
-			"chap": 63,
-			"val": 0.36823189183747884
-		},
-		{
-			"chap": 64,
-			"val": 0.3733416168180499
-		},
-		{
-			"chap": 65,
-			"val": 0.5894182121369897
-		},
-		{
-			"chap": 66,
-			"val": 0.8116542948016121
-		},
-		{
-			"chap": 67,
-			"val": 0.6696949796890999
-		},
-		{
-			"chap": 68,
-			"val": 0.09337281879399417
-		},
-		{
-			"chap": 69,
-			"val": 0.24431160907255345
-		},
-		{
-			"chap": 70,
-			"val": 0.820330970063717
-		},
-		{
-			"chap": 71,
-			"val": 0.993905852294575
-		},
-		{
-			"chap": 72,
-			"val": 0.9145447092600789
-		},
-		{
-			"chap": 73,
-			"val": 0.9727766745487954
-		},
-		{
-			"chap": 74,
-			"val": 0.404137328991078
-		},
-		{
-			"chap": 75,
-			"val": 0.6391400556837119
-		},
-		{
-			"chap": 76,
-			"val": 0.8068460732679584
-		},
-		{
-			"chap": 77,
-			"val": 0.5061506735727406
-		},
-		{
-			"chap": 78,
-			"val": 0.5451626709458053
-		},
-		{
-			"chap": 79,
-			"val": 0.8729762953773277
-		},
-		{
-			"chap": 80,
-			"val": 0.15034518130955887
-		},
-		{
-			"chap": 81,
-			"val": 0.27050027308859914
-		},
-		{
-			"chap": 82,
-			"val": 0.1358031129666748
-		},
-		{
-			"chap": 83,
-			"val": 0.8516992433612178
-		},
-		{
-			"chap": 84,
-			"val": 0.7475092936437787
-		}]
-	},
-	{
-		"totalchap": 48,
-		"b": [{
-			"chap": 1,
-			"val": 0.2665851568583175
-		},
-		{
-			"chap": 2,
-			"val": 0.5924389943338385
-		},
-		{
-			"chap": 3,
-			"val": 0.9059546916712267
-		},
-		{
-			"chap": 4,
-			"val": 0.20184289470684236
-		},
-		{
-			"chap": 5,
-			"val": 0.4758875036349094
-		},
-		{
-			"chap": 6,
-			"val": 0.412584867869241
-		},
-		{
-			"chap": 7,
-			"val": 0.1595003186159406
-		},
-		{
-			"chap": 8,
-			"val": 0.9450643930155028
-		},
-		{
-			"chap": 9,
-			"val": 0.45482630559078574
-		},
-		{
-			"chap": 10,
-			"val": 0.11912121560155275
-		},
-		{
-			"chap": 11,
-			"val": 0.45177366141546815
-		},
-		{
-			"chap": 12,
-			"val": 0.722532317634403
-		},
-		{
-			"chap": 13,
-			"val": 0.2642174982653964
-		},
-		{
-			"chap": 14,
-			"val": 0.6899311692846308
-		},
-		{
-			"chap": 15,
-			"val": 0.4158974795037843
-		},
-		{
-			"chap": 16,
-			"val": 0.37609272329750687
-		},
-		{
-			"chap": 17,
-			"val": 0.7110498113075875
-		},
-		{
-			"chap": 18,
-			"val": 0.4502635260908503
-		},
-		{
-			"chap": 19,
-			"val": 0.09092608056740947
-		},
-		{
-			"chap": 20,
-			"val": 0.025132595272278624
-		},
-		{
-			"chap": 21,
-			"val": 0.9592152973754124
-		},
-		{
-			"chap": 22,
-			"val": 0.29174822397451716
-		},
-		{
-			"chap": 23,
-			"val": 0.8440424118608054
-		},
-		{
-			"chap": 24,
-			"val": 0.5992247845650077
-		},
-		{
-			"chap": 25,
-			"val": 0.6518900709561501
-		},
-		{
-			"chap": 26,
-			"val": 0.2913998707495421
-		},
-		{
-			"chap": 27,
-			"val": 0.4999954659413792
-		},
-		{
-			"chap": 28,
-			"val": 0.893787481536114
-		},
-		{
-			"chap": 29,
-			"val": 0.948958462433531
-		},
-		{
-			"chap": 30,
-			"val": 0.8159518547441856
-		},
-		{
-			"chap": 31,
-			"val": 0.4629576217304068
-		},
-		{
-			"chap": 32,
-			"val": 0.04622847933908625
-		},
-		{
-			"chap": 33,
-			"val": 0.24185146504884902
-		},
-		{
-			"chap": 34,
-			"val": 0.7429081161642882
-		},
-		{
-			"chap": 35,
-			"val": 0.4603556721001757
-		},
-		{
-			"chap": 36,
-			"val": 0.03683731446414329
-		},
-		{
-			"chap": 37,
-			"val": 0.73715666962073
-		},
-		{
-			"chap": 38,
-			"val": 0.1400238064591015
-		},
-		{
-			"chap": 39,
-			"val": 0.402603269106415
-		},
-		{
-			"chap": 40,
-			"val": 0.3971975180318361
-		},
-		{
-			"chap": 41,
-			"val": 0.60330817532527
-		},
-		{
-			"chap": 42,
-			"val": 0.19867769874101882
-		},
-		{
-			"chap": 43,
-			"val": 0.5901118596949209
-		},
-		{
-			"chap": 44,
-			"val": 0.28808195273249615
-		},
-		{
-			"chap": 45,
-			"val": 0.326949911432022
-		},
-		{
-			"chap": 46,
-			"val": 0.811800296622823
-		},
-		{
-			"chap": 47,
-			"val": 0.5783447573606015
-		},
-		{
-			"chap": 48,
-			"val": 0.4830521909126674
-		}]
-	},
-	{
-		"totalchap": 47,
-		"b": [{
-			"chap": 1,
-			"val": 0.15110330833697472
-		},
-		{
-			"chap": 2,
-			"val": 0.9838138750170139
-		},
-		{
-			"chap": 3,
-			"val": 0.7038783032549599
-		},
-		{
-			"chap": 4,
-			"val": 0.6963362226135398
-		},
-		{
-			"chap": 5,
-			"val": 0.08071508389709936
-		},
-		{
-			"chap": 6,
-			"val": 0.9335618348301106
-		},
-		{
-			"chap": 7,
-			"val": 0.3379089426835167
-		},
-		{
-			"chap": 8,
-			"val": 0.3349358006336992
-		},
-		{
-			"chap": 9,
-			"val": 0.2527310605099702
-		},
-		{
-			"chap": 10,
-			"val": 0.45185572037314536
-		},
-		{
-			"chap": 11,
-			"val": 0.9285464344955945
-		},
-		{
-			"chap": 12,
-			"val": 0.8750570290872532
-		},
-		{
-			"chap": 13,
-			"val": 0.5550502301438377
-		},
-		{
-			"chap": 14,
-			"val": 0.4076642246255181
-		},
-		{
-			"chap": 15,
-			"val": 0.16125087038417996
-		},
-		{
-			"chap": 16,
-			"val": 0.7979853487332517
-		},
-		{
-			"chap": 17,
-			"val": 0.2985125658640453
-		},
-		{
-			"chap": 18,
-			"val": 0.8409379938329775
-		},
-		{
-			"chap": 19,
-			"val": 0.547840507046422
-		},
-		{
-			"chap": 20,
-			"val": 0.8234437819047632
-		},
-		{
-			"chap": 21,
-			"val": 0.1637950766588676
-		},
-		{
-			"chap": 22,
-			"val": 0.8140571333849809
-		},
-		{
-			"chap": 23,
-			"val": 0.6879665354248551
-		},
-		{
-			"chap": 24,
-			"val": 0.6377461949082837
-		},
-		{
-			"chap": 25,
-			"val": 0.17062843152935225
-		},
-		{
-			"chap": 26,
-			"val": 0.22986142124179265
-		},
-		{
-			"chap": 27,
-			"val": 0.513871805383254
-		},
-		{
-			"chap": 28,
-			"val": 0.9711490424788431
-		},
-		{
-			"chap": 29,
-			"val": 0.9372430139321114
-		},
-		{
-			"chap": 30,
-			"val": 0.9233163902533256
-		},
-		{
-			"chap": 31,
-			"val": 0.10906365775193416
-		},
-		{
-			"chap": 32,
-			"val": 0.8312233244129655
-		},
-		{
-			"chap": 33,
-			"val": 0.8113465005263996
-		},
-		{
-			"chap": 34,
-			"val": 0.22232786000467974
-		},
-		{
-			"chap": 35,
-			"val": 0.6573355181512348
-		},
-		{
-			"chap": 36,
-			"val": 0.3272854173684049
-		},
-		{
-			"chap": 37,
-			"val": 0.9283551731501892
-		},
-		{
-			"chap": 38,
-			"val": 0.05951064410696383
-		},
-		{
-			"chap": 39,
-			"val": 0.13783015330585557
-		},
-		{
-			"chap": 40,
-			"val": 0.749235809622229
-		},
-		{
-			"chap": 41,
-			"val": 0.34909316403195645
-		},
-		{
-			"chap": 42,
-			"val": 0.23111617935156503
-		},
-		{
-			"chap": 43,
-			"val": 0.08655101772063956
-		},
-		{
-			"chap": 44,
-			"val": 0.5634469416838113
-		},
-		{
-			"chap": 45,
-			"val": 0.3604124941446457
-		},
-		{
-			"chap": 46,
-			"val": 0.8428223214396146
-		},
-		{
-			"chap": 47,
-			"val": 0.4800469730314785
-		}]
+			"chap": "Conclusion",
+			"val": 0.02358490566037736
+		}],
+		"title": "Warden"
 	},
 	{
 		"totalchap": 53,
 		"b": [{
-			"chap": 1,
-			"val": 0.6542655677226665
+			"chap": "Who Will Be the New Bishop?",
+			"val": 0.0192
 		},
 		{
-			"chap": 2,
-			"val": 0.4922765730113592
+			"chap": "Hiram's Hospital According to Act of Parliament",
+			"val": 0.017119838872104734
 		},
 		{
-			"chap": 3,
-			"val": 0.7289216187470718
+			"chap": "Dr. and Mrs. Proudie",
+			"val": 0.021448663853727144
 		},
 		{
-			"chap": 4,
-			"val": 0.9738850153822524
+			"chap": "The Bishop's Chaplain",
+			"val": 0.01833616298811545
 		},
 		{
-			"chap": 5,
-			"val": 0.6739175630383568
+			"chap": "A Morning Visit",
+			"val": 0.029914529914529916
 		},
 		{
-			"chap": 6,
-			"val": 0.8017053019684328
+			"chap": "War",
+			"val": 0.01824116743471582
 		},
 		{
-			"chap": 7,
-			"val": 0.2734993896093366
+			"chap": "The Dean and Chapter Take Counsel",
+			"val": 0.027169811320754716
 		},
 		{
-			"chap": 8,
-			"val": 0.31699293932684525
+			"chap": "The Ex-Warden Rejoices in His Probable Return to the Hospital",
+			"val": 0.027751792952915497
 		},
 		{
-			"chap": 9,
-			"val": 0.09273087874001773
+			"chap": "The Stanhope Family",
+			"val": 0.018831053473085807
 		},
 		{
-			"chap": 10,
-			"val": 0.7553069263731707
+			"chap": "Mrs. Proudie's Reception\u2014Commenced",
+			"val": 0.029497206703910615
 		},
 		{
-			"chap": 11,
-			"val": 0.9481484240379787
+			"chap": "Mrs. Proudie's Reception\u2014Concluded",
+			"val": 0.021778584392014518
 		},
 		{
-			"chap": 12,
-			"val": 0.8994332592772503
+			"chap": "Slope versus Harding",
+			"val": 0.02927139675469297
 		},
 		{
-			"chap": 13,
-			"val": 0.5066374436842793
+			"chap": "The Rubbish Cart",
+			"val": 0.014775725593667546
 		},
 		{
-			"chap": 14,
-			"val": 0.8095371647622658
+			"chap": "The New Champion",
+			"val": 0.025577812018489986
 		},
 		{
-			"chap": 15,
-			"val": 0.26606414686346624
+			"chap": "The Widow's Suitors",
+			"val": 0.01794453507340946
 		},
 		{
-			"chap": 16,
-			"val": 0.5150348711852332
+			"chap": "Baby Worship",
+			"val": 0.017147026632615834
 		},
 		{
-			"chap": 17,
-			"val": 0.6457289332880713
+			"chap": "Who Shall Be Cock of the Walk?",
+			"val": 0.0204142900030021
 		},
 		{
-			"chap": 18,
-			"val": 0.4606827151671604
+			"chap": "The Widow's Persecution",
+			"val": 0.020664618821558223
 		},
 		{
-			"chap": 19,
-			"val": 0.6814525944328315
+			"chap": "Barchester by Moonlight",
+			"val": 0.014609053497942387
 		},
 		{
-			"chap": 20,
-			"val": 0.5572882203020206
+			"chap": "Mr. Arabin",
+			"val": 0.012781278127812781
 		},
 		{
-			"chap": 21,
-			"val": 0.45272745915750934
+			"chap": "St. Ewold's Parsonage",
+			"val": 0.015946709729511507
 		},
 		{
-			"chap": 22,
-			"val": 0.9708460369123537
+			"chap": "The Thornes of Ullathorne",
+			"val": 0.012351861125020864
 		},
 		{
-			"chap": 23,
-			"val": 0.08434607774790603
+			"chap": "Mr. Arabin Reads Himself in at St. Ewold's",
+			"val": 0.020998719590268885
 		},
 		{
-			"chap": 24,
-			"val": 0.6541510867245854
+			"chap": "Mr. Slope Manages Matters Very Cleverly at Puddingdale",
+			"val": 0.02381437003867291
 		},
 		{
-			"chap": 25,
-			"val": 0.22153558091686842
+			"chap": "Fourteen Arguments in Favour of Mr. Quiverful's Claims",
+			"val": 0.0270059724746819
 		},
 		{
-			"chap": 26,
-			"val": 0.6843398523293223
+			"chap": "Mrs. Proudie Wrestles and Gets a Fall",
+			"val": 0.025313763029142736
 		},
 		{
-			"chap": 27,
-			"val": 0.9097892869404451
+			"chap": "A Love Scene",
+			"val": 0.012518195050946142
 		},
 		{
-			"chap": 28,
-			"val": 0.548984837412355
+			"chap": "Mrs. Bold is Entertained by Dr. and Mrs. Grantly at Plumstead",
+			"val": 0.01105311636475284
 		},
 		{
-			"chap": 29,
-			"val": 0.31935285839126515
+			"chap": "A Serious Interview",
+			"val": 0.014541677486367177
 		},
 		{
-			"chap": 30,
-			"val": 0.8826282809039322
+			"chap": "Another Love Scene",
+			"val": 0.010867719476991
 		},
 		{
-			"chap": 31,
-			"val": 0.30726735374037817
+			"chap": "The Bishop's Library",
+			"val": 0.026424442609413706
 		},
 		{
-			"chap": 32,
-			"val": 0.04123263724225057
+			"chap": "A New Candidate for Ecclesiastical Honours",
+			"val": 0.022340425531914895
 		},
 		{
-			"chap": 33,
-			"val": 0.9221022030112529
+			"chap": "Mrs. Proudie Victrix",
+			"val": 0.016030844155844156
 		},
 		{
-			"chap": 34,
-			"val": 0.7747145202776057
+			"chap": "Oxford\u2014The Master and Tutor of Lazarus",
+			"val": 0.01638924455825864
 		},
 		{
-			"chap": 35,
-			"val": 0.022971390933951064
+			"chap": "Miss Thorne's F\u00eate Champ\u00eatre",
+			"val": 0.012555066079295154
 		},
 		{
-			"chap": 36,
-			"val": 0.14224221650985291
+			"chap": "Ullathorne Sports\u2014Act I",
+			"val": 0.013097949886104784
 		},
 		{
-			"chap": 37,
-			"val": 0.3578747195605949
+			"chap": "The Signora Neroni, the Countess De Courcy,",
+			"val": 0.01455052820410604
 		},
 		{
-			"chap": 38,
-			"val": 0.6220465564139186
+			"chap": "The Bishop Sits Down to Breakfast, and the Dean Dies",
+			"val": 0.011583710407239819
 		},
 		{
-			"chap": 39,
-			"val": 0.4527811315611642
+			"chap": "The Lookalofts and the Greenacres",
+			"val": 0.009570615623383343
 		},
 		{
-			"chap": 40,
-			"val": 0.03255631586919794
+			"chap": "Ullathorne Sports\u2014Act II",
+			"val": 0.013103615627274934
 		},
 		{
-			"chap": 41,
-			"val": 0.028553984719604353
+			"chap": "Mrs. Bold Confides Her Sorrow to Her Friend Miss Stanhope",
+			"val": 0.010893854748603353
 		},
 		{
-			"chap": 42,
-			"val": 0.11842614505594162
+			"chap": "Ullathorne Sports\u2014Act III",
+			"val": 0.013494648673801768
 		},
 		{
-			"chap": 43,
-			"val": 0.014737984426527184
+			"chap": "Mr. and Mrs. Quiverful Are Made Happy.",
+			"val": 0.02313107609788803
 		},
 		{
-			"chap": 44,
-			"val": 0.6244208066385044
+			"chap": "Mrs. Bold at Home",
+			"val": 0.011531712208573578
 		},
 		{
-			"chap": 45,
-			"val": 0.5473081981657311
+			"chap": "The Stanhopes at Home",
+			"val": 0.010126582278481013
 		},
 		{
-			"chap": 46,
-			"val": 0.09523620878857708
+			"chap": "Mr. Slope's Parting Interview with the Signora",
+			"val": 0.012266666666666667
 		},
 		{
-			"chap": 47,
-			"val": 0.4419220847720283
+			"chap": "The Dean Elect",
+			"val": 0.02675
 		},
 		{
-			"chap": 48,
-			"val": 0.325408362166027
+			"chap": "Miss Thorne Shows Her Talent at Match-Making",
+			"val": 0.0069459061250263104
 		},
 		{
-			"chap": 49,
-			"val": 0.4372825452321203
+			"chap": "The Beelzebub Colt",
+			"val": 0.009725599166377214
 		},
 		{
-			"chap": 50,
-			"val": 0.7345430179888278
+			"chap": "The Archdeacon Is Satisfied with the State of Affairs",
+			"val": 0.020806658130601792
 		},
 		{
-			"chap": 51,
-			"val": 0.046751969405187443
+			"chap": "Mr. Slope Bids Farewell to the Palace and Its Inhabitants",
+			"val": 0.023225384363755316
 		},
 		{
-			"chap": 52,
-			"val": 0.530753522507096
+			"chap": "The New Dean Takes Possession of the Deanery,\u2028and the New Warden of the Hospital\u2028",
+			"val": 0.02151788310555394
 		},
 		{
-			"chap": 53,
-			"val": 0.4800541366388331
-		}]
+			"chap": "Conclusion",
+			"val": 0.023835319609967497
+		}],
+		"title": "Barchester_Towers"
+	},
+	{
+		"totalchap": 47,
+		"b": [{
+			"chap": "The Greshams of Greshamsbury",
+			"val": 0.015718972115910335
+		},
+		{
+			"chap": "Long, Long Ago",
+			"val": 0.0233131159969674
+		},
+		{
+			"chap": "Dr Thorne",
+			"val": 0.01991017964071856
+		},
+		{
+			"chap": "Lessons from Courcy Castle",
+			"val": 0.01838235294117647
+		},
+		{
+			"chap": "Frank Gresham's First Speech",
+			"val": 0.012683313515655966
+		},
+		{
+			"chap": "Frank Gresham's Early Loves",
+			"val": 0.014503673008099453
+		},
+		{
+			"chap": "The Doctor's Garden",
+			"val": 0.018057784911717497
+		},
+		{
+			"chap": "Matrimonial Prospects",
+			"val": 0.012463343108504398
+		},
+		{
+			"chap": "Sir Roger Scatcherd",
+			"val": 0.018748726309353984
+		},
+		{
+			"chap": "Sir Roger's Will",
+			"val": 0.018570624648283626
+		},
+		{
+			"chap": "The Doctor Drinks His Tea",
+			"val": 0.016368286445012786
+		},
+		{
+			"chap": "When Greek Meets Greek, Then Comes the Tug of War",
+			"val": 0.011406166458741757
+		},
+		{
+			"chap": "The Two Uncles",
+			"val": 0.017457383446292874
+		},
+		{
+			"chap": "Sentence of Exile",
+			"val": 0.018576271186440677
+		},
+		{
+			"chap": "Courcy",
+			"val": 0.010722491702833802
+		},
+		{
+			"chap": "Miss Dunstable",
+			"val": 0.010913500404203719
+		},
+		{
+			"chap": "The Election",
+			"val": 0.007945205479452055
+		},
+		{
+			"chap": "The Rivals",
+			"val": 0.00928704100585798
+		},
+		{
+			"chap": "The Duke of Omnium",
+			"val": 0.006096184240234816
+		},
+		{
+			"chap": "The Proposal",
+			"val": 0.007814469372321654
+		},
+		{
+			"chap": "Mr Moffat Falls into Trouble",
+			"val": 0.014012143858010275
+		},
+		{
+			"chap": "Sir Roger Is Unseated",
+			"val": 0.014752889107450208
+		},
+		{
+			"chap": "Retrospective",
+			"val": 0.013307155322862129
+		},
+		{
+			"chap": "Louis Scatcherd",
+			"val": 0.012269938650306749
+		},
+		{
+			"chap": "Sir Roger Dies",
+			"val": 0.014623479568129014
+		},
+		{
+			"chap": "War",
+			"val": 0.02022058823529412
+		},
+		{
+			"chap": "Miss Thorne Goes on a Visit",
+			"val": 0.01753236113386859
+		},
+		{
+			"chap": "The Doctor Hears Something to His Advantage",
+			"val": 0.017592592592592594
+		},
+		{
+			"chap": "The Donkey Ride",
+			"val": 0.0076002814919071075
+		},
+		{
+			"chap": "Post Prandial",
+			"val": 0.01350234224304216
+		},
+		{
+			"chap": "The Small End of the Wedge",
+			"val": 0.017808506180599204
+		},
+		{
+			"chap": "Mr Oriel",
+			"val": 0.01525
+		},
+		{
+			"chap": "A Morning Visit",
+			"val": 0.009494248676282636
+		},
+		{
+			"chap": "A Barouche and Four Arrives at Greshamsbury",
+			"val": 0.019560464848694052
+		},
+		{
+			"chap": "Sir Louis Goes Out to Dinner",
+			"val": 0.020934332304980166
+		},
+		{
+			"chap": "Will He Come Again?",
+			"val": 0.00850850850850851
+		},
+		{
+			"chap": "Sir Louis Leaves Greshamsbury",
+			"val": 0.020122484689413824
+		},
+		{
+			"chap": "De Courcy Precepts and de Courcy Practice",
+			"val": 0.01102835863649384
+		},
+		{
+			"chap": "What the World Says about Blood",
+			"val": 0.011067841770854684
+		},
+		{
+			"chap": "The Two Doctors Change Patients",
+			"val": 0.014558689717925387
+		},
+		{
+			"chap": "Doctor Thorne Won't Interfere",
+			"val": 0.02219507228670332
+		},
+		{
+			"chap": "What Can You Give in Return?",
+			"val": 0.008953380673047236
+		},
+		{
+			"chap": "The Race of Scatcherd Becomes Extinct",
+			"val": 0.015422077922077922
+		},
+		{
+			"chap": "Saturday Evening and Sunday Morning",
+			"val": 0.012520064205457464
+		},
+		{
+			"chap": "Law Business in London",
+			"val": 0.01089368569699415
+		},
+		{
+			"chap": "Our Pet Fox Finds a Tail",
+			"val": 0.018832711231761112
+		},
+		{
+			"chap": "How the Bride Was Received, and Who Were Asked to the Wedding",
+			"val": 0.01684470008216927
+		}],
+		"title": "Doctor_Thorne"
+	},
+	{
+		"totalchap": 48,
+		"b": [{
+			"chap": "OMNES OMNIA BONA DICERE.",
+			"val": 0.015760621288259478
+		},
+		{
+			"chap": "THE FRAMLEY SET, AND THE CHALDICOTES SET.",
+			"val": 0.01595116187475384
+		},
+		{
+			"chap": "CHALDICOTES.",
+			"val": 0.018996833861023164
+		},
+		{
+			"chap": "A MATTER OF CONSCIENCE.",
+			"val": 0.015069725596041385
+		},
+		{
+			"chap": "AMANTIUM IR\u00c6 AMORIS INTEGRATIO.",
+			"val": 0.013109978150036417
+		},
+		{
+			"chap": "MR. HAROLD SMITH'S LECTURE.",
+			"val": 0.01789899850841679
+		},
+		{
+			"chap": "SUNDAY MORNING.",
+			"val": 0.015467904098994586
+		},
+		{
+			"chap": "GATHERUM CASTLE.",
+			"val": 0.01654477880350078
+		},
+		{
+			"chap": "THE VICAR'S RETURN.",
+			"val": 0.018564356435643563
+		},
+		{
+			"chap": "LUCY ROBARTS.",
+			"val": 0.015893313847278042
+		},
+		{
+			"chap": "GRISELDA GRANTLY.",
+			"val": 0.015360092740182582
+		},
+		{
+			"chap": "THE LITTLE BILL.",
+			"val": 0.013892599519102324
+		},
+		{
+			"chap": "DELICATE HINTS.",
+			"val": 0.006879419071278425
+		},
+		{
+			"chap": "MR. CRAWLEY OF HOGGLESTOCK.",
+			"val": 0.014655942806076854
+		},
+		{
+			"chap": "LADY LUFTON'S AMBASSADOR.",
+			"val": 0.015729817256534814
+		},
+		{
+			"chap": "MRS. PODGENS' BABY.",
+			"val": 0.009514101257220523
+		},
+		{
+			"chap": "MRS. PROUDIE'S CONVERSAZIONE.",
+			"val": 0.01353737492642731
+		},
+		{
+			"chap": "THE NEW MINISTER'S PATRONAGE.",
+			"val": 0.011627906976744186
+		},
+		{
+			"chap": "MONEY DEALINGS.",
+			"val": 0.014095536413469069
+		},
+		{
+			"chap": "HAROLD SMITH IN THE CABINET.",
+			"val": 0.004352557127312296
+		},
+		{
+			"chap": "WHY PUCK, THE PONY, WAS BEATEN.",
+			"val": 0.01652173913043478
+		},
+		{
+			"chap": "HOGGLESTOCK PARSONAGE.",
+			"val": 0.015106555165902346
+		},
+		{
+			"chap": "THE TRIUMPH OF THE GIANTS.",
+			"val": 0.01479076479076479
+		},
+		{
+			"chap": "MAGNA EST VERITAS.",
+			"val": 0.018412315122245698
+		},
+		{
+			"chap": "NON-IMPULSIVE.",
+			"val": 0.01080737444373808
+		},
+		{
+			"chap": "IMPULSIVE.",
+			"val": 0.007143966454418388
+		},
+		{
+			"chap": "SOUTH AUDLEY STREET.",
+			"val": 0.016822429906542057
+		},
+		{
+			"chap": "DR. THORNE.",
+			"val": 0.01712707182320442
+		},
+		{
+			"chap": "MISS DUNSTABLE AT HOME.",
+			"val": 0.009599650921784662
+		},
+		{
+			"chap": "THE GRANTLY TRIUMPH.",
+			"val": 0.013918177983973008
+		},
+		{
+			"chap": "SALMON FISHING IN NORWAY.",
+			"val": 0.00885403491019479
+		},
+		{
+			"chap": "THE GOAT AND COMPASSES.",
+			"val": 0.010707171314741035
+		},
+		{
+			"chap": "CONSOLATION.",
+			"val": 0.015282730514518594
+		},
+		{
+			"chap": "LADY LUFTON IS TAKEN BY SURPRISE.",
+			"val": 0.014730290456431535
+		},
+		{
+			"chap": "THE STORY OF KING COPHETUA.",
+			"val": 0.01024279210925645
+		},
+		{
+			"chap": "KIDNAPPING AT HOGGLESTOCK.",
+			"val": 0.02117108525653252
+		},
+		{
+			"chap": "MR. SOWERBY WITHOUT COMPANY.",
+			"val": 0.013837030529321327
+		},
+		{
+			"chap": "IS THERE CAUSE OR JUST IMPEDIMENT?",
+			"val": 0.013249907986750091
+		},
+		{
+			"chap": "HOW TO WRITE A LOVE LETTER.",
+			"val": 0.020115477742596387
+		},
+		{
+			"chap": "INTERNECINE.",
+			"val": 0.02084942084942085
+		},
+		{
+			"chap": "DON QUIXOTE.",
+			"val": 0.01453206742879287
+		},
+		{
+			"chap": "TOUCHING PITCH.",
+			"val": 0.01821158174749335
+		},
+		{
+			"chap": "IS SHE NOT INSIGNIFICANT?",
+			"val": 0.01266530080089402
+		},
+		{
+			"chap": "THE PHILISTINES AT THE PARSONAGE.",
+			"val": 0.017011834319526627
+		},
+		{
+			"chap": "PALACE BLESSINGS.",
+			"val": 0.019879383515747154
+		},
+		{
+			"chap": "LADY LUFTON'S REQUEST.",
+			"val": 0.009553615549332895
+		},
+		{
+			"chap": "NEMESIS.",
+			"val": 0.015188633023027927
+		},
+		{
+			"chap": "HOW THEY WERE ALL MARRIED, HAD TWO CHILDREN, AND LIVED HAPPY EVER AFTER.",
+			"val": 0.014336917562724014
+		}],
+		"title": "Framley_Parsonage"
+	},
+	{
+		"totalchap": 60,
+		"b": [{
+			"chap": "THE SQUIRE OF ALLINGTON.",
+			"val": 0.01882530120481928
+		},
+		{
+			"chap": "THE TWO PEARLS OF ALLINGTON.",
+			"val": 0.013554485464597824
+		},
+		{
+			"chap": "THE WIDOW DALE OF ALLINGTON.",
+			"val": 0.012911676646706586
+		},
+		{
+			"chap": "MRS. ROPER'S BOARDING-HOUSE.",
+			"val": 0.016520700636942675
+		},
+		{
+			"chap": "ABOUT L. D.",
+			"val": 0.011689961880559084
+		},
+		{
+			"chap": "BEAUTIFUL DAYS.",
+			"val": 0.0133694095177463
+		},
+		{
+			"chap": "THE BEGINNING OF TROUBLES.",
+			"val": 0.013042060645582002
+		},
+		{
+			"chap": "IT CANNOT BE.",
+			"val": 0.009275959804174182
+		},
+		{
+			"chap": "MRS. DALE'S LITTLE PARTY.",
+			"val": 0.013832763444202673
+		},
+		{
+			"chap": "MRS. LUPEX AND AMELIA ROPER.",
+			"val": 0.012640772236267524
+		},
+		{
+			"chap": "SOCIAL LIFE.",
+			"val": 0.01804052178739939
+		},
+		{
+			"chap": "LILIAN DALE BECOMES A BUTTERFLY.",
+			"val": 0.013921723141581297
+		},
+		{
+			"chap": "A VISIT TO GUESTWICK.",
+			"val": 0.009771350400625366
+		},
+		{
+			"chap": "JOHN EAMES TAKES A WALK.",
+			"val": 0.011165577342047931
+		},
+		{
+			"chap": "THE LAST DAY.",
+			"val": 0.006469351447517387
+		},
+		{
+			"chap": "MR. CROSBIE MEETS AN OLD CLERGYMAN ON HIS WAY TO COURCY CASTLE.",
+			"val": 0.01746987951807229
+		},
+		{
+			"chap": "COURCY CASTLE.",
+			"val": 0.016671184602873406
+		},
+		{
+			"chap": "LILY DALE'S FIRST LOVE-LETTER.",
+			"val": 0.009294566253574834
+		},
+		{
+			"chap": "THE SQUIRE MAKES A VISIT TO THE SMALL HOUSE.",
+			"val": 0.013623424156161041
+		},
+		{
+			"chap": "DR. CROFTS.",
+			"val": 0.022463206816421378
+		},
+		{
+			"chap": "JOHN EAMES ENCOUNTERS TWO ADVENTURES, AND DISPLAYS GREAT COURAGE IN",
+			"val": 0.007713248638838476
+		},
+		{
+			"chap": "LORD DE GUEST AT HOME.",
+			"val": 0.01228448275862069
+		},
+		{
+			"chap": "MR. PLANTAGENET PALLISER.",
+			"val": 0.011101143754204979
+		},
+		{
+			"chap": "A MOTHER-IN-LAW AND A FATHER-IN-LAW.",
+			"val": 0.01099332548095799
+		},
+		{
+			"chap": "ADOLPHUS CROSBIE SPENDS AN EVENING AT HIS CLUB.",
+			"val": 0.01441263573543929
+		},
+		{
+			"chap": "LORD DE COURCY IN THE BOSOM OF HIS FAMILY.",
+			"val": 0.016226336592469314
+		},
+		{
+			"chap": "ON MY HONOUR, I DO NOT UNDERSTAND IT.",
+			"val": 0.013585984983911333
+		},
+		{
+			"chap": "THE BOARD.",
+			"val": 0.011295317908544362
+		},
+		{
+			"chap": "JOHN EAMES RETURNS TO BURTON CRESCENT.",
+			"val": 0.01121930567315834
+		},
+		{
+			"chap": "IS IT FROM HIM?",
+			"val": 0.007246376811594203
+		},
+		{
+			"chap": "THE WOUNDED FAWN.",
+			"val": 0.012305699481865285
+		},
+		{
+			"chap": "PAWKINS'S IN JERMYN STREET.",
+			"val": 0.00869205298013245
+		},
+		{
+			"chap": "THE TIME WILL COME.",
+			"val": 0.014362346426717425
+		},
+		{
+			"chap": "THE COMBAT.",
+			"val": 0.01182033096926714
+		},
+		{
+			"chap": "V\u00c6 VICTIS.",
+			"val": 0.006606810096561071
+		},
+		{
+			"chap": "SEE, THE CONQUERING HERO COMES.",
+			"val": 0.009602425876010783
+		},
+		{
+			"chap": "AN OLD MAN'S COMPLAINT.",
+			"val": 0.0096411355115158
+		},
+		{
+			"chap": "DOCTOR CROFTS IS CALLED IN.",
+			"val": 0.01366867140513942
+		},
+		{
+			"chap": "DR. CROFTS IS TURNED OUT.",
+			"val": 0.011430492519751218
+		},
+		{
+			"chap": "PREPARATIONS FOR THE WEDDING.",
+			"val": 0.010080645161290322
+		},
+		{
+			"chap": "DOMESTIC TROUBLES.",
+			"val": 0.01617891981917678
+		},
+		{
+			"chap": "LILY'S BEDSIDE.",
+			"val": 0.008649367930805056
+		},
+		{
+			"chap": "FIE, FIE!",
+			"val": 0.01100656843600213
+		},
+		{
+			"chap": "VALENTINE'S DAY AT ALLINGTON.",
+			"val": 0.005355064027939465
+		},
+		{
+			"chap": "VALENTINE'S DAY IN LONDON.",
+			"val": 0.013819985825655563
+		},
+		{
+			"chap": "JOHN EAMES AT HIS OFFICE.",
+			"val": 0.009544182985025506
+		},
+		{
+			"chap": "THE NEW PRIVATE SECRETARY.",
+			"val": 0.007297605473204105
+		},
+		{
+			"chap": "NEMESIS.",
+			"val": 0.016033147180688163
+		},
+		{
+			"chap": "PREPARATIONS FOR GOING.",
+			"val": 0.011181800655484866
+		},
+		{
+			"chap": "MRS. DALE IS THANKFUL FOR A GOOD THING.",
+			"val": 0.010198878123406425
+		},
+		{
+			"chap": "JOHN EAMES DOES THINGS WHICH HE OUGHT NOT TO HAVE DONE.",
+			"val": 0.013333333333333334
+		},
+		{
+			"chap": "THE FIRST VISIT TO THE GUESTWICK BRIDGE.",
+			"val": 0.013123359580052493
+		},
+		{
+			"chap": "LOQUITUR HOPKINS.",
+			"val": 0.01266624445851805
+		},
+		{
+			"chap": "THE SECOND VISIT TO THE GUESTWICK BRIDGE.",
+			"val": 0.005580923389142567
+		},
+		{
+			"chap": "NOT VERY FIE FIE AFTER ALL.",
+			"val": 0.009795057263411695
+		},
+		{
+			"chap": "SHOWING HOW MR. CROSBIE BECAME AGAIN A HAPPY MAN.",
+			"val": 0.011666666666666667
+		},
+		{
+			"chap": "LILIAN DALE VANQUISHES HER MOTHER.",
+			"val": 0.007825370675453048
+		},
+		{
+			"chap": "THE FATE OF THE SMALL HOUSE.",
+			"val": 0.009609358679757677
+		},
+		{
+			"chap": "JOHN EAMES BECOMES A MAN.",
+			"val": 0.010408781226343679
+		},
+		{
+			"chap": "CONCLUSION.",
+			"val": 0.010584010584010584
+		}],
+		"title": "Small_House"
+	},
+	{
+		"totalchap": 84,
+		"b": [{
+			"chap": "HOW DID HE GET IT?",
+			"val": 0.028756168112982813
+		},
+		{
+			"chap": "BY HEAVENS HE HAD BETTER NOT!",
+			"val": 0.023570595099183196
+		},
+		{
+			"chap": "THE ARCHDEACON'S THREAT.",
+			"val": 0.02384500745156483
+		},
+		{
+			"chap": "THE CLERGYMAN'S HOUSE AT HOGGLESTOCK.",
+			"val": 0.021291696238467
+		},
+		{
+			"chap": "WHAT THE WORLD THOUGHT ABOUT IT.",
+			"val": 0.028599285017874555
+		},
+		{
+			"chap": "GRACE CRAWLEY.",
+			"val": 0.00929195316855603
+		},
+		{
+			"chap": "MISS PRETTYMAN'S PRIVATE ROOM.",
+			"val": 0.015419660066584896
+		},
+		{
+			"chap": "MR. CRAWLEY IS TAKEN TO SILVERBRIDGE.",
+			"val": 0.01658670322138451
+		},
+		{
+			"chap": "GRACE CRAWLEY GOES TO ALLINGTON.",
+			"val": 0.01440868263473054
+		},
+		{
+			"chap": "DINNER AT FRAMLEY COURT.",
+			"val": 0.028873917228103944
+		},
+		{
+			"chap": "THE BISHOP SENDS HIS INHIBITION.",
+			"val": 0.024227041993539457
+		},
+		{
+			"chap": "MR. CRAWLEY SEEKS FOR SYMPATHY.",
+			"val": 0.014810045074050225
+		},
+		{
+			"chap": "THE BISHOP'S ANGEL.",
+			"val": 0.025138558986539983
+		},
+		{
+			"chap": "MAJOR GRANTLY CONSULTS A FRIEND.",
+			"val": 0.023607176581680833
+		},
+		{
+			"chap": "UP IN LONDON.",
+			"val": 0.01569612305760477
+		},
+		{
+			"chap": "DOWN AT ALLINGTON.",
+			"val": 0.015400410677618069
+		},
+		{
+			"chap": "MR. CRAWLEY IS SUMMONED TO BARCHESTER.",
+			"val": 0.025704297758585234
+		},
+		{
+			"chap": "THE BISHOP OF BARCHESTER IS CRUSHED.",
+			"val": 0.02865876958349255
+		},
+		{
+			"chap": "WHERE DID IT COME FROM?",
+			"val": 0.0160268356317555
+		},
+		{
+			"chap": "WHAT MR. WALKER THOUGHT ABOUT IT.",
+			"val": 0.017948717948717947
+		},
+		{
+			"chap": "MR. ROBARTS ON HIS EMBASSY.",
+			"val": 0.017014138509465614
+		},
+		{
+			"chap": "MAJOR GRANTLY AT HOME.",
+			"val": 0.023804915811883105
+		},
+		{
+			"chap": "MISS LILY DALE'S RESOLUTION.",
+			"val": 0.0035912504080966375
+		},
+		{
+			"chap": "MRS. DOBBS BROUGHTON'S DINNER-PARTY.",
+			"val": 0.013345789403443213
+		},
+		{
+			"chap": "MISS MADALINA DEMOLINES.",
+			"val": 0.012585104188157623
+		},
+		{
+			"chap": "THE PICTURE.",
+			"val": 0.008278976417461115
+		},
+		{
+			"chap": "A HERO AT HOME.",
+			"val": 0.010927691234596606
+		},
+		{
+			"chap": "SHOWING HOW MAJOR GRANTLY TOOK A WALK.",
+			"val": 0.015240904621435595
+		},
+		{
+			"chap": "MISS LILY DALE'S LOGIC.",
+			"val": 0.013029315960912053
+		},
+		{
+			"chap": "SHOWING WHAT MAJOR GRANTLY DID AFTER HIS WALK.",
+			"val": 0.007751937984496124
+		},
+		{
+			"chap": "SHOWING HOW MAJOR GRANTLY RETURNED TO GUESTWICK.",
+			"val": 0.009355246523388117
+		},
+		{
+			"chap": "MR. TOOGOOD.",
+			"val": 0.014995110290122786
+		},
+		{
+			"chap": "THE PLUMSTEAD FOXES.",
+			"val": 0.016920058852378617
+		},
+		{
+			"chap": "MRS. PROUDIE SENDS FOR HER LAWYER.",
+			"val": 0.03317535545023697
+		},
+		{
+			"chap": "LILY DALE WRITES TWO WORDS IN HER BOOK.",
+			"val": 0.01159986217985529
+		},
+		{
+			"chap": "GRACE CRAWLEY RETURNS HOME.",
+			"val": 0.007
+		},
+		{
+			"chap": "HOOK COURT.",
+			"val": 0.016559139784946237
+		},
+		{
+			"chap": "JAEL.",
+			"val": 0.013312753231719082
+		},
+		{
+			"chap": "A NEW FLIRTATION.",
+			"val": 0.011898859692612791
+		},
+		{
+			"chap": "MR. TOOGOOD'S IDEAS ABOUT SOCIETY.",
+			"val": 0.013254437869822486
+		},
+		{
+			"chap": "GRACE CRAWLEY AT HOME.",
+			"val": 0.013696060037523453
+		},
+		{
+			"chap": "MR. TOOGOOD TRAVELS PROFESSIONALLY.",
+			"val": 0.0202528204431154
+		},
+		{
+			"chap": "MR. CROSBIE GOES INTO THE CITY.",
+			"val": 0.015213358070500928
+		},
+		{
+			"chap": "I SUPPOSE I MUST LET YOU HAVE IT.",
+			"val": 0.015810276679841896
+		},
+		{
+			"chap": "LILY DALE GOES TO LONDON.",
+			"val": 0.019556025369978858
+		},
+		{
+			"chap": "THE BAYSWATER ROMANCE.",
+			"val": 0.009721048182586645
+		},
+		{
+			"chap": "DR. TEMPEST AT THE PALACE.",
+			"val": 0.02643269657929809
+		},
+		{
+			"chap": "THE SOFTNESS OF SIR RAFFLE BUFFLE.",
+			"val": 0.012939958592132506
+		},
+		{
+			"chap": "NEAR THE CLOSE.",
+			"val": 0.016505336311739886
+		},
+		{
+			"chap": "LADY LUFTON'S PROPOSITION.",
+			"val": 0.01481042654028436
+		},
+		{
+			"chap": "MRS. DOBBS BROUGHTON PILES HER FAGOTS.",
+			"val": 0.009411469444095872
+		},
+		{
+			"chap": "WHY DON'T YOU HAVE AN \"IT\" FOR YOURSELF?",
+			"val": 0.013934584865492549
+		},
+		{
+			"chap": "ROTTEN ROW.",
+			"val": 0.011521187268111696
+		},
+		{
+			"chap": "THE CLERICAL COMMISSION.",
+			"val": 0.02583650995340957
+		},
+		{
+			"chap": "FRAMLEY PARSONAGE.",
+			"val": 0.013797634691195795
+		},
+		{
+			"chap": "THE ARCHDEACON GOES TO FRAMLEY.",
+			"val": 0.02414299052954515
+		},
+		{
+			"chap": "A DOUBLE PLEDGE.",
+			"val": 0.02054154995331466
+		},
+		{
+			"chap": "THE CROSS-GRAINEDNESS OF MEN.",
+			"val": 0.01575547502757208
+		},
+		{
+			"chap": "A LADY PRESENTS HER COMPLIMENTS TO MISS L. D.",
+			"val": 0.010764430577223089
+		},
+		{
+			"chap": "THE END OF JAEL AND SISERA.",
+			"val": 0.012360750801159774
+		},
+		{
+			"chap": "IT'S DOGGED AS DOES IT.",
+			"val": 0.017780600095253216
+		},
+		{
+			"chap": "MR. CRAWLEY'S LETTER TO THE DEAN.",
+			"val": 0.023786717752234992
+		},
+		{
+			"chap": "TWO VISITORS TO HOGGLESTOCK.",
+			"val": 0.014620773682607372
+		},
+		{
+			"chap": "THE TRAGEDY IN HOOK COURT.",
+			"val": 0.011488511488511488
+		},
+		{
+			"chap": "MISS VAN SIEVER MAKES HER CHOICE.",
+			"val": 0.009627252530239447
+		},
+		{
+			"chap": "REQUIESCAT IN PACE.",
+			"val": 0.017413931144915934
+		},
+		{
+			"chap": "IN MEMORIAM.",
+			"val": 0.020594521080240916
+		},
+		{
+			"chap": "THE OBSTINACY OF MR. CRAWLEY.",
+			"val": 0.022743769658843456
+		},
+		{
+			"chap": "MR. CRAWLEY'S LAST APPEARANCE IN HIS OWN PULPIT.",
+			"val": 0.020281883808869028
+		},
+		{
+			"chap": "MRS. ARABIN IS CAUGHT.",
+			"val": 0.01874414245548266
+		},
+		{
+			"chap": "MR. TOOGOOD AT SILVERBRIDGE.",
+			"val": 0.012572968118545127
+		},
+		{
+			"chap": "MR. TOOGOOD AT THE DRAGON OF WANTLY.",
+			"val": 0.007926829268292683
+		},
+		{
+			"chap": "THERE IS COMFORT AT PLUMSTEAD.",
+			"val": 0.018766066838046273
+		},
+		{
+			"chap": "THE CRAWLEYS ARE INFORMED.",
+			"val": 0.014849074975657255
+		},
+		{
+			"chap": "MADALINA'S HEART IS BLEEDING.",
+			"val": 0.012410601598653766
+		},
+		{
+			"chap": "I THINK HE IS LIGHT OF HEART.",
+			"val": 0.012263396427619302
+		},
+		{
+			"chap": "THE SHATTERED TREE.",
+			"val": 0.008009708737864078
+		},
+		{
+			"chap": "THE ARABINS RETURN TO BARCHESTER.",
+			"val": 0.02418426103646833
+		},
+		{
+			"chap": "MR. CRAWLEY SPEAKS OF HIS COAT.",
+			"val": 0.019161982626469086
+		},
+		{
+			"chap": "MISS DEMOLINES DESIRES TO BECOME A FINGER-POST.",
+			"val": 0.008050513022888714
+		},
+		{
+			"chap": "BARCHESTER CLOISTERS.",
+			"val": 0.02208317997791682
+		},
+		{
+			"chap": "THE LAST SCENE AT HOGGLESTOCK.",
+			"val": 0.02616233254531127
+		},
+		{
+			"chap": "MR. CRAWLEY IS CONQUERED.",
+			"val": 0.026161081716637273
+		},
+		{
+			"chap": "CONCLUSION.",
+			"val": 0.016853932584269662
+		}],
+		"title": "Last_Chronicle"
 	}]
 },
 {
-	"topic": "TOPIC3",
+	"topic": "conflict",
 	"books": [{
-		"totalchap": 27,
+		"totalchap": 21,
 		"b": [{
-			"chap": 1,
-			"val": 0.319835636234017
+			"chap": "Hiram's Hospital",
+			"val": 0.022450532724505326
 		},
 		{
-			"chap": 2,
-			"val": 0.6853565051083811
+			"chap": "The Barchester Reformer",
+			"val": 0.03774727492935002
 		},
 		{
-			"chap": 3,
-			"val": 0.7068082372638751
+			"chap": "The Bishop of Barchester",
+			"val": 0.04442632973303444
 		},
 		{
-			"chap": 4,
-			"val": 0.6423298036100348
+			"chap": "Hiram's Bedesmen",
+			"val": 0.03941965507801807
 		},
 		{
-			"chap": 5,
-			"val": 0.33754846687002604
+			"chap": "Dr Grantly Visits the Hospital",
+			"val": 0.03466872110939907
 		},
 		{
-			"chap": 6,
-			"val": 0.9809511597899062
+			"chap": "The Warden's Tea Party",
+			"val": 0.04039812646370024
 		},
 		{
-			"chap": 7,
-			"val": 0.7252872676051786
+			"chap": "_The Jupiter_",
+			"val": 0.0343878954607978
 		},
 		{
-			"chap": 8,
-			"val": 0.37690059974554957
+			"chap": "Plumstead Episcopi",
+			"val": 0.039525691699604744
 		},
 		{
-			"chap": 9,
-			"val": 0.07608993752739868
+			"chap": "The Conference",
+			"val": 0.04869186046511628
 		},
 		{
-			"chap": 10,
-			"val": 0.5812263327722675
+			"chap": "Tribulation",
+			"val": 0.030911492734478203
 		},
 		{
-			"chap": 11,
-			"val": 0.2645104302581952
+			"chap": "Iphigenia",
+			"val": 0.04337818696883853
 		},
 		{
-			"chap": 12,
-			"val": 0.801263741054988
+			"chap": "Mr Bold's Visit to Plumstead",
+			"val": 0.045208984930338356
 		},
 		{
-			"chap": 13,
-			"val": 0.22857859962923244
+			"chap": "The Warden's Decision",
+			"val": 0.041327692808330624
 		},
 		{
-			"chap": 14,
-			"val": 0.23169143075856413
+			"chap": "Mount Olympus",
+			"val": 0.03889171326893747
 		},
 		{
-			"chap": 15,
-			"val": 0.30434552464561004
+			"chap": "Tom Towers, Dr Anticant, and Mr Sentiment",
+			"val": 0.03936868239049477
 		},
 		{
-			"chap": 16,
-			"val": 0.5001520769528001
+			"chap": "A Long Day in London",
+			"val": 0.03211009174311927
 		},
 		{
-			"chap": 17,
-			"val": 0.6323084476410759
+			"chap": "Sir Abraham Haphazard",
+			"val": 0.04640054588877516
 		},
 		{
-			"chap": 18,
-			"val": 0.028041623789576198
+			"chap": "The Warden Is Very Obstinate",
+			"val": 0.04224137931034483
 		},
 		{
-			"chap": 19,
-			"val": 0.7518538722753733
+			"chap": "The Warden Resigns",
+			"val": 0.03452297644040121
 		},
 		{
-			"chap": 20,
-			"val": 0.42345293922573424
+			"chap": "Farewell",
+			"val": 0.03406022845275182
 		},
 		{
-			"chap": 21,
-			"val": 0.8990486405071879
-		},
-		{
-			"chap": 22,
-			"val": 0.5334246530040249
-		},
-		{
-			"chap": 23,
-			"val": 0.2661193030436739
-		},
-		{
-			"chap": 24,
-			"val": 0.6770862640261904
-		},
-		{
-			"chap": 25,
-			"val": 0.5925443019346692
-		},
-		{
-			"chap": 26,
-			"val": 0.6630539394283022
-		},
-		{
-			"chap": 27,
-			"val": 0.29355440538902766
-		}]
-	},
-	{
-		"totalchap": 60,
-		"b": [{
-			"chap": 1,
-			"val": 0.1942250586418246
-		},
-		{
-			"chap": 2,
-			"val": 0.04362032558968021
-		},
-		{
-			"chap": 3,
-			"val": 0.35505934829962016
-		},
-		{
-			"chap": 4,
-			"val": 0.4916495364675002
-		},
-		{
-			"chap": 5,
-			"val": 0.03644227850043269
-		},
-		{
-			"chap": 6,
-			"val": 0.17806179412302092
-		},
-		{
-			"chap": 7,
-			"val": 0.06401912712568636
-		},
-		{
-			"chap": 8,
-			"val": 0.8299652319946493
-		},
-		{
-			"chap": 9,
-			"val": 0.03441931482293015
-		},
-		{
-			"chap": 10,
-			"val": 0.40141802321139475
-		},
-		{
-			"chap": 11,
-			"val": 0.8350888336297894
-		},
-		{
-			"chap": 12,
-			"val": 0.27210527180791255
-		},
-		{
-			"chap": 13,
-			"val": 0.3164622233665426
-		},
-		{
-			"chap": 14,
-			"val": 0.628145493467508
-		},
-		{
-			"chap": 15,
-			"val": 0.14319817869739948
-		},
-		{
-			"chap": 16,
-			"val": 0.8064214497250973
-		},
-		{
-			"chap": 17,
-			"val": 0.1997145856744763
-		},
-		{
-			"chap": 18,
-			"val": 0.12538557507089243
-		},
-		{
-			"chap": 19,
-			"val": 0.2716175941882788
-		},
-		{
-			"chap": 20,
-			"val": 0.8280929106683955
-		},
-		{
-			"chap": 21,
-			"val": 0.23346330595213216
-		},
-		{
-			"chap": 22,
-			"val": 0.46403900779496476
-		},
-		{
-			"chap": 23,
-			"val": 0.7264385061158417
-		},
-		{
-			"chap": 24,
-			"val": 0.8692795968755814
-		},
-		{
-			"chap": 25,
-			"val": 0.08178405229216801
-		},
-		{
-			"chap": 26,
-			"val": 0.5822105164811993
-		},
-		{
-			"chap": 27,
-			"val": 0.7607068420769943
-		},
-		{
-			"chap": 28,
-			"val": 0.1324866034846548
-		},
-		{
-			"chap": 29,
-			"val": 0.42876231313255
-		},
-		{
-			"chap": 30,
-			"val": 0.058578397554702843
-		},
-		{
-			"chap": 31,
-			"val": 0.7439371066742372
-		},
-		{
-			"chap": 32,
-			"val": 0.6159256768381812
-		},
-		{
-			"chap": 33,
-			"val": 0.6192455943298549
-		},
-		{
-			"chap": 34,
-			"val": 0.7211205618500649
-		},
-		{
-			"chap": 35,
-			"val": 0.9232779446492851
-		},
-		{
-			"chap": 36,
-			"val": 0.655172605407422
-		},
-		{
-			"chap": 37,
-			"val": 0.25619086162251137
-		},
-		{
-			"chap": 38,
-			"val": 0.1253857491409156
-		},
-		{
-			"chap": 39,
-			"val": 0.4362149365028911
-		},
-		{
-			"chap": 40,
-			"val": 0.22696796438677902
-		},
-		{
-			"chap": 41,
-			"val": 0.35191114059121353
-		},
-		{
-			"chap": 42,
-			"val": 0.3363807877541506
-		},
-		{
-			"chap": 43,
-			"val": 0.9763727916327103
-		},
-		{
-			"chap": 44,
-			"val": 0.610620190185155
-		},
-		{
-			"chap": 45,
-			"val": 0.7139782009288707
-		},
-		{
-			"chap": 46,
-			"val": 0.9979445583821194
-		},
-		{
-			"chap": 47,
-			"val": 0.27522973857267674
-		},
-		{
-			"chap": 48,
-			"val": 0.7402460346333714
-		},
-		{
-			"chap": 49,
-			"val": 0.12095348026477548
-		},
-		{
-			"chap": 50,
-			"val": 0.12697031039207762
-		},
-		{
-			"chap": 51,
-			"val": 0.538370121155159
-		},
-		{
-			"chap": 52,
-			"val": 0.7554311795044424
-		},
-		{
-			"chap": 53,
-			"val": 0.20904550666132993
-		},
-		{
-			"chap": 54,
-			"val": 0.9723685845605203
-		},
-		{
-			"chap": 55,
-			"val": 0.147329265973961
-		},
-		{
-			"chap": 56,
-			"val": 0.040956839862993255
-		},
-		{
-			"chap": 57,
-			"val": 0.028376959937478685
-		},
-		{
-			"chap": 58,
-			"val": 0.4404254428400638
-		},
-		{
-			"chap": 59,
-			"val": 0.3606580178386046
-		},
-		{
-			"chap": 60,
-			"val": 0.899655147948573
-		}]
-	},
-	{
-		"totalchap": 84,
-		"b": [{
-			"chap": 1,
-			"val": 0.15584932718450728
-		},
-		{
-			"chap": 2,
-			"val": 0.6144149728363868
-		},
-		{
-			"chap": 3,
-			"val": 0.8275038792413899
-		},
-		{
-			"chap": 4,
-			"val": 0.9738350255670497
-		},
-		{
-			"chap": 5,
-			"val": 0.801059679851395
-		},
-		{
-			"chap": 6,
-			"val": 0.4017229249507903
-		},
-		{
-			"chap": 7,
-			"val": 0.6726787663917096
-		},
-		{
-			"chap": 8,
-			"val": 0.7120208757812735
-		},
-		{
-			"chap": 9,
-			"val": 0.17200172915167244
-		},
-		{
-			"chap": 10,
-			"val": 0.4861812726498874
-		},
-		{
-			"chap": 11,
-			"val": 0.7408285046598666
-		},
-		{
-			"chap": 12,
-			"val": 0.27141666568498923
-		},
-		{
-			"chap": 13,
-			"val": 0.5765707123295682
-		},
-		{
-			"chap": 14,
-			"val": 0.23277100858507638
-		},
-		{
-			"chap": 15,
-			"val": 0.7633610689278536
-		},
-		{
-			"chap": 16,
-			"val": 0.3933218080915626
-		},
-		{
-			"chap": 17,
-			"val": 0.9765830510805611
-		},
-		{
-			"chap": 18,
-			"val": 0.9419587320765185
-		},
-		{
-			"chap": 19,
-			"val": 0.7805917083171616
-		},
-		{
-			"chap": 20,
-			"val": 0.5615205320493177
-		},
-		{
-			"chap": 21,
-			"val": 0.653660341360465
-		},
-		{
-			"chap": 22,
-			"val": 0.10525314857038326
-		},
-		{
-			"chap": 23,
-			"val": 0.06564056147418862
-		},
-		{
-			"chap": 24,
-			"val": 0.6956495078537562
-		},
-		{
-			"chap": 25,
-			"val": 0.6981469548840431
-		},
-		{
-			"chap": 26,
-			"val": 0.2848697693646566
-		},
-		{
-			"chap": 27,
-			"val": 0.4384930514506643
-		},
-		{
-			"chap": 28,
-			"val": 0.41044656080060093
-		},
-		{
-			"chap": 29,
-			"val": 0.041447064491710206
-		},
-		{
-			"chap": 30,
-			"val": 0.35743003261118345
-		},
-		{
-			"chap": 31,
-			"val": 0.4734152951952254
-		},
-		{
-			"chap": 32,
-			"val": 0.019172984348377442
-		},
-		{
-			"chap": 33,
-			"val": 0.2140339115184664
-		},
-		{
-			"chap": 34,
-			"val": 0.15436167655615085
-		},
-		{
-			"chap": 35,
-			"val": 0.4576458569768542
-		},
-		{
-			"chap": 36,
-			"val": 0.048693438948716916
-		},
-		{
-			"chap": 37,
-			"val": 0.049740894614131226
-		},
-		{
-			"chap": 38,
-			"val": 0.9511253824619964
-		},
-		{
-			"chap": 39,
-			"val": 0.3177661698811304
-		},
-		{
-			"chap": 40,
-			"val": 0.1997983688295235
-		},
-		{
-			"chap": 41,
-			"val": 0.22952149577763836
-		},
-		{
-			"chap": 42,
-			"val": 0.7963290764534533
-		},
-		{
-			"chap": 43,
-			"val": 0.9891109832352998
-		},
-		{
-			"chap": 44,
-			"val": 0.16626287474305257
-		},
-		{
-			"chap": 45,
-			"val": 0.6509659982659838
-		},
-		{
-			"chap": 46,
-			"val": 0.7302900291869908
-		},
-		{
-			"chap": 47,
-			"val": 0.324753744501712
-		},
-		{
-			"chap": 48,
-			"val": 0.5656364909535795
-		},
-		{
-			"chap": 49,
-			"val": 0.4093230937761563
-		},
-		{
-			"chap": 50,
-			"val": 0.2573730106675075
-		},
-		{
-			"chap": 51,
-			"val": 0.9458067757441253
-		},
-		{
-			"chap": 52,
-			"val": 0.15394586573349334
-		},
-		{
-			"chap": 53,
-			"val": 0.9803489899144766
-		},
-		{
-			"chap": 54,
-			"val": 0.23370181376191002
-		},
-		{
-			"chap": 55,
-			"val": 0.43889665678014833
-		},
-		{
-			"chap": 56,
-			"val": 0.2983068245583951
-		},
-		{
-			"chap": 57,
-			"val": 0.7372640274445695
-		},
-		{
-			"chap": 58,
-			"val": 0.41010302009623334
-		},
-		{
-			"chap": 59,
-			"val": 0.5171511780581887
-		},
-		{
-			"chap": 60,
-			"val": 0.8871965789903751
-		},
-		{
-			"chap": 61,
-			"val": 0.019072220577145083
-		},
-		{
-			"chap": 62,
-			"val": 0.6332421894782824
-		},
-		{
-			"chap": 63,
-			"val": 0.5369665312072154
-		},
-		{
-			"chap": 64,
-			"val": 0.7394609844632678
-		},
-		{
-			"chap": 65,
-			"val": 0.8642332212039603
-		},
-		{
-			"chap": 66,
-			"val": 0.4051640227011717
-		},
-		{
-			"chap": 67,
-			"val": 0.3617596026925278
-		},
-		{
-			"chap": 68,
-			"val": 0.9231643044474256
-		},
-		{
-			"chap": 69,
-			"val": 0.8219841222157518
-		},
-		{
-			"chap": 70,
-			"val": 0.21411028846570979
-		},
-		{
-			"chap": 71,
-			"val": 0.7140603085425609
-		},
-		{
-			"chap": 72,
-			"val": 0.31592101214332347
-		},
-		{
-			"chap": 73,
-			"val": 0.7295925462944068
-		},
-		{
-			"chap": 74,
-			"val": 0.34670734173206774
-		},
-		{
-			"chap": 75,
-			"val": 0.5807039039529992
-		},
-		{
-			"chap": 76,
-			"val": 0.4679975562867259
-		},
-		{
-			"chap": 77,
-			"val": 0.498785006926006
-		},
-		{
-			"chap": 78,
-			"val": 0.5193033054380682
-		},
-		{
-			"chap": 79,
-			"val": 0.04284356894946084
-		},
-		{
-			"chap": 80,
-			"val": 0.3789431741707947
-		},
-		{
-			"chap": 81,
-			"val": 0.6120046582208007
-		},
-		{
-			"chap": 82,
-			"val": 0.7352826859576336
-		},
-		{
-			"chap": 83,
-			"val": 0.3225224660963061
-		},
-		{
-			"chap": 84,
-			"val": 0.5746602022318319
-		}]
-	},
-	{
-		"totalchap": 48,
-		"b": [{
-			"chap": 1,
-			"val": 0.9008577572347959
-		},
-		{
-			"chap": 2,
-			"val": 0.31236251471923737
-		},
-		{
-			"chap": 3,
-			"val": 0.3496262241437773
-		},
-		{
-			"chap": 4,
-			"val": 0.6148647299989711
-		},
-		{
-			"chap": 5,
-			"val": 0.6420763299464928
-		},
-		{
-			"chap": 6,
-			"val": 0.40180916736017525
-		},
-		{
-			"chap": 7,
-			"val": 0.2816432117678065
-		},
-		{
-			"chap": 8,
-			"val": 0.019010124257418215
-		},
-		{
-			"chap": 9,
-			"val": 0.9440035989006652
-		},
-		{
-			"chap": 10,
-			"val": 0.12687510992986228
-		},
-		{
-			"chap": 11,
-			"val": 0.64989890058904
-		},
-		{
-			"chap": 12,
-			"val": 0.13081197233526765
-		},
-		{
-			"chap": 13,
-			"val": 0.20492908512229957
-		},
-		{
-			"chap": 14,
-			"val": 0.980330205365391
-		},
-		{
-			"chap": 15,
-			"val": 0.8252254338890785
-		},
-		{
-			"chap": 16,
-			"val": 0.5527062789363696
-		},
-		{
-			"chap": 17,
-			"val": 0.35790486074772754
-		},
-		{
-			"chap": 18,
-			"val": 0.7859383993544038
-		},
-		{
-			"chap": 19,
-			"val": 0.8841030282083908
-		},
-		{
-			"chap": 20,
-			"val": 0.9729790341741483
-		},
-		{
-			"chap": 21,
-			"val": 0.3610092956587352
-		},
-		{
-			"chap": 22,
-			"val": 0.44160578676736395
-		},
-		{
-			"chap": 23,
-			"val": 0.3853091331112992
-		},
-		{
-			"chap": 24,
-			"val": 0.7899561487217667
-		},
-		{
-			"chap": 25,
-			"val": 0.18614145355610878
-		},
-		{
-			"chap": 26,
-			"val": 0.25615764916790296
-		},
-		{
-			"chap": 27,
-			"val": 0.6888159554092602
-		},
-		{
-			"chap": 28,
-			"val": 0.6279214416502615
-		},
-		{
-			"chap": 29,
-			"val": 0.3854737361808154
-		},
-		{
-			"chap": 30,
-			"val": 0.308886201665978
-		},
-		{
-			"chap": 31,
-			"val": 0.9477612036133082
-		},
-		{
-			"chap": 32,
-			"val": 0.3644217544368453
-		},
-		{
-			"chap": 33,
-			"val": 0.9534612470812557
-		},
-		{
-			"chap": 34,
-			"val": 0.07105675522411381
-		},
-		{
-			"chap": 35,
-			"val": 0.409000690040085
-		},
-		{
-			"chap": 36,
-			"val": 0.7646917116458307
-		},
-		{
-			"chap": 37,
-			"val": 0.9104399292444839
-		},
-		{
-			"chap": 38,
-			"val": 0.10212457188741342
-		},
-		{
-			"chap": 39,
-			"val": 0.35972541309500583
-		},
-		{
-			"chap": 40,
-			"val": 0.7802222364673116
-		},
-		{
-			"chap": 41,
-			"val": 0.7553489788943332
-		},
-		{
-			"chap": 42,
-			"val": 0.7707574918509923
-		},
-		{
-			"chap": 43,
-			"val": 0.45675733190297396
-		},
-		{
-			"chap": 44,
-			"val": 0.7415154487655999
-		},
-		{
-			"chap": 45,
-			"val": 0.19452685644703427
-		},
-		{
-			"chap": 46,
-			"val": 0.04613692058351071
-		},
-		{
-			"chap": 47,
-			"val": 0.2256884186936876
-		},
-		{
-			"chap": 48,
-			"val": 0.26898631536467277
-		}]
-	},
-	{
-		"totalchap": 47,
-		"b": [{
-			"chap": 1,
-			"val": 0.20398225088557387
-		},
-		{
-			"chap": 2,
-			"val": 0.3488200347138306
-		},
-		{
-			"chap": 3,
-			"val": 0.7221242989740921
-		},
-		{
-			"chap": 4,
-			"val": 0.22120627029095907
-		},
-		{
-			"chap": 5,
-			"val": 0.9850516697969439
-		},
-		{
-			"chap": 6,
-			"val": 0.592588490102424
-		},
-		{
-			"chap": 7,
-			"val": 0.04504243564908028
-		},
-		{
-			"chap": 8,
-			"val": 0.20246483520669478
-		},
-		{
-			"chap": 9,
-			"val": 0.26386821395879545
-		},
-		{
-			"chap": 10,
-			"val": 0.3884730768525987
-		},
-		{
-			"chap": 11,
-			"val": 0.9176022917868841
-		},
-		{
-			"chap": 12,
-			"val": 0.021316081820943467
-		},
-		{
-			"chap": 13,
-			"val": 0.7412494680864667
-		},
-		{
-			"chap": 14,
-			"val": 0.4460699982575068
-		},
-		{
-			"chap": 15,
-			"val": 0.1556308505751075
-		},
-		{
-			"chap": 16,
-			"val": 0.5327552501206214
-		},
-		{
-			"chap": 17,
-			"val": 0.38207903373724394
-		},
-		{
-			"chap": 18,
-			"val": 0.5770018172149779
-		},
-		{
-			"chap": 19,
-			"val": 0.47393125431022554
-		},
-		{
-			"chap": 20,
-			"val": 0.06746186883764183
-		},
-		{
-			"chap": 21,
-			"val": 0.2708542190420241
-		},
-		{
-			"chap": 22,
-			"val": 0.02859056354152656
-		},
-		{
-			"chap": 23,
-			"val": 0.13656932745776817
-		},
-		{
-			"chap": 24,
-			"val": 0.3552117629320646
-		},
-		{
-			"chap": 25,
-			"val": 0.8025387342262567
-		},
-		{
-			"chap": 26,
-			"val": 0.4043129842972928
-		},
-		{
-			"chap": 27,
-			"val": 0.02035212699993849
-		},
-		{
-			"chap": 28,
-			"val": 0.22927018207158856
-		},
-		{
-			"chap": 29,
-			"val": 0.08576694615348734
-		},
-		{
-			"chap": 30,
-			"val": 0.030822934286987902
-		},
-		{
-			"chap": 31,
-			"val": 0.9977990575011575
-		},
-		{
-			"chap": 32,
-			"val": 0.11518689584222785
-		},
-		{
-			"chap": 33,
-			"val": 0.766776818374833
-		},
-		{
-			"chap": 34,
-			"val": 0.3927031390220248
-		},
-		{
-			"chap": 35,
-			"val": 0.8066378315961659
-		},
-		{
-			"chap": 36,
-			"val": 0.64388674815121
-		},
-		{
-			"chap": 37,
-			"val": 0.17098728400177543
-		},
-		{
-			"chap": 38,
-			"val": 0.21194501422399215
-		},
-		{
-			"chap": 39,
-			"val": 0.06992254965018985
-		},
-		{
-			"chap": 40,
-			"val": 0.7881842996759707
-		},
-		{
-			"chap": 41,
-			"val": 0.1567224335470655
-		},
-		{
-			"chap": 42,
-			"val": 0.6416659399003709
-		},
-		{
-			"chap": 43,
-			"val": 0.4716585699527732
-		},
-		{
-			"chap": 44,
-			"val": 0.49157617453270497
-		},
-		{
-			"chap": 45,
-			"val": 0.07932588530605655
-		},
-		{
-			"chap": 46,
-			"val": 0.13107281929150993
-		},
-		{
-			"chap": 47,
-			"val": 0.07496563904583331
-		}]
+			"chap": "Conclusion",
+			"val": 0.027253668763102725
+		}],
+		"title": "Warden"
 	},
 	{
 		"totalchap": 53,
 		"b": [{
-			"chap": 1,
-			"val": 0.9423515842657858
+			"chap": "Who Will Be the New Bishop?",
+			"val": 0.03306666666666667
 		},
 		{
-			"chap": 2,
-			"val": 0.20005327543288143
+			"chap": "Hiram's Hospital According to Act of Parliament",
+			"val": 0.038267875125881166
 		},
 		{
-			"chap": 3,
-			"val": 0.7984042300249282
+			"chap": "Dr. and Mrs. Proudie",
+			"val": 0.027426160337552744
 		},
 		{
-			"chap": 4,
-			"val": 0.9789393173226605
+			"chap": "The Bishop's Chaplain",
+			"val": 0.03972835314091681
 		},
 		{
-			"chap": 5,
-			"val": 0.19598750638666795
+			"chap": "A Morning Visit",
+			"val": 0.033386752136752136
 		},
 		{
-			"chap": 6,
-			"val": 0.13404513456950984
+			"chap": "War",
+			"val": 0.03168202764976959
 		},
 		{
-			"chap": 7,
-			"val": 0.6397128001733547
+			"chap": "The Dean and Chapter Take Counsel",
+			"val": 0.03207547169811321
 		},
 		{
-			"chap": 8,
-			"val": 0.12904086609476006
+			"chap": "The Ex-Warden Rejoices in His Probable Return to the Hospital",
+			"val": 0.040224508886810104
 		},
 		{
-			"chap": 9,
-			"val": 0.4488950657812547
+			"chap": "The Stanhope Family",
+			"val": 0.03037839758394031
 		},
 		{
-			"chap": 10,
-			"val": 0.40229058051681776
+			"chap": "Mrs. Proudie's Reception\u2014Commenced",
+			"val": 0.03128491620111732
 		},
 		{
-			"chap": 11,
-			"val": 0.635986509772086
+			"chap": "Mrs. Proudie's Reception\u2014Concluded",
+			"val": 0.030358026728262662
 		},
 		{
-			"chap": 12,
-			"val": 0.8532781431054492
+			"chap": "Slope versus Harding",
+			"val": 0.038180082723512566
 		},
 		{
-			"chap": 13,
-			"val": 0.9359130735053699
+			"chap": "The Rubbish Cart",
+			"val": 0.04142480211081794
 		},
 		{
-			"chap": 14,
-			"val": 0.7128929325626453
+			"chap": "The New Champion",
+			"val": 0.037596302003081665
 		},
 		{
-			"chap": 15,
-			"val": 0.09740827597897539
+			"chap": "The Widow's Suitors",
+			"val": 0.03772430668841762
 		},
 		{
-			"chap": 16,
-			"val": 0.6429990722742854
+			"chap": "Baby Worship",
+			"val": 0.04615103976650858
 		},
 		{
-			"chap": 17,
-			"val": 0.8656710181433631
+			"chap": "Who Shall Be Cock of the Walk?",
+			"val": 0.03302311618132693
 		},
 		{
-			"chap": 18,
-			"val": 0.6940776657338052
+			"chap": "The Widow's Persecution",
+			"val": 0.03574420552918179
 		},
 		{
-			"chap": 19,
-			"val": 0.8465832563910118
+			"chap": "Barchester by Moonlight",
+			"val": 0.03786008230452675
 		},
 		{
-			"chap": 20,
-			"val": 0.3171396882359204
+			"chap": "Mr. Arabin",
+			"val": 0.03276327632763276
 		},
 		{
-			"chap": 21,
-			"val": 0.5477353999596064
+			"chap": "St. Ewold's Parsonage",
+			"val": 0.0381509890997174
 		},
 		{
-			"chap": 22,
-			"val": 0.4537405542932268
+			"chap": "The Thornes of Ullathorne",
+			"val": 0.02754131196795193
 		},
 		{
-			"chap": 23,
-			"val": 0.9447626440601464
+			"chap": "Mr. Arabin Reads Himself in at St. Ewold's",
+			"val": 0.035083226632522405
 		},
 		{
-			"chap": 24,
-			"val": 0.4869151049291799
+			"chap": "Mr. Slope Manages Matters Very Cleverly at Puddingdale",
+			"val": 0.03460207612456748
 		},
 		{
-			"chap": 25,
-			"val": 0.9968484896764466
+			"chap": "Fourteen Arguments in Favour of Mr. Quiverful's Claims",
+			"val": 0.03219942871981304
 		},
 		{
-			"chap": 26,
-			"val": 0.3634110491630601
+			"chap": "Mrs. Proudie Wrestles and Gets a Fall",
+			"val": 0.03488619442671772
 		},
 		{
-			"chap": 27,
-			"val": 0.04985593139148936
+			"chap": "A Love Scene",
+			"val": 0.03682678311499272
 		},
 		{
-			"chap": 28,
-			"val": 0.12522413832305979
+			"chap": "Mrs. Bold is Entertained by Dr. and Mrs. Grantly at Plumstead",
+			"val": 0.037304267731040834
 		},
 		{
-			"chap": 29,
-			"val": 0.4183584398494651
+			"chap": "A Serious Interview",
+			"val": 0.04648143339392365
 		},
 		{
-			"chap": 30,
-			"val": 0.4240800948933907
+			"chap": "Another Love Scene",
+			"val": 0.04143318050602819
 		},
 		{
-			"chap": 31,
-			"val": 0.4584486188125022
+			"chap": "The Bishop's Library",
+			"val": 0.028901734104046242
 		},
 		{
-			"chap": 32,
-			"val": 0.7830117408154594
+			"chap": "A New Candidate for Ecclesiastical Honours",
+			"val": 0.036322188449848025
 		},
 		{
-			"chap": 33,
-			"val": 0.8112521145751723
+			"chap": "Mrs. Proudie Victrix",
+			"val": 0.036525974025974024
 		},
 		{
-			"chap": 34,
-			"val": 0.43269051008091985
+			"chap": "Oxford\u2014The Master and Tutor of Lazarus",
+			"val": 0.03149807938540333
 		},
 		{
-			"chap": 35,
-			"val": 0.15474295837830765
+			"chap": "Miss Thorne's F\u00eate Champ\u00eatre",
+			"val": 0.033920704845814977
 		},
 		{
-			"chap": 36,
-			"val": 0.004555726848914032
+			"chap": "Ullathorne Sports\u2014Act I",
+			"val": 0.02733485193621868
 		},
 		{
-			"chap": 37,
-			"val": 0.9110357158468386
+			"chap": "The Signora Neroni, the Countess De Courcy,",
+			"val": 0.03069563484153877
 		},
 		{
-			"chap": 38,
-			"val": 0.9505320529464458
+			"chap": "The Bishop Sits Down to Breakfast, and the Dean Dies",
+			"val": 0.03891402714932127
 		},
 		{
-			"chap": 39,
-			"val": 0.04841893314049994
+			"chap": "The Lookalofts and the Greenacres",
+			"val": 0.030522503879979308
 		},
 		{
-			"chap": 40,
-			"val": 0.4864802770075852
+			"chap": "Ullathorne Sports\u2014Act II",
+			"val": 0.0368842513952924
 		},
 		{
-			"chap": 41,
-			"val": 0.2645093633080151
+			"chap": "Mrs. Bold Confides Her Sorrow to Her Friend Miss Stanhope",
+			"val": 0.04106145251396648
 		},
 		{
-			"chap": 42,
-			"val": 0.5339107002874109
+			"chap": "Ullathorne Sports\u2014Act III",
+			"val": 0.04079416782999845
 		},
 		{
-			"chap": 43,
-			"val": 0.7573732080105295
+			"chap": "Mr. and Mrs. Quiverful Are Made Happy.",
+			"val": 0.029332886356017433
 		},
 		{
-			"chap": 44,
-			"val": 0.4313996548319783
+			"chap": "Mrs. Bold at Home",
+			"val": 0.0393582351466533
 		},
 		{
-			"chap": 45,
-			"val": 0.15895072472939786
+			"chap": "The Stanhopes at Home",
+			"val": 0.04050632911392405
 		},
 		{
-			"chap": 46,
-			"val": 0.40556164507182757
+			"chap": "Mr. Slope's Parting Interview with the Signora",
+			"val": 0.03573333333333333
 		},
 		{
-			"chap": 47,
-			"val": 0.6452132029323876
+			"chap": "The Dean Elect",
+			"val": 0.0375
 		},
 		{
-			"chap": 48,
-			"val": 0.7026512565854263
+			"chap": "Miss Thorne Shows Her Talent at Match-Making",
+			"val": 0.037886760681961694
 		},
 		{
-			"chap": 49,
-			"val": 0.6940922574590881
+			"chap": "The Beelzebub Colt",
+			"val": 0.04168113928447378
 		},
 		{
-			"chap": 50,
-			"val": 0.3205260457327306
+			"chap": "The Archdeacon Is Satisfied with the State of Affairs",
+			"val": 0.028489116517285532
 		},
 		{
-			"chap": 51,
-			"val": 0.5963015869875368
+			"chap": "Mr. Slope Bids Farewell to the Palace and Its Inhabitants",
+			"val": 0.02845927379784102
 		},
 		{
-			"chap": 52,
-			"val": 0.9737435111223486
+			"chap": "The New Dean Takes Possession of the Deanery,\u2028and the New Warden of the Hospital\u2028",
+			"val": 0.034021517883105555
 		},
 		{
-			"chap": 53,
-			"val": 0.29683424649759527
-		}]
-	}]
-},
-{
-	"topic": "TOPIC4",
-	"books": [{
-		"totalchap": 27,
-		"b": [{
-			"chap": 1,
-			"val": 0.507594895597207
-		},
-		{
-			"chap": 2,
-			"val": 0.5486526870617856
-		},
-		{
-			"chap": 3,
-			"val": 0.18462688232188706
-		},
-		{
-			"chap": 4,
-			"val": 0.5403992012510733
-		},
-		{
-			"chap": 5,
-			"val": 0.3993999188353945
-		},
-		{
-			"chap": 6,
-			"val": 0.6157732697863579
-		},
-		{
-			"chap": 7,
-			"val": 0.13342331691754272
-		},
-		{
-			"chap": 8,
-			"val": 0.5321231723097927
-		},
-		{
-			"chap": 9,
-			"val": 0.10527726228658874
-		},
-		{
-			"chap": 10,
-			"val": 0.5810084880152736
-		},
-		{
-			"chap": 11,
-			"val": 0.2798425737055411
-		},
-		{
-			"chap": 12,
-			"val": 0.9001067985367187
-		},
-		{
-			"chap": 13,
-			"val": 0.5122928122053357
-		},
-		{
-			"chap": 14,
-			"val": 0.919883524531808
-		},
-		{
-			"chap": 15,
-			"val": 0.9444861684178552
-		},
-		{
-			"chap": 16,
-			"val": 0.40965888045996623
-		},
-		{
-			"chap": 17,
-			"val": 0.1410167595263767
-		},
-		{
-			"chap": 18,
-			"val": 0.08286875720897136
-		},
-		{
-			"chap": 19,
-			"val": 0.37503511075821183
-		},
-		{
-			"chap": 20,
-			"val": 0.032236880917456356
-		},
-		{
-			"chap": 21,
-			"val": 0.3049991609631596
-		},
-		{
-			"chap": 22,
-			"val": 0.583798920993695
-		},
-		{
-			"chap": 23,
-			"val": 0.6330605474993508
-		},
-		{
-			"chap": 24,
-			"val": 0.9711691989186181
-		},
-		{
-			"chap": 25,
-			"val": 0.6269394048413599
-		},
-		{
-			"chap": 26,
-			"val": 0.9913971055925221
-		},
-		{
-			"chap": 27,
-			"val": 0.8644220557770126
-		}]
-	},
-	{
-		"totalchap": 60,
-		"b": [{
-			"chap": 1,
-			"val": 0.9876705952854514
-		},
-		{
-			"chap": 2,
-			"val": 0.6521605658076173
-		},
-		{
-			"chap": 3,
-			"val": 0.06771253657823983
-		},
-		{
-			"chap": 4,
-			"val": 0.7980816937602562
-		},
-		{
-			"chap": 5,
-			"val": 0.7691550791032791
-		},
-		{
-			"chap": 6,
-			"val": 0.4981498138516658
-		},
-		{
-			"chap": 7,
-			"val": 0.9085698734080015
-		},
-		{
-			"chap": 8,
-			"val": 0.8610367469045466
-		},
-		{
-			"chap": 9,
-			"val": 0.9769912170444298
-		},
-		{
-			"chap": 10,
-			"val": 0.2405687866566285
-		},
-		{
-			"chap": 11,
-			"val": 0.4924003803246899
-		},
-		{
-			"chap": 12,
-			"val": 0.9755504084844883
-		},
-		{
-			"chap": 13,
-			"val": 0.9299015332842235
-		},
-		{
-			"chap": 14,
-			"val": 0.15272765146841716
-		},
-		{
-			"chap": 15,
-			"val": 0.925849593965199
-		},
-		{
-			"chap": 16,
-			"val": 0.9439738625863703
-		},
-		{
-			"chap": 17,
-			"val": 0.7942886092286571
-		},
-		{
-			"chap": 18,
-			"val": 0.35541240156113696
-		},
-		{
-			"chap": 19,
-			"val": 0.6630884246560376
-		},
-		{
-			"chap": 20,
-			"val": 0.420349634713862
-		},
-		{
-			"chap": 21,
-			"val": 0.046509499959426326
-		},
-		{
-			"chap": 22,
-			"val": 0.4979121300632344
-		},
-		{
-			"chap": 23,
-			"val": 0.3201923341987829
-		},
-		{
-			"chap": 24,
-			"val": 0.5632562726414385
-		},
-		{
-			"chap": 25,
-			"val": 0.54493139791781
-		},
-		{
-			"chap": 26,
-			"val": 0.4691261323056861
-		},
-		{
-			"chap": 27,
-			"val": 0.7324118525690643
-		},
-		{
-			"chap": 28,
-			"val": 0.8032948977474755
-		},
-		{
-			"chap": 29,
-			"val": 0.3293079488220324
-		},
-		{
-			"chap": 30,
-			"val": 0.6039528121759985
-		},
-		{
-			"chap": 31,
-			"val": 0.690300727526744
-		},
-		{
-			"chap": 32,
-			"val": 0.25092728825169275
-		},
-		{
-			"chap": 33,
-			"val": 0.07606561968704473
-		},
-		{
-			"chap": 34,
-			"val": 0.2105008291848015
-		},
-		{
-			"chap": 35,
-			"val": 0.2892896739039068
-		},
-		{
-			"chap": 36,
-			"val": 0.15039948106455947
-		},
-		{
-			"chap": 37,
-			"val": 0.07225026999539319
-		},
-		{
-			"chap": 38,
-			"val": 0.08502334969598369
-		},
-		{
-			"chap": 39,
-			"val": 0.0652511839051817
-		},
-		{
-			"chap": 40,
-			"val": 0.0766630636074247
-		},
-		{
-			"chap": 41,
-			"val": 0.5168903920432498
-		},
-		{
-			"chap": 42,
-			"val": 0.10778485896221934
-		},
-		{
-			"chap": 43,
-			"val": 0.23669074438979076
-		},
-		{
-			"chap": 44,
-			"val": 0.3196994236429792
-		},
-		{
-			"chap": 45,
-			"val": 0.8230888927283075
-		},
-		{
-			"chap": 46,
-			"val": 0.165312012745498
-		},
-		{
-			"chap": 47,
-			"val": 0.4554088618425848
-		},
-		{
-			"chap": 48,
-			"val": 0.044926508460887304
-		},
-		{
-			"chap": 49,
-			"val": 0.6121531553915052
-		},
-		{
-			"chap": 50,
-			"val": 0.5643666129482995
-		},
-		{
-			"chap": 51,
-			"val": 0.3033978193729805
-		},
-		{
-			"chap": 52,
-			"val": 0.3351426442811891
-		},
-		{
-			"chap": 53,
-			"val": 0.8568339935005983
-		},
-		{
-			"chap": 54,
-			"val": 0.16144864108775103
-		},
-		{
-			"chap": 55,
-			"val": 0.8598989873481339
-		},
-		{
-			"chap": 56,
-			"val": 0.5648634165565378
-		},
-		{
-			"chap": 57,
-			"val": 0.140638817973061
-		},
-		{
-			"chap": 58,
-			"val": 0.4367363866529542
-		},
-		{
-			"chap": 59,
-			"val": 0.6417030186302694
-		},
-		{
-			"chap": 60,
-			"val": 0.7300616149092796
-		}]
-	},
-	{
-		"totalchap": 84,
-		"b": [{
-			"chap": 1,
-			"val": 0.35815165568407803
-		},
-		{
-			"chap": 2,
-			"val": 0.35086685777025584
-		},
-		{
-			"chap": 3,
-			"val": 0.183781160393801
-		},
-		{
-			"chap": 4,
-			"val": 0.9101776997001072
-		},
-		{
-			"chap": 5,
-			"val": 0.016392998653935287
-		},
-		{
-			"chap": 6,
-			"val": 0.8035742603939023
-		},
-		{
-			"chap": 7,
-			"val": 0.02656418309374442
-		},
-		{
-			"chap": 8,
-			"val": 0.4431365364369815
-		},
-		{
-			"chap": 9,
-			"val": 0.5663242186263974
-		},
-		{
-			"chap": 10,
-			"val": 0.02284485859787677
-		},
-		{
-			"chap": 11,
-			"val": 0.36106189207970096
-		},
-		{
-			"chap": 12,
-			"val": 0.7637018672538828
-		},
-		{
-			"chap": 13,
-			"val": 0.801992730919248
-		},
-		{
-			"chap": 14,
-			"val": 0.03558043040404213
-		},
-		{
-			"chap": 15,
-			"val": 0.8693787234167383
-		},
-		{
-			"chap": 16,
-			"val": 0.16308723199664488
-		},
-		{
-			"chap": 17,
-			"val": 0.326789753174456
-		},
-		{
-			"chap": 18,
-			"val": 0.8717602556398453
-		},
-		{
-			"chap": 19,
-			"val": 0.12355440761499115
-		},
-		{
-			"chap": 20,
-			"val": 0.35689335106394315
-		},
-		{
-			"chap": 21,
-			"val": 0.2985941524274035
-		},
-		{
-			"chap": 22,
-			"val": 0.4586692442915702
-		},
-		{
-			"chap": 23,
-			"val": 0.59521212052837
-		},
-		{
-			"chap": 24,
-			"val": 0.7149618770682455
-		},
-		{
-			"chap": 25,
-			"val": 0.9021793306498982
-		},
-		{
-			"chap": 26,
-			"val": 0.7620789313173838
-		},
-		{
-			"chap": 27,
-			"val": 0.5162799464640683
-		},
-		{
-			"chap": 28,
-			"val": 0.1605250203578742
-		},
-		{
-			"chap": 29,
-			"val": 0.6408952264327314
-		},
-		{
-			"chap": 30,
-			"val": 0.09538158533056096
-		},
-		{
-			"chap": 31,
-			"val": 0.10374861287654391
-		},
-		{
-			"chap": 32,
-			"val": 0.28382599314935664
-		},
-		{
-			"chap": 33,
-			"val": 0.4453285453325563
-		},
-		{
-			"chap": 34,
-			"val": 0.3679578640247668
-		},
-		{
-			"chap": 35,
-			"val": 0.8492004204834048
-		},
-		{
-			"chap": 36,
-			"val": 0.3886926370328443
-		},
-		{
-			"chap": 37,
-			"val": 0.33001861916036124
-		},
-		{
-			"chap": 38,
-			"val": 0.5886187323155591
-		},
-		{
-			"chap": 39,
-			"val": 0.9128799436621763
-		},
-		{
-			"chap": 40,
-			"val": 0.152250647875104
-		},
-		{
-			"chap": 41,
-			"val": 0.6402376664211943
-		},
-		{
-			"chap": 42,
-			"val": 0.18055667310014079
-		},
-		{
-			"chap": 43,
-			"val": 0.646564805524614
-		},
-		{
-			"chap": 44,
-			"val": 0.09228029724358933
-		},
-		{
-			"chap": 45,
-			"val": 0.10590475633085139
-		},
-		{
-			"chap": 46,
-			"val": 0.8734543864512652
-		},
-		{
-			"chap": 47,
-			"val": 0.4298818436517947
-		},
-		{
-			"chap": 48,
-			"val": 0.3043308680051543
-		},
-		{
-			"chap": 49,
-			"val": 0.5326261911084073
-		},
-		{
-			"chap": 50,
-			"val": 0.5616239311611853
-		},
-		{
-			"chap": 51,
-			"val": 0.5086254031302757
-		},
-		{
-			"chap": 52,
-			"val": 0.8994834432310779
-		},
-		{
-			"chap": 53,
-			"val": 0.9775669227719532
-		},
-		{
-			"chap": 54,
-			"val": 0.8465363506644441
-		},
-		{
-			"chap": 55,
-			"val": 0.7791946990898851
-		},
-		{
-			"chap": 56,
-			"val": 0.3922112788351729
-		},
-		{
-			"chap": 57,
-			"val": 0.7276992223787471
-		},
-		{
-			"chap": 58,
-			"val": 0.11654956520775628
-		},
-		{
-			"chap": 59,
-			"val": 0.7131463047466127
-		},
-		{
-			"chap": 60,
-			"val": 0.9987213900119138
-		},
-		{
-			"chap": 61,
-			"val": 0.2131867267617349
-		},
-		{
-			"chap": 62,
-			"val": 0.23255112723762172
-		},
-		{
-			"chap": 63,
-			"val": 0.9403743816487824
-		},
-		{
-			"chap": 64,
-			"val": 0.6007552077551717
-		},
-		{
-			"chap": 65,
-			"val": 0.195218923580613
-		},
-		{
-			"chap": 66,
-			"val": 0.19895811960239684
-		},
-		{
-			"chap": 67,
-			"val": 0.9138685810802598
-		},
-		{
-			"chap": 68,
-			"val": 0.4182410635384777
-		},
-		{
-			"chap": 69,
-			"val": 0.43162507636956693
-		},
-		{
-			"chap": 70,
-			"val": 0.22653437958149625
-		},
-		{
-			"chap": 71,
-			"val": 0.7699288151846996
-		},
-		{
-			"chap": 72,
-			"val": 0.7024990070449748
-		},
-		{
-			"chap": 73,
-			"val": 0.7194270497005236
-		},
-		{
-			"chap": 74,
-			"val": 0.8584541311977356
-		},
-		{
-			"chap": 75,
-			"val": 0.8397066067390287
-		},
-		{
-			"chap": 76,
-			"val": 0.5026135603470379
-		},
-		{
-			"chap": 77,
-			"val": 0.05757103695045018
-		},
-		{
-			"chap": 78,
-			"val": 0.9013162120511167
-		},
-		{
-			"chap": 79,
-			"val": 0.18060854111252367
-		},
-		{
-			"chap": 80,
-			"val": 0.6581255578249606
-		},
-		{
-			"chap": 81,
-			"val": 0.5183404960514494
-		},
-		{
-			"chap": 82,
-			"val": 0.027922322746325667
-		},
-		{
-			"chap": 83,
-			"val": 0.4918301462034478
-		},
-		{
-			"chap": 84,
-			"val": 0.27911970417508536
-		}]
-	},
-	{
-		"totalchap": 48,
-		"b": [{
-			"chap": 1,
-			"val": 0.8447871485883472
-		},
-		{
-			"chap": 2,
-			"val": 0.5833138475788772
-		},
-		{
-			"chap": 3,
-			"val": 0.8132140681949451
-		},
-		{
-			"chap": 4,
-			"val": 0.9433071628488284
-		},
-		{
-			"chap": 5,
-			"val": 0.5411607830761089
-		},
-		{
-			"chap": 6,
-			"val": 0.6804948304394405
-		},
-		{
-			"chap": 7,
-			"val": 0.999969612508306
-		},
-		{
-			"chap": 8,
-			"val": 0.8725259190519022
-		},
-		{
-			"chap": 9,
-			"val": 0.7572184424830589
-		},
-		{
-			"chap": 10,
-			"val": 0.13947810438021235
-		},
-		{
-			"chap": 11,
-			"val": 0.752471863938927
-		},
-		{
-			"chap": 12,
-			"val": 0.5096147255031832
-		},
-		{
-			"chap": 13,
-			"val": 0.5434149721558965
-		},
-		{
-			"chap": 14,
-			"val": 0.5689879705176821
-		},
-		{
-			"chap": 15,
-			"val": 0.25020017755421053
-		},
-		{
-			"chap": 16,
-			"val": 0.23261783514100287
-		},
-		{
-			"chap": 17,
-			"val": 0.7769786876254878
-		},
-		{
-			"chap": 18,
-			"val": 0.9340361465520817
-		},
-		{
-			"chap": 19,
-			"val": 0.7100769887128588
-		},
-		{
-			"chap": 20,
-			"val": 0.5313103591197731
-		},
-		{
-			"chap": 21,
-			"val": 0.028872358283266286
-		},
-		{
-			"chap": 22,
-			"val": 0.6366690536754711
-		},
-		{
-			"chap": 23,
-			"val": 0.9025497574027367
-		},
-		{
-			"chap": 24,
-			"val": 0.7064192485463954
-		},
-		{
-			"chap": 25,
-			"val": 0.6897367169974855
-		},
-		{
-			"chap": 26,
-			"val": 0.304237872440294
-		},
-		{
-			"chap": 27,
-			"val": 0.1033567307083364
-		},
-		{
-			"chap": 28,
-			"val": 0.833531507695765
-		},
-		{
-			"chap": 29,
-			"val": 0.34522873239140406
-		},
-		{
-			"chap": 30,
-			"val": 0.4022466889331835
-		},
-		{
-			"chap": 31,
-			"val": 0.48814353282200673
-		},
-		{
-			"chap": 32,
-			"val": 0.784606770218116
-		},
-		{
-			"chap": 33,
-			"val": 0.8619952088233592
-		},
-		{
-			"chap": 34,
-			"val": 0.6628437071380816
-		},
-		{
-			"chap": 35,
-			"val": 0.11281728957287007
-		},
-		{
-			"chap": 36,
-			"val": 0.4345371934029496
-		},
-		{
-			"chap": 37,
-			"val": 0.5883811799342992
-		},
-		{
-			"chap": 38,
-			"val": 0.9288396774941386
-		},
-		{
-			"chap": 39,
-			"val": 0.647877671780544
-		},
-		{
-			"chap": 40,
-			"val": 0.9832073196000045
-		},
-		{
-			"chap": 41,
-			"val": 0.7267573139348085
-		},
-		{
-			"chap": 42,
-			"val": 0.524276169443067
-		},
-		{
-			"chap": 43,
-			"val": 0.7595125374343872
-		},
-		{
-			"chap": 44,
-			"val": 0.631371821965743
-		},
-		{
-			"chap": 45,
-			"val": 0.04870270586760728
-		},
-		{
-			"chap": 46,
-			"val": 0.057513428194318705
-		},
-		{
-			"chap": 47,
-			"val": 0.8993221581360203
-		},
-		{
-			"chap": 48,
-			"val": 0.42252819086059246
-		}]
+			"chap": "Conclusion",
+			"val": 0.027085590465872156
+		}],
+		"title": "Barchester_Towers"
 	},
 	{
 		"totalchap": 47,
 		"b": [{
-			"chap": 1,
-			"val": 0.5652830262512281
+			"chap": "The Greshams of Greshamsbury",
+			"val": 0.026243849097867686
 		},
 		{
-			"chap": 2,
-			"val": 0.09237048229705114
+			"chap": "Long, Long Ago",
+			"val": 0.029567854435178165
 		},
 		{
-			"chap": 3,
-			"val": 0.7392162630342483
+			"chap": "Dr Thorne",
+			"val": 0.03053892215568862
 		},
 		{
-			"chap": 4,
-			"val": 0.28331717529920664
+			"chap": "Lessons from Courcy Castle",
+			"val": 0.034978991596638656
 		},
 		{
-			"chap": 5,
-			"val": 0.050063967050767766
+			"chap": "Frank Gresham's First Speech",
+			"val": 0.03111375346809354
 		},
 		{
-			"chap": 6,
-			"val": 0.7441280341477021
+			"chap": "Frank Gresham's Early Loves",
+			"val": 0.032209455641363724
 		},
 		{
-			"chap": 7,
-			"val": 0.8952876304485177
+			"chap": "The Doctor's Garden",
+			"val": 0.03992776886035313
 		},
 		{
-			"chap": 8,
-			"val": 0.6259286148785069
+			"chap": "Matrimonial Prospects",
+			"val": 0.03152492668621701
 		},
 		{
-			"chap": 9,
-			"val": 0.44399449167669947
+			"chap": "Sir Roger Scatcherd",
+			"val": 0.03647850010189525
 		},
 		{
-			"chap": 10,
-			"val": 0.9972847933890624
+			"chap": "Sir Roger's Will",
+			"val": 0.04333145751266179
 		},
 		{
-			"chap": 11,
-			"val": 0.7697417744050573
+			"chap": "The Doctor Drinks His Tea",
+			"val": 0.03529411764705882
 		},
 		{
-			"chap": 12,
-			"val": 0.1761537812539874
+			"chap": "When Greek Meets Greek, Then Comes the Tug of War",
+			"val": 0.034753163428978794
 		},
 		{
-			"chap": 13,
-			"val": 0.6446984973837848
+			"chap": "The Two Uncles",
+			"val": 0.04559457794208256
 		},
 		{
-			"chap": 14,
-			"val": 0.38966615924989856
+			"chap": "Sentence of Exile",
+			"val": 0.037694915254237286
 		},
 		{
-			"chap": 15,
-			"val": 0.06157868815738721
+			"chap": "Courcy",
+			"val": 0.024763849885116162
 		},
 		{
-			"chap": 16,
-			"val": 0.23816916692846601
+			"chap": "Miss Dunstable",
+			"val": 0.03455941794664511
 		},
 		{
-			"chap": 17,
-			"val": 0.9626353646412937
+			"chap": "The Election",
+			"val": 0.03643835616438356
 		},
 		{
-			"chap": 18,
-			"val": 0.7796771756717126
+			"chap": "The Rivals",
+			"val": 0.03229032718959851
 		},
 		{
-			"chap": 19,
-			"val": 0.48453638026989654
+			"chap": "The Duke of Omnium",
+			"val": 0.032964551817566044
 		},
 		{
-			"chap": 20,
-			"val": 0.762193839387626
+			"chap": "The Proposal",
+			"val": 0.03781194857574994
 		},
 		{
-			"chap": 21,
-			"val": 0.3223277827711576
+			"chap": "Mr Moffat Falls into Trouble",
+			"val": 0.032227930873423634
 		},
 		{
-			"chap": 22,
-			"val": 0.8334591393616491
+			"chap": "Sir Roger Is Unseated",
+			"val": 0.0329481190066388
 		},
 		{
-			"chap": 23,
-			"val": 0.2500405651771408
+			"chap": "Retrospective",
+			"val": 0.03904886561954625
 		},
 		{
-			"chap": 24,
-			"val": 0.4184970512964338
+			"chap": "Louis Scatcherd",
+			"val": 0.038633725750290164
 		},
 		{
-			"chap": 25,
-			"val": 0.7072742327697477
+			"chap": "Sir Roger Dies",
+			"val": 0.03977039770397704
 		},
 		{
-			"chap": 26,
-			"val": 0.7209360706341008
+			"chap": "War",
+			"val": 0.04268790849673203
 		},
 		{
-			"chap": 27,
-			"val": 0.38472445951351963
+			"chap": "Miss Thorne Goes on a Visit",
+			"val": 0.03457316074061937
 		},
 		{
-			"chap": 28,
-			"val": 0.877838194030276
+			"chap": "The Doctor Hears Something to His Advantage",
+			"val": 0.03944444444444444
 		},
 		{
-			"chap": 29,
-			"val": 0.6388523472842716
+			"chap": "The Donkey Ride",
+			"val": 0.028430682617874736
 		},
 		{
-			"chap": 30,
-			"val": 0.8071778517578494
+			"chap": "Post Prandial",
+			"val": 0.0349958666299256
 		},
 		{
-			"chap": 31,
-			"val": 0.7122668136686218
+			"chap": "The Small End of the Wedge",
+			"val": 0.03373140582442908
 		},
 		{
-			"chap": 32,
-			"val": 0.06210691237576427
+			"chap": "Mr Oriel",
+			"val": 0.0345
 		},
 		{
-			"chap": 33,
-			"val": 0.976458385060804
+			"chap": "A Morning Visit",
+			"val": 0.03980281175826182
 		},
 		{
-			"chap": 34,
-			"val": 0.8108758061921905
+			"chap": "A Barouche and Four Arrives at Greshamsbury",
+			"val": 0.03198711310551145
 		},
 		{
-			"chap": 35,
-			"val": 0.7839384371662145
+			"chap": "Sir Louis Goes Out to Dinner",
+			"val": 0.029748788012340238
 		},
 		{
-			"chap": 36,
-			"val": 0.6608850271610957
+			"chap": "Will He Come Again?",
+			"val": 0.033533533533533534
 		},
 		{
-			"chap": 37,
-			"val": 0.18905234815949057
+			"chap": "Sir Louis Leaves Greshamsbury",
+			"val": 0.03783902012248469
 		},
 		{
-			"chap": 38,
-			"val": 0.4181134786406411
+			"chap": "De Courcy Precepts and de Courcy Practice",
+			"val": 0.03752506445144658
 		},
 		{
-			"chap": 39,
-			"val": 0.1434885990301371
+			"chap": "What the World Says about Blood",
+			"val": 0.03607296577167452
 		},
 		{
-			"chap": 40,
-			"val": 0.5044104219746313
+			"chap": "The Two Doctors Change Patients",
+			"val": 0.034804367606915375
 		},
 		{
-			"chap": 41,
-			"val": 0.6986096550875777
+			"chap": "Doctor Thorne Won't Interfere",
+			"val": 0.043168397475056
 		},
 		{
-			"chap": 42,
-			"val": 0.04963703722543944
+			"chap": "What Can You Give in Return?",
+			"val": 0.048471750540290216
 		},
 		{
-			"chap": 43,
-			"val": 0.6379029711398877
+			"chap": "The Race of Scatcherd Becomes Extinct",
+			"val": 0.036728896103896104
 		},
 		{
-			"chap": 44,
-			"val": 0.04837735841081814
+			"chap": "Saturday Evening and Sunday Morning",
+			"val": 0.03980738362760835
 		},
 		{
-			"chap": 45,
-			"val": 0.22501422728731046
+			"chap": "Law Business in London",
+			"val": 0.03832963485979423
 		},
 		{
-			"chap": 46,
-			"val": 0.10600780201974869
+			"chap": "Our Pet Fox Finds a Tail",
+			"val": 0.035629453681710214
 		},
 		{
-			"chap": 47,
-			"val": 0.3046096082766143
-		}]
+			"chap": "How the Bride Was Received, and Who Were Asked to the Wedding",
+			"val": 0.03382634894549438
+		}],
+		"title": "Doctor_Thorne"
 	},
 	{
-		"totalchap": 53,
+		"totalchap": 48,
 		"b": [{
-			"chap": 1,
-			"val": 0.7863660504898748
+			"chap": "OMNES OMNIA BONA DICERE.",
+			"val": 0.03837368661489265
 		},
 		{
-			"chap": 2,
-			"val": 0.807030113451737
+			"chap": "THE FRAMLEY SET, AND THE CHALDICOTES SET.",
+			"val": 0.029736116581331233
 		},
 		{
-			"chap": 3,
-			"val": 0.3035104484657195
+			"chap": "CHALDICOTES.",
+			"val": 0.027162139643392768
 		},
 		{
-			"chap": 4,
-			"val": 0.32072212949726453
+			"chap": "A MATTER OF CONSCIENCE.",
+			"val": 0.03553756185335133
 		},
 		{
-			"chap": 5,
-			"val": 0.42220327543848113
+			"chap": "AMANTIUM IR\u00c6 AMORIS INTEGRATIO.",
+			"val": 0.038455935906773486
 		},
 		{
-			"chap": 6,
-			"val": 0.25808971344025455
+			"chap": "MR. HAROLD SMITH'S LECTURE.",
+			"val": 0.02386533134455572
 		},
 		{
-			"chap": 7,
-			"val": 0.6450371209603935
+			"chap": "SUNDAY MORNING.",
+			"val": 0.029904614591389534
 		},
 		{
-			"chap": 8,
-			"val": 0.9029550931295238
+			"chap": "GATHERUM CASTLE.",
+			"val": 0.03165088118930584
 		},
 		{
-			"chap": 9,
-			"val": 0.44442371585026863
+			"chap": "THE VICAR'S RETURN.",
+			"val": 0.031435643564356436
 		},
 		{
-			"chap": 10,
-			"val": 0.17691871687715732
+			"chap": "LUCY ROBARTS.",
+			"val": 0.031055900621118012
 		},
 		{
-			"chap": 11,
-			"val": 0.923729131880571
+			"chap": "GRISELDA GRANTLY.",
+			"val": 0.03318359658020577
 		},
 		{
-			"chap": 12,
-			"val": 0.21593151701143443
+			"chap": "THE LITTLE BILL.",
+			"val": 0.030456852791878174
 		},
 		{
-			"chap": 13,
-			"val": 0.7807442416950121
+			"chap": "DELICATE HINTS.",
+			"val": 0.0382189948404357
 		},
 		{
-			"chap": 14,
-			"val": 0.29824742651295644
+			"chap": "MR. CRAWLEY OF HOGGLESTOCK.",
+			"val": 0.035746201966041107
 		},
 		{
-			"chap": 15,
-			"val": 0.5121722773403886
+			"chap": "LADY LUFTON'S AMBASSADOR.",
+			"val": 0.028221142724959517
 		},
 		{
-			"chap": 16,
-			"val": 0.255745940066745
+			"chap": "MRS. PODGENS' BABY.",
+			"val": 0.036357458375807
 		},
 		{
-			"chap": 17,
-			"val": 0.9848164720491888
+			"chap": "MRS. PROUDIE'S CONVERSAZIONE.",
+			"val": 0.034726309593878756
 		},
 		{
-			"chap": 18,
-			"val": 0.4844347428946715
+			"chap": "THE NEW MINISTER'S PATRONAGE.",
+			"val": 0.0286046511627907
 		},
 		{
-			"chap": 19,
-			"val": 0.7068287298050795
+			"chap": "MONEY DEALINGS.",
+			"val": 0.033672670321064996
 		},
 		{
-			"chap": 20,
-			"val": 0.45435423592941293
+			"chap": "HAROLD SMITH IN THE CABINET.",
+			"val": 0.0309031556039173
 		},
 		{
-			"chap": 21,
-			"val": 0.07485521964592223
+			"chap": "WHY PUCK, THE PONY, WAS BEATEN.",
+			"val": 0.034565217391304345
 		},
 		{
-			"chap": 22,
-			"val": 0.5241077173059093
+			"chap": "HOGGLESTOCK PARSONAGE.",
+			"val": 0.028594550849743727
 		},
 		{
-			"chap": 23,
-			"val": 0.2587040727082731
+			"chap": "THE TRIUMPH OF THE GIANTS.",
+			"val": 0.03896103896103896
 		},
 		{
-			"chap": 24,
-			"val": 0.9008254451041257
+			"chap": "MAGNA EST VERITAS.",
+			"val": 0.04195593118019922
 		},
 		{
-			"chap": 25,
-			"val": 0.05518002703047764
+			"chap": "NON-IMPULSIVE.",
+			"val": 0.040262767535494806
 		},
 		{
-			"chap": 26,
-			"val": 0.13006283975071598
+			"chap": "IMPULSIVE.",
+			"val": 0.0425531914893617
 		},
 		{
-			"chap": 27,
-			"val": 0.9540274898594058
+			"chap": "SOUTH AUDLEY STREET.",
+			"val": 0.0397196261682243
 		},
 		{
-			"chap": 28,
-			"val": 0.6968715906631701
+			"chap": "DR. THORNE.",
+			"val": 0.032044198895027624
 		},
 		{
-			"chap": 29,
-			"val": 0.8004026049795987
+			"chap": "MISS DUNSTABLE AT HOME.",
+			"val": 0.0332715173993673
 		},
 		{
-			"chap": 30,
-			"val": 0.07433849356500954
+			"chap": "THE GRANTLY TRIUMPH.",
+			"val": 0.029101644875579924
 		},
 		{
-			"chap": 31,
-			"val": 0.32426230181702087
+			"chap": "SALMON FISHING IN NORWAY.",
+			"val": 0.03592208449279029
 		},
 		{
-			"chap": 32,
-			"val": 0.4029272923783642
+			"chap": "THE GOAT AND COMPASSES.",
+			"val": 0.03386454183266932
 		},
 		{
-			"chap": 33,
-			"val": 0.8427023295271926
+			"chap": "CONSOLATION.",
+			"val": 0.03132959755476312
 		},
 		{
-			"chap": 34,
-			"val": 0.6045439450263891
+			"chap": "LADY LUFTON IS TAKEN BY SURPRISE.",
+			"val": 0.033402489626556016
 		},
 		{
-			"chap": 35,
-			"val": 0.13489819527340086
+			"chap": "THE STORY OF KING COPHETUA.",
+			"val": 0.033004552352048556
 		},
 		{
-			"chap": 36,
-			"val": 0.21821791728187434
+			"chap": "KIDNAPPING AT HOGGLESTOCK.",
+			"val": 0.03166126263589548
 		},
 		{
-			"chap": 37,
-			"val": 0.12747418067044125
+			"chap": "MR. SOWERBY WITHOUT COMPANY.",
+			"val": 0.03074895673182517
 		},
 		{
-			"chap": 38,
-			"val": 0.46735549830028367
+			"chap": "IS THERE CAUSE OR JUST IMPEDIMENT?",
+			"val": 0.043798306956201696
 		},
 		{
-			"chap": 39,
-			"val": 0.9248411631355795
+			"chap": "HOW TO WRITE A LOVE LETTER.",
+			"val": 0.037995902402682066
 		},
 		{
-			"chap": 40,
-			"val": 0.8836729366588023
+			"chap": "INTERNECINE.",
+			"val": 0.024324324324324326
 		},
 		{
-			"chap": 41,
-			"val": 0.7605509829410361
+			"chap": "DON QUIXOTE.",
+			"val": 0.03526448362720403
 		},
 		{
-			"chap": 42,
-			"val": 0.8313132021861538
+			"chap": "TOUCHING PITCH.",
+			"val": 0.03314917127071823
 		},
 		{
-			"chap": 43,
-			"val": 0.9568924463807128
+			"chap": "IS SHE NOT INSIGNIFICANT?",
+			"val": 0.03855466567330974
 		},
 		{
-			"chap": 44,
-			"val": 0.102805950259093
+			"chap": "THE PHILISTINES AT THE PARSONAGE.",
+			"val": 0.0301405325443787
 		},
 		{
-			"chap": 45,
-			"val": 0.5844504958338583
+			"chap": "PALACE BLESSINGS.",
+			"val": 0.037301764574491844
 		},
 		{
-			"chap": 46,
-			"val": 0.24700604146276262
+			"chap": "LADY LUFTON'S REQUEST.",
+			"val": 0.03541426453632021
 		},
 		{
-			"chap": 47,
-			"val": 0.8833904176368611
+			"chap": "NEMESIS.",
+			"val": 0.0320921117099461
 		},
 		{
-			"chap": 48,
-			"val": 0.33438692824310023
+			"chap": "HOW THEY WERE ALL MARRIED, HAD TWO CHILDREN, AND LIVED HAPPY EVER AFTER.",
+			"val": 0.03345280764635603
+		}],
+		"title": "Framley_Parsonage"
+	},
+	{
+		"totalchap": 60,
+		"b": [{
+			"chap": "THE SQUIRE OF ALLINGTON.",
+			"val": 0.03187751004016064
 		},
 		{
-			"chap": 49,
-			"val": 0.2852848772269856
+			"chap": "THE TWO PEARLS OF ALLINGTON.",
+			"val": 0.028535758872837526
 		},
 		{
-			"chap": 50,
-			"val": 0.3761222967394975
+			"chap": "THE WIDOW DALE OF ALLINGTON.",
+			"val": 0.03817365269461078
 		},
 		{
-			"chap": 51,
-			"val": 0.5549872667442265
+			"chap": "MRS. ROPER'S BOARDING-HOUSE.",
+			"val": 0.035828025477707005
 		},
 		{
-			"chap": 52,
-			"val": 0.33469791217787703
+			"chap": "ABOUT L. D.",
+			"val": 0.04701397712833545
 		},
 		{
-			"chap": 53,
-			"val": 0.97043639575479
-		}]
+			"chap": "BEAUTIFUL DAYS.",
+			"val": 0.03469680089129397
+		},
+		{
+			"chap": "THE BEGINNING OF TROUBLES.",
+			"val": 0.04287577437235083
+		},
+		{
+			"chap": "IT CANNOT BE.",
+			"val": 0.04148415356866787
+		},
+		{
+			"chap": "MRS. DALE'S LITTLE PARTY.",
+			"val": 0.036990985390115014
+		},
+		{
+			"chap": "MRS. LUPEX AND AMELIA ROPER.",
+			"val": 0.03401516892668352
+		},
+		{
+			"chap": "SOCIAL LIFE.",
+			"val": 0.03413821815154038
+		},
+		{
+			"chap": "LILIAN DALE BECOMES A BUTTERFLY.",
+			"val": 0.03493564486472288
+		},
+		{
+			"chap": "A VISIT TO GUESTWICK.",
+			"val": 0.043580222786789136
+		},
+		{
+			"chap": "JOHN EAMES TAKES A WALK.",
+			"val": 0.04003267973856209
+		},
+		{
+			"chap": "THE LAST DAY.",
+			"val": 0.035257965388969754
+		},
+		{
+			"chap": "MR. CROSBIE MEETS AN OLD CLERGYMAN ON HIS WAY TO COURCY CASTLE.",
+			"val": 0.03644578313253012
+		},
+		{
+			"chap": "COURCY CASTLE.",
+			"val": 0.03727297370561128
+		},
+		{
+			"chap": "LILY DALE'S FIRST LOVE-LETTER.",
+			"val": 0.02979027645376549
+		},
+		{
+			"chap": "THE SQUIRE MAKES A VISIT TO THE SMALL HOUSE.",
+			"val": 0.04168361122407483
+		},
+		{
+			"chap": "DR. CROFTS.",
+			"val": 0.031758326878388844
+		},
+		{
+			"chap": "JOHN EAMES ENCOUNTERS TWO ADVENTURES, AND DISPLAYS GREAT COURAGE IN",
+			"val": 0.03206291591046582
+		},
+		{
+			"chap": "LORD DE GUEST AT HOME.",
+			"val": 0.032974137931034486
+		},
+		{
+			"chap": "MR. PLANTAGENET PALLISER.",
+			"val": 0.03453689167974882
+		},
+		{
+			"chap": "A MOTHER-IN-LAW AND A FATHER-IN-LAW.",
+			"val": 0.03337259521005104
+		},
+		{
+			"chap": "ADOLPHUS CROSBIE SPENDS AN EVENING AT HIS CLUB.",
+			"val": 0.03435340572556762
+		},
+		{
+			"chap": "LORD DE COURCY IN THE BOSOM OF HIS FAMILY.",
+			"val": 0.04826294986478053
+		},
+		{
+			"chap": "ON MY HONOUR, I DO NOT UNDERSTAND IT.",
+			"val": 0.04504826599928495
+		},
+		{
+			"chap": "THE BOARD.",
+			"val": 0.03206412825651302
+		},
+		{
+			"chap": "JOHN EAMES RETURNS TO BURTON CRESCENT.",
+			"val": 0.03471634208298052
+		},
+		{
+			"chap": "IS IT FROM HIM?",
+			"val": 0.03782255213856486
+		},
+		{
+			"chap": "THE WOUNDED FAWN.",
+			"val": 0.03670120898100173
+		},
+		{
+			"chap": "PAWKINS'S IN JERMYN STREET.",
+			"val": 0.04035596026490066
+		},
+		{
+			"chap": "THE TIME WILL COME.",
+			"val": 0.037203668454749955
+		},
+		{
+			"chap": "THE COMBAT.",
+			"val": 0.031783556606251644
+		},
+		{
+			"chap": "V\u00c6 VICTIS.",
+			"val": 0.035913942063357615
+		},
+		{
+			"chap": "SEE, THE CONQUERING HERO COMES.",
+			"val": 0.03773584905660377
+		},
+		{
+			"chap": "AN OLD MAN'S COMPLAINT.",
+			"val": 0.03963577932512052
+		},
+		{
+			"chap": "DOCTOR CROFTS IS CALLED IN.",
+			"val": 0.03644979041370512
+		},
+		{
+			"chap": "DR. CROFTS IS TURNED OUT.",
+			"val": 0.04202386955790889
+		},
+		{
+			"chap": "PREPARATIONS FOR THE WEDDING.",
+			"val": 0.02793778801843318
+		},
+		{
+			"chap": "DOMESTIC TROUBLES.",
+			"val": 0.037116345467523196
+		},
+		{
+			"chap": "LILY'S BEDSIDE.",
+			"val": 0.041916167664670656
+		},
+		{
+			"chap": "FIE, FIE!",
+			"val": 0.03479495828155512
+		},
+		{
+			"chap": "VALENTINE'S DAY AT ALLINGTON.",
+			"val": 0.0370197904540163
+		},
+		{
+			"chap": "VALENTINE'S DAY IN LONDON.",
+			"val": 0.03206945428773919
+		},
+		{
+			"chap": "JOHN EAMES AT HIS OFFICE.",
+			"val": 0.03291097581043278
+		},
+		{
+			"chap": "THE NEW PRIVATE SECRETARY.",
+			"val": 0.043557582668187
+		},
+		{
+			"chap": "NEMESIS.",
+			"val": 0.034588362457214916
+		},
+		{
+			"chap": "PREPARATIONS FOR GOING.",
+			"val": 0.03084634663582032
+		},
+		{
+			"chap": "MRS. DALE IS THANKFUL FOR A GOOD THING.",
+			"val": 0.037225905150433454
+		},
+		{
+			"chap": "JOHN EAMES DOES THINGS WHICH HE OUGHT NOT TO HAVE DONE.",
+			"val": 0.04014652014652015
+		},
+		{
+			"chap": "THE FIRST VISIT TO THE GUESTWICK BRIDGE.",
+			"val": 0.03655793025871766
+		},
+		{
+			"chap": "LOQUITUR HOPKINS.",
+			"val": 0.04496516782773907
+		},
+		{
+			"chap": "THE SECOND VISIT TO THE GUESTWICK BRIDGE.",
+			"val": 0.03906646372399797
+		},
+		{
+			"chap": "NOT VERY FIE FIE AFTER ALL.",
+			"val": 0.031042796865581677
+		},
+		{
+			"chap": "SHOWING HOW MR. CROSBIE BECAME AGAIN A HAPPY MAN.",
+			"val": 0.04023809523809524
+		},
+		{
+			"chap": "LILIAN DALE VANQUISHES HER MOTHER.",
+			"val": 0.05004118616144975
+		},
+		{
+			"chap": "THE FATE OF THE SMALL HOUSE.",
+			"val": 0.044913306872780445
+		},
+		{
+			"chap": "JOHN EAMES BECOMES A MAN.",
+			"val": 0.03690386071158214
+		},
+		{
+			"chap": "CONCLUSION.",
+			"val": 0.042147042147042145
+		}],
+		"title": "Small_House"
+	},
+	{
+		"totalchap": 84,
+		"b": [{
+			"chap": "HOW DID HE GET IT?",
+			"val": 0.02892632295388804
+		},
+		{
+			"chap": "BY HEAVENS HE HAD BETTER NOT!",
+			"val": 0.03267211201866978
+		},
+		{
+			"chap": "THE ARCHDEACON'S THREAT.",
+			"val": 0.03502235469448584
+		},
+		{
+			"chap": "THE CLERGYMAN'S HOUSE AT HOGGLESTOCK.",
+			"val": 0.031227821149751596
+		},
+		{
+			"chap": "WHAT THE WORLD THOUGHT ABOUT IT.",
+			"val": 0.03184920376990575
+		},
+		{
+			"chap": "GRACE CRAWLEY.",
+			"val": 0.04125627206838878
+		},
+		{
+			"chap": "MISS PRETTYMAN'S PRIVATE ROOM.",
+			"val": 0.03819870334676713
+		},
+		{
+			"chap": "MR. CRAWLEY IS TAKEN TO SILVERBRIDGE.",
+			"val": 0.03125428375599726
+		},
+		{
+			"chap": "GRACE CRAWLEY GOES TO ALLINGTON.",
+			"val": 0.03499251497005988
+		},
+		{
+			"chap": "DINNER AT FRAMLEY COURT.",
+			"val": 0.03336541546358678
+		},
+		{
+			"chap": "THE BISHOP SENDS HIS INHIBITION.",
+			"val": 0.0267651130595293
+		},
+		{
+			"chap": "MR. CRAWLEY SEEKS FOR SYMPATHY.",
+			"val": 0.03455677183945052
+		},
+		{
+			"chap": "THE BISHOP'S ANGEL.",
+			"val": 0.032264449722882026
+		},
+		{
+			"chap": "MAJOR GRANTLY CONSULTS A FRIEND.",
+			"val": 0.034309096632042804
+		},
+		{
+			"chap": "UP IN LONDON.",
+			"val": 0.03578716057133888
+		},
+		{
+			"chap": "DOWN AT ALLINGTON.",
+			"val": 0.037107656204165444
+		},
+		{
+			"chap": "MR. CRAWLEY IS SUMMONED TO BARCHESTER.",
+			"val": 0.0283775447254781
+		},
+		{
+			"chap": "THE BISHOP OF BARCHESTER IS CRUSHED.",
+			"val": 0.026939243408482996
+		},
+		{
+			"chap": "WHERE DID IT COME FROM?",
+			"val": 0.04099888184867685
+		},
+		{
+			"chap": "WHAT MR. WALKER THOUGHT ABOUT IT.",
+			"val": 0.03769230769230769
+		},
+		{
+			"chap": "MR. ROBARTS ON HIS EMBASSY.",
+			"val": 0.042655164150491254
+		},
+		{
+			"chap": "MAJOR GRANTLY AT HOME.",
+			"val": 0.029417456938262046
+		},
+		{
+			"chap": "MISS LILY DALE'S RESOLUTION.",
+			"val": 0.04113614103819784
+		},
+		{
+			"chap": "MRS. DOBBS BROUGHTON'S DINNER-PARTY.",
+			"val": 0.03630054717736554
+		},
+		{
+			"chap": "MISS MADALINA DEMOLINES.",
+			"val": 0.04642046626779451
+		},
+		{
+			"chap": "THE PICTURE.",
+			"val": 0.04490717511289513
+		},
+		{
+			"chap": "A HERO AT HOME.",
+			"val": 0.03301557777261102
+		},
+		{
+			"chap": "SHOWING HOW MAJOR GRANTLY TOOK A WALK.",
+			"val": 0.029744346116027533
+		},
+		{
+			"chap": "MISS LILY DALE'S LOGIC.",
+			"val": 0.03876221498371336
+		},
+		{
+			"chap": "SHOWING WHAT MAJOR GRANTLY DID AFTER HIS WALK.",
+			"val": 0.04883720930232558
+		},
+		{
+			"chap": "SHOWING HOW MAJOR GRANTLY RETURNED TO GUESTWICK.",
+			"val": 0.039949431099873575
+		},
+		{
+			"chap": "MR. TOOGOOD.",
+			"val": 0.03955231989568619
+		},
+		{
+			"chap": "THE PLUMSTEAD FOXES.",
+			"val": 0.0392349190779794
+		},
+		{
+			"chap": "MRS. PROUDIE SENDS FOR HER LAWYER.",
+			"val": 0.039043105393816294
+		},
+		{
+			"chap": "LILY DALE WRITES TWO WORDS IN HER BOOK.",
+			"val": 0.040656942689789824
+		},
+		{
+			"chap": "GRACE CRAWLEY RETURNS HOME.",
+			"val": 0.04133333333333333
+		},
+		{
+			"chap": "HOOK COURT.",
+			"val": 0.033118279569892474
+		},
+		{
+			"chap": "JAEL.",
+			"val": 0.037622998263553926
+		},
+		{
+			"chap": "A NEW FLIRTATION.",
+			"val": 0.03668815071888944
+		},
+		{
+			"chap": "MR. TOOGOOD'S IDEAS ABOUT SOCIETY.",
+			"val": 0.040946745562130175
+		},
+		{
+			"chap": "GRACE CRAWLEY AT HOME.",
+			"val": 0.03677298311444653
+		},
+		{
+			"chap": "MR. TOOGOOD TRAVELS PROFESSIONALLY.",
+			"val": 0.03683566671197499
+		},
+		{
+			"chap": "MR. CROSBIE GOES INTO THE CITY.",
+			"val": 0.03191094619666048
+		},
+		{
+			"chap": "I SUPPOSE I MUST LET YOU HAVE IT.",
+			"val": 0.03873517786561265
+		},
+		{
+			"chap": "LILY DALE GOES TO LONDON.",
+			"val": 0.033474277660324174
+		},
+		{
+			"chap": "THE BAYSWATER ROMANCE.",
+			"val": 0.04332206255283178
+		},
+		{
+			"chap": "DR. TEMPEST AT THE PALACE.",
+			"val": 0.03320746334962239
+		},
+		{
+			"chap": "THE SOFTNESS OF SIR RAFFLE BUFFLE.",
+			"val": 0.031314699792960664
+		},
+		{
+			"chap": "NEAR THE CLOSE.",
+			"val": 0.03723008190618019
+		},
+		{
+			"chap": "LADY LUFTON'S PROPOSITION.",
+			"val": 0.032780410742496054
+		},
+		{
+			"chap": "MRS. DOBBS BROUGHTON PILES HER FAGOTS.",
+			"val": 0.03526163885054587
+		},
+		{
+			"chap": "WHY DON'T YOU HAVE AN \"IT\" FOR YOURSELF?",
+			"val": 0.035804141668279464
+		},
+		{
+			"chap": "ROTTEN ROW.",
+			"val": 0.03397773872290568
+		},
+		{
+			"chap": "THE CLERICAL COMMISSION.",
+			"val": 0.04299025836509954
+		},
+		{
+			"chap": "FRAMLEY PARSONAGE.",
+			"val": 0.039093298291721416
+		},
+		{
+			"chap": "THE ARCHDEACON GOES TO FRAMLEY.",
+			"val": 0.033880218754168336
+		},
+		{
+			"chap": "A DOUBLE PLEDGE.",
+			"val": 0.03902894491129785
+		},
+		{
+			"chap": "THE CROSS-GRAINEDNESS OF MEN.",
+			"val": 0.038443359067275876
+		},
+		{
+			"chap": "A LADY PRESENTS HER COMPLIMENTS TO MISS L. D.",
+			"val": 0.03338533541341654
+		},
+		{
+			"chap": "THE END OF JAEL AND SISERA.",
+			"val": 0.030215168625057225
+		},
+		{
+			"chap": "IT'S DOGGED AS DOES IT.",
+			"val": 0.03413240196856644
+		},
+		{
+			"chap": "MR. CRAWLEY'S LETTER TO THE DEAN.",
+			"val": 0.034802043422733075
+		},
+		{
+			"chap": "TWO VISITORS TO HOGGLESTOCK.",
+			"val": 0.031678342978982636
+		},
+		{
+			"chap": "THE TRAGEDY IN HOOK COURT.",
+			"val": 0.03496503496503497
+		},
+		{
+			"chap": "MISS VAN SIEVER MAKES HER CHOICE.",
+			"val": 0.04245865218464576
+		},
+		{
+			"chap": "REQUIESCAT IN PACE.",
+			"val": 0.0300240192153723
+		},
+		{
+			"chap": "IN MEMORIAM.",
+			"val": 0.03555469205362347
+		},
+		{
+			"chap": "THE OBSTINACY OF MR. CRAWLEY.",
+			"val": 0.035809339462859906
+		},
+		{
+			"chap": "MR. CRAWLEY'S LAST APPEARANCE IN HIS OWN PULPIT.",
+			"val": 0.027844620144379512
+		},
+		{
+			"chap": "MRS. ARABIN IS CAUGHT.",
+			"val": 0.027366447985004688
+		},
+		{
+			"chap": "MR. TOOGOOD AT SILVERBRIDGE.",
+			"val": 0.03794342164346655
+		},
+		{
+			"chap": "MR. TOOGOOD AT THE DRAGON OF WANTLY.",
+			"val": 0.027439024390243903
+		},
+		{
+			"chap": "THERE IS COMFORT AT PLUMSTEAD.",
+			"val": 0.02930591259640103
+		},
+		{
+			"chap": "THE CRAWLEYS ARE INFORMED.",
+			"val": 0.029211295034079845
+		},
+		{
+			"chap": "MADALINA'S HEART IS BLEEDING.",
+			"val": 0.03807320151451409
+		},
+		{
+			"chap": "I THINK HE IS LIGHT OF HEART.",
+			"val": 0.0346574246867502
+		},
+		{
+			"chap": "THE SHATTERED TREE.",
+			"val": 0.040776699029126215
+		},
+		{
+			"chap": "THE ARABINS RETURN TO BARCHESTER.",
+			"val": 0.0381957773512476
+		},
+		{
+			"chap": "MR. CRAWLEY SPEAKS OF HIS COAT.",
+			"val": 0.036791006642820645
+		},
+		{
+			"chap": "MISS DEMOLINES DESIRES TO BECOME A FINGER-POST.",
+			"val": 0.036937647987371744
+		},
+		{
+			"chap": "BARCHESTER CLOISTERS.",
+			"val": 0.04158998895841001
+		},
+		{
+			"chap": "THE LAST SCENE AT HOGGLESTOCK.",
+			"val": 0.03325453112687155
+		},
+		{
+			"chap": "MR. CRAWLEY IS CONQUERED.",
+			"val": 0.036155202821869487
+		},
+		{
+			"chap": "CONCLUSION.",
+			"val": 0.028089887640449437
+		}],
+		"title": "Last_Chronicle"
 	}]
 }]

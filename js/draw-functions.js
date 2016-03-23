@@ -6,31 +6,35 @@ var barsetshireVis={
 			
 			d3.json("data/test.json", function(error,data){
 				
-				var bins = canvas.selectAll(".topicbins")
+				var binder = canvas.selectAll(".topicbins")
 							.data(data)
 							.enter()
-							.append("div")
+							;
+				
+				var names = binder.append("text")
+						.text(function(d){return d.topic;})
+						;
+				
+				
+				var bins = names.append("div")
 							.attr("class","topicbin")
 							;	
-				
-				var names=	bins.append("div").attr("class","namebin");
 							
 				var series=	bins.append("div").attr("class","seriesbin");
 				
-				var catscale=d3.scale.category10();
+				var catscale=d3.scale.category20b();
 							
 				var topicgrp = series.append("g")
 								.style("fill",function(d,i){
 									return catscale(i);
 								})
-								;
-								
+								;						
 							
 				var binwidth=$(".topicbin").width()
 					binheight=$(".topicbin").height()
-					namewidth=.05
+					namewidth=.02
 					seriesright=.05
-					allchapters=319.0
+					allchapters=313.0
 					;
 					
 				$(".seriesbin").width(binwidth*(1-namewidth));
@@ -50,7 +54,15 @@ var barsetshireVis={
 				var booksvg=books.append("svg")
 							.attr("class","booksvg")
 							;
-				var bookwidth=$('.booksvg').width();
+							
+				
+				booksvg.append("text")
+						.text(function(d){return d.title;})
+						.attr("text-anchor","middle")
+						.attr("y","20")
+						.attr("x", function(d){return d.totalchap*cellwidth/2.0;})
+						.attr("class","titletext")
+						;
 				
 				var chapters = booksvg.selectAll(".chapter")
 								.data(function(d){return d.b;})
@@ -58,13 +70,14 @@ var barsetshireVis={
 								.attr("class",function(d){return d.chap+" name";})
 								.attr("transform",function(d,i){
 									var xcoor = cellwidth*i
-										ycoor =	binheight/4.0;
+										ycoor =	binheight/6.0 + 10;
 									return "translate(" + xcoor +"," + ycoor + ")";
 								})
 								;
+				
 
 				var opacityScale = d3.scale.linear()
-								.domain([.2,.9])
+								.domain([0,.04])
 								.range([0,1])
 								;
 				
@@ -72,32 +85,36 @@ var barsetshireVis={
 					//.attr("x",function(d,i){return i;})
 					.attr("y",0)
 					.attr("width",cellwidth)
-					.attr("height",binheight/2)
+					.attr("height",binheight/1.5)
 					.style("opacity",function(d){return opacityScale(d.val);})
 					.on("mouseover",function(d){ 
-						d3.select("p")
+						d3.select(".chapterbox")
 							.append("text")
-							.text("chapter" + d.chap + ", freq:" + d.val)
+							.text(d.chap)
+							;
+						d3.select(".valuebox")
+							.append("text")
+							.text(d.val)
 							;
 					})
 					.on("mouseout", function(d){
-						d3.select("p text").remove()
+						d3.select(".chapterbox text").remove()
+						;
+						d3.select(".valuebox text").remove()
 						;
 					})
 					;
-								
-				
-				
-				var b1scale= d3.scale.linear()
-								.domain([1,6])
-								.range([0,bookwidth/6.0])
-								;
-								
-				/*bins.append("text")
-					.text(function(d){return d.topic;})
-					.attr("class","topiclabel")
-					;
-				*/
+				/*	
+				d3.selectAll("rect")
+					.style("opacity",function(d){
+						if (d.val<.01){
+							return 0;
+						}
+						else {
+							return 1;
+						}
+					})
+				*/				
 				
 			});
 		}
