@@ -1,35 +1,39 @@
-import os, re, nltk, json, sklearn
+import os, re, nltk, json, string
 from freqmetrics import *
+from nltk.corpus import stopwords
 
 #lengths of warde, barch, docto, framl, smallh, lastc
 chapter_lengths = [21,53,47,48,60,84]
+
 books = ["warde", "barch", "docto", "framl","smallh","lastc"]
 
-book_titles=["Warden", "Barchester_Towers","Doctor_Thorne",
-	"Framley_Parsonage","Small_House", "Last_Chronicle"]
-	
+book_titles=["Warden", "Barchester_Towers","Doctor_Thorne","Framley_Parsonage","Small_House", "Last_Chronicle"]
+
 chapter_titles = {}
 
 master_dict = []
+
+stop_words = set(stopwords.words("english"))
+
 
 
 def addTopic(tpc):
 	#Adds a new topic to the json array
 	newtpc = {'topic': tpc, 'books':[]}
 	master_dict.append(newtpc)
-	
+
 def addInfo(title, no_chaps,book):
 	#Adds title of book and number
 	# of chapters to the json
 	newbook = {'title': title, 'totalchap':no_chaps, 'b':[]}
 	book.append(newbook)
-	
+
 def addChap(title, value, book):
 	#Adds a new chapter title and value
 	# to each book
-	new = {'chap': title, 'val': value}
+	new = {'chap': string.capwords(title), 'val': value}
 	book.append(new)
-	
+
 def makeTitles(path_in, name, realtitle):
 	#Makes list of chapter titles
 	# puts them into a dictionary
@@ -44,8 +48,8 @@ def makeTitles(path_in, name, realtitle):
 		chapter_titles[name]["chapters"][line] = {}
 		chapter_titles[name]["chapters"][line]["index"] = index
 		index = index +1
-	
-	
+
+
 def numZero(num):
 	#Determines if end of file ends as
 	# 00x or 0xx
@@ -53,20 +57,28 @@ def numZero(num):
 		return "00"+str(num)
 	else:
 		return "0"+str(num)
-		
+
 def readChap(path_in, title, chap):
-	#Reads in the chapter, puts 
+	#Reads in the chapter, puts
 	# list of tokens in main dictionary
 	with open(path_in, "r") as infile:
 		text = infile.read().decode("utf-8")
-		tokens = nltk.word_tokenize(text)
+		alltokens = nltk.word_tokenize(text)
+		filtered = []
+		for tok in alltokens:
+			if tok in stop_words:
+				continue
+			if tok.isalnum() == False:
+				continue
+			else:
+				filtered.append(tok.lower())
 		#MAKE LOWER CASE
 		#tokens = tokenize[w.lower() for w in tokenize]
 		#return corpFreq(tokens,corp)
-		chapter_titles[title]["chapters"][chap]["tokens"]=tokens
+		chapter_titles[title]["chapters"][chap]["tokens"]=filtered
 
 def makeBookLists():
-	for b in range(len(books)):	
+	for b in range(len(books)):
 		path0 = "../chap-" + books[b]
 		book_path = path0 +"/Trollope_" + book_titles[b] + "_text_"
 		print book_path
@@ -81,7 +93,7 @@ def makeBookLists():
 			num = chapter_titles[title]["chapters"][c]["index"]
 			chap_path = book_path + numZero(num) + ".txt"
 			readChap(chap_path, title, c)
-			
+
 
 def genData(topic,j):
 	addTopic(topic)
@@ -95,7 +107,7 @@ def genData(topic,j):
 		addInfo(bookname,num, master_dict[j]['books'])
 		for i in range(num):
 			ind = i+1
-			#search for index 
+			#search for index
 			for dum in chapter_titles[title]['chapters']:
 				if chapter_titles[title]['chapters'][dum]['index'] == ind:
 					#print chapter_titles[title]['chapters'][dum]['index']
@@ -107,18 +119,30 @@ def genData(topic,j):
 					break
 				else:
 					mast_index=mast_index+1
-			#print mast_index	
+			#print mast_index
 			toklst = chapter_titles[title]['chapters'][chaptertok]['tokens']
 			value = chapFreq(toklst, allcorps[topic])
-				
+
 			addChap(chaptertok, value, master_dict[j]['books'][mast_index]['b'])
-			
-	
-		
+
+
+
 makeBookLists()
-for i in range(len(allcorps)):			
+for i in range(len(allcorps)):
 	genData(allcorps.keys()[i],i)
 
+maxval = 0.0
+minval = 1.0
+for tpc in master_dict:
+	for bks in tpc['books']:
+		for chp in bks['b']:
+			compare = chp['val']
+			if compare > maxval:
+				maxval=compare
+			if compare < minval:
+				minval = compare
+
+print "maxval:", maxval,"-------minval: ",minval
 
 #print master_dict
 
