@@ -34,14 +34,12 @@ allcorps = {
 		"mamma","gentleman","lady","wife","husband","children","family",
 		"girl","boy","marry","married","marriage","child"
 		],
-	"Class and Profession": ['archdeacon', 'bishop', 'dr', 'friend', 'old', 'wife', 
+	"Class": ['archdeacon', 'bishop', 'dr', 'friend', 'old', 'wife', 
 		'church', 'poor', 'income', 'doctor', 'woman', 'men', 'money', 'dean', 'lord', 'squire', 'family', 'lady', 'public', 'pounds', 'husband', 'rate', 'brother', 'clergyman', 'precentor', 'st', 'alone', 'declared', 'duty', 'palace', 'london', 'power', 'girl', 'carriage', 'gentleman', 'widow', 'lordship', 'children', 'ladies', 'married', 'attorney-general', 'appointment', 'opinion', 'lawyer', 'property', 'business', 'justice', 'service', 'oxford', 'pay', 'england', 'rich', 'bedesmen', 'wardenship'
 		],
-	"Time": ['time', 'year', 'always', 'moment', 'present', 'soon', 'till', 'morning', 'while', 'hour', 'days', 'age', 'evening', 'late','early','night','day','nights','now'
+	"Writing": ['letter', 'write', 'read', 'written', 'letters', 'note', 'wrote', 'writing', 'received', 'table', 'paper', 'send', 'answer', 'return', 'handed', 'desk', 'pen', 'addressed', 'think', 'tell', 'word', 'thinking', 'thought', 'words', 'To', 'receive'
 	],
 	"Concepts": ['nothing', 'love', 'world', 'heart', 'life', 'money', 'place', 'poor', 'wish', 'home', 'doubt', 'hope', 'happy', 'together', 'things', 'best', 'idea', 'truth', 'quiet', 'duty', 'comfort', 'power', 'impossible', 'live', 'possible', 'law', 'order', 'conduct', 'occasion', 'circumstances', 'fact', 'loved', 'feelings', 'nature', 'evil', 'justice', 'character', 'strong', 'charity', 'believe', 'promise', 'angry', 'rich', 'sorrow'
-	],
-	"Conflict": ['no', "n't", 'never', 'nothing', 'however', 'against', 'nor', 'wrong', 'petition', 'impossible', 'evil', 'fear'
 	],
 	"Talking": ['can', 'say', 'though', 'other', 'thought', 'without', 'only', 'also', 'felt', 'why', 'question', 'whether', 'understand', 'idea', 'truth', 'answer', 'declared', 'power', 'angry', 'Bold', 'ask', 'known', 'know', 'bear', 'duty', 'knows', 'opinion', 'care', 'possible', 'lawyer', 'law', 'probably', 'nearly', 'order', 'conduct', 'feelings', 'advice', 'allow', 'justice', 'duties'
 	],

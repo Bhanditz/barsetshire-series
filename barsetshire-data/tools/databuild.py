@@ -144,12 +144,18 @@ for tpc in master_dict:
 
 print "maxval:", maxval,"-------minval: ",minval
 
+
+#write this to js file
+visvalues = { 'minval': minval, 'maxval': maxval, 'totalchaps': sum(chapter_lengths)}
+
 #print master_dict
 
 #for i in master_dict[0]['books'][0]['b']:
 #	print i
 
 
-with open("../vis-data/data.json","w") as outfile:
+with open("../../data/data.json","w") as outfile:
 	dummy = json.dumps(master_dict)
 	outfile.write(dummy)
+
+	
