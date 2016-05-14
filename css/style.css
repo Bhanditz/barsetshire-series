@@ -2,7 +2,7 @@ body {
 	background-color: #F7F597;
 	height:1290px;
 	margin-top: 20px;
-	zoom:100%;
+
 }
 
 
@@ -15,7 +15,7 @@ body {
 #vis {
 	font-family: 'PT Sans', sans-serif;
 	position: relative;
-	width: 1550px;
+	width:1550px;
 	margin-top: 60px;
 }
 
@@ -61,10 +61,10 @@ header .row {
 	float: left;
 	display: inline-block;
 	transform-origin: left;
-	-ms-transform: translate(60px,30px) rotate(-90deg); 
+	-ms-transform: translate(60px,30px) rotate(-90deg);
     -webkit-transform: translate(60px,30px) rotate(-90deg);
     transform: translate(60px,30px) rotate(-90deg)  ;
-	
+
 }
 
 .topicbin {
@@ -75,7 +75,7 @@ header .row {
 	float: left;
 	border: 1px solid black;
 	}
-	
+
 .namebin {
 	position:relative;
 	float: left;
@@ -94,28 +94,27 @@ header .row {
 	position:relative;
 	height: 100%;
 	float:left;
-	margin-right:7px; 
+	margin-right:7px;
 	/* margin-top: -2px;  */
 }
 
 .titletext{
 	fill: black;
 }
-	
+
 .booksvg {
 	width: 100%;
 	height: 100%;
 }
 
-	
+
 .topiclabel {
 	position:relative;
 	top: 50%;
 	left:0%;
 	}
-	
+
 rect {
 	/* fill: #8d0cad; */
 	fill: #0036DD;
 }
-	

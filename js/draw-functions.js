@@ -3,7 +3,7 @@ var barsetshireVis = {
     draw: function(filename, minval, maxval, allchapters) {
         var vis = d3.select("#body");
         var canvas = vis.select("#vis");
-		
+
 
 
         d3.json(filename, function(error, data) {
@@ -43,6 +43,8 @@ var barsetshireVis = {
                 namewidth = .02,
                 seriesright = .05
 				;
+
+        console.log(binwidth);
 
             $(".seriesbin").width(binwidth * (1 - namewidth));
 
@@ -91,6 +93,7 @@ var barsetshireVis = {
                 .range([0, 1]);
 
             chapters.append("rect")
+            /*
                 .attr("class", function(d) {
                     var badchars = [",", ".", "!", "?", "-"]
                     var temp = d.chap;
@@ -101,6 +104,7 @@ var barsetshireVis = {
                     }
                     return name;
                 })
+              */
                 //.attr("x",function(d,i){return i;})
                 .attr("y", function(d) {
                     return binheight / 6.0;
