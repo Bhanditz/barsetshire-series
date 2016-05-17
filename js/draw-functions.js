@@ -1,6 +1,6 @@
 var barsetshireVis = {
 
-    draw: function(filename, minval, maxval, allchapters) {
+    draw: function(filename, minval, maxval, allchapters, allbooks) {
         var vis = d3.select("#body");
         var canvas = vis.select("#vis");
 
@@ -40,15 +40,13 @@ var barsetshireVis = {
 
             var binwidth = $(".topicbin").width(),
                 binheight = $(".topicbin").height(),
-                namewidth = .02,
-                seriesright = .05
-				;
+                gutterpercent = .05,
+                gutter = gutterpercent * binwidth,
+                gutterwidth = gutter / (allbooks + 1);
 
-        console.log(binwidth);
+            $(".seriesbin").css("margin-left", gutterwidth);
 
-            $(".seriesbin").width(binwidth * (1 - namewidth));
-
-            var cellwidth = ($(".seriesbin").width() / allchapters) * .97;
+            var cellwidth = ($(".seriesbin").width() * (1 - gutterpercent)) / allchapters;
 
 
             var books = topicgrp.selectAll(".books")
@@ -60,7 +58,8 @@ var barsetshireVis = {
                 .attr("class", "bookbin")
                 .style("width", function(d) {
                     return cellwidth * d.totalchap + "px";
-                });
+                })
+                .style("margin-right", gutterwidth + "px");
 
             var booksvg = books.append("svg")
                 .attr("class", "booksvg");
@@ -93,19 +92,6 @@ var barsetshireVis = {
                 .range([0, 1]);
 
             chapters.append("rect")
-            /*
-                .attr("class", function(d) {
-                    var badchars = [",", ".", "!", "?", "-"]
-                    var temp = d.chap;
-                    var lst = temp.split(" ");
-                    var name = "";
-                    for (x in lst) {
-                        name += lst[x];
-                    }
-                    return name;
-                })
-              */
-                //.attr("x",function(d,i){return i;})
                 .attr("y", function(d) {
                     return binheight / 6.0;
                 })
@@ -142,18 +128,6 @@ var barsetshireVis = {
 
                 		}) */
             ;
-            /*
-            d3.selectAll("rect")
-            	.style("opacity",function(d){
-            		if (d.val<.01){
-            			return 0;
-            		}
-            		else {
-            			return 1;
-            		}
-            	})
-            */
-
         });
     },
 
