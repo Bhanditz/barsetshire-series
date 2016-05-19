@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Barsetshire Chronicles
 ## Visualizing word frequencies across a book series
 
