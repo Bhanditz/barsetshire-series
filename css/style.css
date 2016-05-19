@@ -11,6 +11,10 @@ body {
 	font-size: 1.1em;
 	}
 
+#pic {
+	margin-top: 60px;
+}
+
 #vis {
 	font-family: 'PT Sans', sans-serif;
 	position: relative;
@@ -116,4 +120,14 @@ header .row {
 rect {
 	/* fill: #8d0cad; */
 	fill: #0036DD;
+}
+
+@media (min-width:786px) {
+	#pic {display: none;}
+}
+
+@media (max-width: 786px) {
+	#body {display: none;}
+	#info-foot {display: none;}
+	.btn {display: none;}
 }
