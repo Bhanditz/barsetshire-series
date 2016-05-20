@@ -122,7 +122,7 @@ rect {
 	fill: #0036DD;
 }
 
-@media (min-width:786px) {
+@media (min-width: 786px) {
 	#pic {display: none;}
 }
 
